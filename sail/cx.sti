@@ -1,0 +1,8 @@
+x <c>clib
+l cx
+l <c.cmp>c5
+l <c.cmp>c93
+l <c.lib>c20exc
+l <c.lib>c20hak
+l <c.lib>pr60th
+o cx.exe

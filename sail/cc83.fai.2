@@ -1,0 +1,935 @@
+	TITLE	cc83
+	OPDEF	ADJBP [IBP]
+	.LIBRARY CLIB[cc,kc]
+	EXTERN	.START
+gterna:
+	ADJSP	17,7
+	PUSHJ	17,getlab
+	MOVEM	0,-6(17)
+	PUSHJ	17,getlab
+	MOVEM	0,-5(17)
+	SETZ	2,
+	PUSH	17,2
+	PUSH	17,-7(17)
+	MOVE	5,-12(17)
+	MOVE	3,3(5)
+	PUSH	17,3
+	PUSHJ	17,gboole
+	ADJSP	17,-3
+	MOVE	3,-10(17)
+	MOVE	2,4(3)
+	MOVEM	2,-10(17)
+	MOVE	3,-10(17)
+	MOVE	2,3(3)
+	PUSH	17,2
+	PUSHJ	17,genstm
+	ADJSP	17,-1
+	MOVEM	0,-4(17)
+	MOVEM	0,-2(17)
+	MOVE	3,optimi
+	MOVEM	3,(17)
+	SETZB	2,optimi
+	PUSH	17,-4(17)
+	PUSHJ	17,releas
+	ADJSP	17,-1
+	MOVE	3,(17)
+	MOVEM	3,optimi
+	MOVE	4,-2(17)
+	CAIGE	4,20
+	JRST	$1
+	MOVEI	5,regis
+	ADD	5,-2(17)
+	MOVE	6,(5)
+	MOVEM	6,-2(17)
+$1::
+	PUSH	17,-5(17)
+	SETZ	2,
+	PUSH	17,2
+	PUSH	17,[56]
+	PUSHJ	17,code6
+	ADJSP	17,-3
+	PUSH	17,-6(17)
+	PUSHJ	17,outlab
+	ADJSP	17,-1
+	MOVE	3,-10(17)
+	MOVE	2,4(3)
+	PUSH	17,2
+	PUSHJ	17,genstm
+	ADJSP	17,-1
+	MOVEM	0,-3(17)
+	MOVEM	0,-1(17)
+	MOVE	3,-1(17)
+	CAIGE	3,20
+	JRST	$2
+	MOVEI	4,regis
+	ADD	4,-1(17)
+	MOVE	5,(4)
+	MOVEM	5,-1(17)
+$2::
+	MOVE	7,-2(17)
+	CAMN	7,-1(17)
+	JRST	$3
+	PUSH	17,-3(17)
+	PUSH	17,-5(17)
+	PUSHJ	17,change
+	ADJSP	17,-2
+	MOVE	3,-2(17)
+	JUMPE	3,$4
+	MOVEI	2,1
+	MOVEI	3,regis
+	ADD	3,-2(17)
+	MOVEM	2,(3)
+$4::
+	PUSH	17,-3(17)
+	PUSHJ	17,releas
+	ADJSP	17,-1
+	JRST	$5
+$3::
+	MOVE	3,-1(17)
+	JUMPN	3,$6
+	PUSH	17,-3(17)
+	PUSHJ	17,releas
+	ADJSP	17,-1
+$6::
+$5::
+	PUSH	17,-5(17)
+	PUSHJ	17,outlab
+	ADJSP	17,-1
+	MOVE	3,-2(17)
+	JUMPN	3,$7
+	PUSH	17,[0]
+	PUSHJ	17,flushc
+	ADJSP	17,-1
+	PUSHJ	17,getzer
+	MOVEM	0,-4(17)
+$7::
+	MOVE	0,-4(17)
+	ADJSP	17,-7
+	POPJ	17,
+	ADJSP	17,-7
+	POPJ	17,
+gensho:
+	ADJSP	17,3
+	MOVEI	2,1
+	MOVEI	3,tok
+	MOVE	4,@-4(17)
+	IMULI	4,2
+	ADD	3,4
+	MOVE	5,(3)
+	MOVEM	5,-2(17)
+	CAIE	5,11
+	SETZ	2,
+	JUMPN	2,$11
+	MOVEI	7,1
+	MOVE	11,-2(17)
+	CAIE	11,12
+	SETZ	7,
+	JUMPE	7,$10
+$11::
+	PUSH	17,-7(17)
+	PUSH	17,-7(17)
+	PUSH	17,-6(17)
+	PUSHJ	17,gboole
+	ADJSP	17,-3
+	JRST	$12
+$10::
+	PUSH	17,-4(17)
+	PUSHJ	17,genstm
+	ADJSP	17,-1
+	MOVEM	0,-1(17)
+	PUSH	17,-6(17)
+	PUSH	17,-2(17)
+	PUSH	17,-7(17)
+	PUSHJ	17,code6
+	ADJSP	17,-3
+	PUSH	17,-1(17)
+	PUSHJ	17,releas
+	ADJSP	17,-1
+$12::
+	ADJSP	17,-3
+	POPJ	17,
+gboole:
+	ADJSP	17,5
+	MOVE	2,@-6(17)
+	MOVE	3,2
+	IDIVI	3,16
+	MOVM	4,4
+	CAME	2,$26(4)
+	JRST	$25
+	JRST	@$27(4)
+$26::
+	-1
+	-1
+	-1
+	3
+	-1
+	23
+	-1
+	25
+	116
+	117
+	120
+	121
+	122
+	123
+$27::
+	$25
+	$25
+	$25
+	$14
+	$25
+	$22
+	$25
+	$23
+	$15
+	$16
+	$24
+	$20
+	$21
+	$17
+$14::
+	MOVE	3,-6(17)
+	MOVE	2,3(3)
+	PUSH	17,2
+	PUSHJ	17,genstm
+	ADJSP	17,-1
+	MOVEM	0,-4(17)
+	MOVE	3,-10(17)
+	JUMPE	3,$30
+	MOVEI	2,116
+	JRST	$31
+$30::
+	MOVEI	2,117
+$31::
+	MOVEM	2,-2(17)
+	PUSH	17,-7(17)
+	PUSH	17,-5(17)
+	PUSH	17,-4(17)
+	PUSHJ	17,code6
+	ADJSP	17,-3
+	PUSH	17,-4(17)
+	PUSHJ	17,releas
+	ADJSP	17,-1
+	JRST	$13
+$15::
+	MOVE	3,-6(17)
+	MOVE	2,3(3)
+	MOVE	4,(2)
+	MOVEM	4,-2(17)
+	MOVEI	5,1
+	MOVE	7,-2(17)
+	CAIN	7,3
+	JRST	$34
+	MOVE	11,-2(17)
+	CAIN	11,116
+	JRST	$34
+	SETZ	5,
+$34::
+	JUMPN	5,$33
+	MOVEI	12,1
+	MOVE	14,-2(17)
+	CAIE	14,117
+	SETZ	12,
+	JUMPE	12,$32
+$33::
+	PUSH	17,-10(17)
+	PUSH	17,-10(17)
+	MOVE	5,-10(17)
+	MOVE	2,3(5)
+	PUSH	17,2
+	PUSHJ	17,gboole
+	ADJSP	17,-3
+	PUSH	17,-10(17)
+	PUSH	17,-10(17)
+	MOVE	5,-10(17)
+	MOVE	2,4(5)
+	PUSH	17,2
+	PUSHJ	17,gboole
+	ADJSP	17,-3
+	JRST	$35
+$32::
+	MOVE	3,-6(17)
+	MOVE	2,3(3)
+	PUSH	17,2
+	PUSHJ	17,genstm
+	ADJSP	17,-1
+	MOVEM	0,-4(17)
+	MOVE	3,-10(17)
+	JUMPE	3,$36
+	MOVEI	2,117
+	JRST	$37
+$36::
+	MOVEI	2,116
+$37::
+	MOVEM	2,-2(17)
+	MOVE	5,-10(17)
+	JUMPE	5,$40
+	PUSHJ	17,getlab
+	JRST	$41
+$40::
+	MOVE	0,-7(17)
+$41::
+	MOVEM	0,-3(17)
+	PUSH	17,-3(17)
+	PUSH	17,-5(17)
+	PUSH	17,[116]
+	PUSHJ	17,code6
+	ADJSP	17,-3
+	PUSH	17,-4(17)
+	PUSHJ	17,releas
+	ADJSP	17,-1
+	PUSH	17,-10(17)
+	PUSH	17,-10(17)
+	MOVE	2,@-10(17)
+	PUSH	17,2
+	MOVE	6,-11(17)
+	MOVE	5,4(6)
+	PUSH	17,5
+	PUSHJ	17,gensho
+	ADJSP	17,-4
+	MOVE	3,-10(17)
+	JUMPE	3,$42
+	PUSH	17,-3(17)
+	PUSHJ	17,outlab
+	ADJSP	17,-1
+$42::
+$35::
+	JRST	$13
+$16::
+	MOVE	3,-10(17)
+	JUMPE	3,$43
+	MOVE	3,-7(17)
+	JRST	$44
+$43::
+	PUSHJ	17,getlab
+	MOVE	3,0
+$44::
+	MOVEM	3,-3(17)
+	MOVE	4,-10(17)
+	JUMPE	4,$45
+	MOVEI	2,117
+	JRST	$46
+$45::
+	MOVEI	2,116
+$46::
+	MOVEM	2,-2(17)
+	MOVE	3,-6(17)
+	MOVE	2,3(3)
+	PUSH	17,2
+	PUSHJ	17,genstm
+	ADJSP	17,-1
+	MOVEM	0,-4(17)
+	PUSH	17,-3(17)
+	PUSH	17,-5(17)
+	PUSH	17,[117]
+	PUSHJ	17,code6
+	ADJSP	17,-3
+	PUSH	17,-4(17)
+	PUSHJ	17,releas
+	ADJSP	17,-1
+	MOVE	3,-6(17)
+	MOVE	2,4(3)
+	PUSH	17,2
+	PUSHJ	17,genstm
+	ADJSP	17,-1
+	MOVEM	0,-4(17)
+	PUSH	17,-7(17)
+	PUSH	17,-5(17)
+	PUSH	17,-4(17)
+	PUSHJ	17,code6
+	ADJSP	17,-3
+	PUSH	17,-4(17)
+	PUSHJ	17,releas
+	ADJSP	17,-1
+	MOVE	3,-10(17)
+	JUMPN	3,$47
+	PUSH	17,-3(17)
+	PUSHJ	17,outlab
+	ADJSP	17,-1
+$47::
+	JRST	$13
+$17::
+$20::
+$21::
+$22::
+$23::
+$24::
+	PUSH	17,-10(17)
+	PUSH	17,-7(17)
+	PUSHJ	17,gboolo
+	ADJSP	17,-2
+	PUSH	17,-7(17)
+	SETZ	2,
+	PUSH	17,2
+	PUSH	17,[56]
+	PUSHJ	17,code6
+	ADJSP	17,-3
+	JRST	$13
+$25::
+	MOVE	2,@-6(17)
+	CAIE	2,134
+	JRST	$50
+	MOVE	5,-6(17)
+	MOVE	4,3(5)
+	MOVEM	4,-2(17)
+	SETZ	6,
+	MOVE	10,-2(17)
+	JUMPN	10,$53
+	MOVE	11,-10(17)
+	JUMPN	11,$53
+	MOVEI	6,1
+$53::
+	JUMPN	6,$52
+	SETZ	7,
+	MOVE	13,-2(17)
+	JUMPE	13,$54
+	MOVE	3,-10(17)
+	JUMPE	3,$54
+	MOVEI	7,1
+$54::
+	JUMPE	7,$51
+$52::
+	PUSH	17,-7(17)
+	SETZ	2,
+	PUSH	17,2
+	PUSH	17,[56]
+	PUSHJ	17,code6
+	ADJSP	17,-3
+$51::
+	ADJSP	17,-5
+	POPJ	17,
+$50::
+	PUSH	17,-6(17)
+	PUSHJ	17,genstm
+	ADJSP	17,-1
+	MOVEM	0,-4(17)
+	MOVE	3,-10(17)
+	JUMPE	3,$55
+	MOVEI	2,117
+	JRST	$56
+$55::
+	MOVEI	2,116
+$56::
+	MOVEM	2,-2(17)
+	PUSH	17,-7(17)
+	PUSH	17,-5(17)
+	PUSH	17,-4(17)
+	PUSHJ	17,code6
+	ADJSP	17,-3
+	PUSH	17,-4(17)
+	PUSHJ	17,releas
+	ADJSP	17,-1
+	PUSH	17,[0]
+	PUSHJ	17,flushc
+	ADJSP	17,-1
+	JRST	$13
+$13::
+	ADJSP	17,-5
+	POPJ	17,
+gboolo:
+	ADJSP	17,4
+	MOVE	3,-5(17)
+	MOVE	2,3(3)
+	PUSH	17,2
+	PUSHJ	17,genstm
+	ADJSP	17,-1
+	MOVEM	0,-2(17)
+	MOVE	3,-5(17)
+	MOVE	2,4(3)
+	PUSH	17,2
+	PUSHJ	17,genstm
+	ADJSP	17,-1
+	MOVEM	0,-1(17)
+	MOVE	2,@-5(17)
+	MOVEM	2,-3(17)
+	MOVE	4,-6(17)
+	JUMPE	4,$57
+	PUSH	17,-3(17)
+	PUSHJ	17,revop
+	ADJSP	17,-1
+	MOVEM	0,-3(17)
+$57::
+	MOVE	3,previo
+	MOVEM	3,(17)
+	JUMPE	3,$60
+	MOVEI	4,1
+	MOVE	5,@0(17)
+	CAIE	5,1
+	SETZ	4,
+	JUMPE	4,$61
+	MOVE	10,(17)
+	MOVE	7,1(10)
+	CAIE	7,27
+	JRST	$61
+	MOVE	13,(17)
+	MOVE	12,2(13)
+	CAME	12,-1(17)
+	JRST	$61
+	MOVE	15,-3(17)
+	MOVE	2,(17)
+	MOVEM	15,1(2)
+	MOVE	5,-2(17)
+	MOVE	6,(17)
+	MOVEM	5,2(6)
+	JRST	$62
+$61::
+	MOVEI	3,1
+	MOVE	4,(17)
+	MOVE	7,1(4)
+	CAIE	7,2
+	SETZ	3,
+	JUMPE	3,$63
+	MOVE	11,@0(17)
+	CAIE	11,11
+	JRST	$63
+	MOVE	14,(17)
+	MOVE	13,2(14)
+	CAME	13,-1(17)
+	JRST	$63
+	MOVEI	2,3
+	MOVEM	2,@0(17)
+	MOVEI	5,27
+	MOVE	15,(17)
+	MOVEM	5,1(15)
+	SETZ	6,
+	MOVE	4,(17)
+	MOVEM	6,4(4)
+$63::
+	MOVEI	3,1
+	MOVE	7,@0(17)
+	CAIE	7,3
+	SETZ	3,
+	JUMPE	3,$64
+	MOVE	12,(17)
+	MOVE	11,2(12)
+	CAME	11,-1(17)
+	JRST	$64
+	MOVEI	2,20
+	MOVEM	2,@0(17)
+	PUSH	17,-3(17)
+	PUSHJ	17,immedo
+	ADJSP	17,-1
+	MOVE	3,(17)
+	MOVEM	0,1(3)
+	MOVE	4,-2(17)
+	MOVE	5,(17)
+	MOVEM	4,2(5)
+	JRST	$65
+$64::
+	PUSH	17,-1(17)
+	PUSH	17,-3(17)
+	PUSH	17,-5(17)
+	PUSHJ	17,code0
+	ADJSP	17,-3
+$65::
+$62::
+	PUSH	17,-2(17)
+	PUSHJ	17,releas
+	ADJSP	17,-1
+	PUSH	17,-1(17)
+	PUSHJ	17,releas
+	ADJSP	17,-5
+	POPJ	17,
+$60::
+	PUSH	17,-1(17)
+	PUSH	17,-3(17)
+	PUSH	17,-5(17)
+	PUSHJ	17,code0
+	ADJSP	17,-3
+	PUSH	17,-1(17)
+	PUSHJ	17,releas
+	ADJSP	17,-1
+	PUSH	17,-2(17)
+	PUSHJ	17,releas
+	ADJSP	17,-5
+	POPJ	17,
+revop:
+	MOVE	3,-1(17)
+	MOVE	4,3
+	IDIVI	4,13
+	MOVM	5,5
+	CAME	3,$75(5)
+	JRST	$66
+	JRST	@$76(5)
+$75::
+	-1
+	-1
+	-1
+	120
+	121
+	122
+	123
+	-1
+	23
+	-1
+	25
+$76::
+	$66
+	$66
+	$66
+	$70
+	$73
+	$72
+	$67
+	$66
+	$71
+	$66
+	$74
+$67::
+	MOVEI	0,120
+	POPJ	17,
+$70::
+	MOVEI	0,123
+	POPJ	17,
+$71::
+	MOVEI	0,122
+	POPJ	17,
+$72::
+	MOVEI	0,23
+	POPJ	17,
+$73::
+	MOVEI	0,25
+	POPJ	17,
+$74::
+	MOVEI	0,121
+	POPJ	17,
+$66::
+	POPJ	17,
+immedo:
+	MOVE	3,-1(17)
+	MOVE	4,3
+	IDIVI	4,13
+	MOVM	5,5
+	CAME	3,$106(5)
+	JRST	$77
+	JRST	@$107(5)
+$106::
+	-1
+	-1
+	-1
+	120
+	121
+	122
+	123
+	-1
+	23
+	-1
+	25
+$107::
+	$77
+	$77
+	$77
+	$101
+	$104
+	$103
+	$100
+	$77
+	$102
+	$77
+	$105
+$100::
+	MOVEI	0,50
+	POPJ	17,
+$101::
+	MOVEI	0,53
+	POPJ	17,
+$102::
+	MOVEI	0,52
+	POPJ	17,
+$103::
+	MOVEI	0,55
+	POPJ	17,
+$104::
+	MOVEI	0,54
+	POPJ	17,
+$105::
+	MOVEI	0,51
+	POPJ	17,
+$77::
+	POPJ	17,
+direct:
+	MOVE	2,-1(17)
+	SUBI	2,50
+	JUMPL	2,$110
+	CAIL	2,6
+	JRST	$110
+	JRST	@$117(2)
+$117::
+	$111
+	$114
+	$113
+	$112
+	$115
+	$116
+$111::
+	MOVEI	0,123
+	POPJ	17,
+$112::
+	MOVEI	0,120
+	POPJ	17,
+$113::
+	MOVEI	0,23
+	POPJ	17,
+$114::
+	MOVEI	0,25
+	POPJ	17,
+$115::
+	MOVEI	0,121
+	POPJ	17,
+$116::
+	MOVEI	0,122
+	POPJ	17,
+$110::
+	POPJ	17,
+coerce:
+	ADJSP	17,3
+	MOVE	3,-4(17)
+	MOVE	2,4(3)
+	MOVE	4,2
+	JUMPL	4,$125
+	CAIL	4,5
+	JRST	$125
+	JRST	@$126(4)
+$126::
+	$125
+	$124
+	$121
+	$122
+	$123
+$121::
+	MOVE	3,-4(17)
+	MOVE	2,3(3)
+	PUSH	17,2
+	PUSHJ	17,genstm
+	ADJSP	17,-1
+	MOVE	0,0
+	ADJSP	17,-3
+	POPJ	17,
+$122::
+	MOVE	3,-4(17)
+	MOVE	2,3(3)
+	PUSH	17,2
+	PUSHJ	17,genstm
+	ADJSP	17,-1
+	MOVEM	0,-2(17)
+	SETZ	2,
+	PUSH	17,2
+	PUSH	17,-3(17)
+	PUSHJ	17,pitopc
+	ADJSP	17,-2
+	MOVE	0,-2(17)
+	ADJSP	17,-3
+	POPJ	17,
+$123::
+	MOVE	3,-4(17)
+	MOVE	2,3(3)
+	PUSH	17,2
+	PUSHJ	17,genstm
+	ADJSP	17,-1
+	MOVEM	0,-2(17)
+	PUSH	17,-2(17)
+	PUSHJ	17,pctopi
+	ADJSP	17,-1
+	MOVE	0,-2(17)
+	ADJSP	17,-3
+	POPJ	17,
+$124::
+	MOVEI	2,4
+	MOVEI	3,1
+	JUMPE	2,.+2
+	SETZ	3,
+	MOVEM	3,(3)
+	JUMPE	3,$127
+	MOVE	2,$130
+	PUSH	17,2
+	PUSH	17,stderr
+	PUSHJ	17,fprint
+	ADJSP	17,-2
+$127::
+	MOVE	3,-4(17)
+	MOVE	2,3(3)
+	PUSH	17,2
+	PUSHJ	17,genstm
+	ADJSP	17,-1
+	MOVEM	0,-2(17)
+	PUSHJ	17,getreg
+	MOVEM	0,-1(17)
+	MOVE	3,optimi
+	MOVEM	3,(17)
+	SETZB	2,optimi
+	MOVE	6,codese
+	JUMPN	6,$131
+	PUSH	17,-2(17)
+	PUSH	17,-2(17)
+	PUSH	17,[10]
+	PUSHJ	17,code0
+	ADJSP	17,-3
+	PUSH	17,[2]
+	PUSH	17,-2(17)
+	PUSH	17,[141]
+	PUSHJ	17,code8
+	ADJSP	17,-3
+	PUSH	17,[3]
+	PUSH	17,-3(17)
+	PUSH	17,[140]
+	PUSHJ	17,code8
+	ADJSP	17,-3
+	PUSH	17,[3]
+	PUSH	17,-3(17)
+	PUSH	17,[7]
+	PUSHJ	17,code1
+	ADJSP	17,-3
+	MOVE	3,(17)
+	MOVEM	3,optimi
+	PUSH	17,-2(17)
+	PUSH	17,-2(17)
+	PUSH	17,[16]
+	PUSHJ	17,code0
+	ADJSP	17,-3
+	JRST	$132
+$131::
+	MOVE	3,-2(17)
+	CAIG	3,17
+	JRST	$133
+	MOVEI	4,regis
+	ADD	4,-2(17)
+	MOVE	5,(4)
+	JRST	$134
+$133::
+	MOVE	5,-2(17)
+$134::
+	ADD	5,[331100000000]
+	PUSH	17,5
+	PUSH	17,-2(17)
+	PUSH	17,[41]
+	PUSHJ	17,code1
+	ADJSP	17,-3
+	PUSH	17,[70]
+	PUSH	17,-2(17)
+	PUSH	17,[16]
+	PUSHJ	17,code1
+	ADJSP	17,-3
+	PUSH	17,[770000]
+	PUSH	17,-3(17)
+	PUSH	17,[47]
+	PUSHJ	17,code8
+	ADJSP	17,-3
+	PUSH	17,[2]
+	PUSH	17,-3(17)
+	PUSH	17,[141]
+	PUSHJ	17,code8
+	ADJSP	17,-3
+	MOVE	3,(17)
+	MOVEM	3,optimi
+	PUSH	17,-2(17)
+	PUSH	17,-2(17)
+	PUSH	17,[14]
+	PUSHJ	17,code0
+	ADJSP	17,-3
+$132::
+	PUSH	17,-2(17)
+	PUSHJ	17,releas
+	ADJSP	17,-1
+	MOVE	0,-1(17)
+	ADJSP	17,-3
+	POPJ	17,
+$125::
+	MOVE	3,-4(17)
+	MOVE	2,4(3)
+	PUSH	17,2
+	MOVE	4,$135
+	PUSH	17,4
+	PUSH	17,stderr
+	PUSHJ	17,fprint
+	ADJSP	17,-3
+	SETZ	2,
+	MOVE	0,2
+	ADJSP	17,-3
+	POPJ	17,
+$120::
+	ADJSP	17,-3
+	POPJ	17,
+$135::	POINT	9,.+1,8
+	BYTE	(9) 125,156,153,156
+	BYTE	(9) 157,167,156,40
+	BYTE	(9) 143,157,145,162
+	BYTE	(9) 143,151,157,156
+	BYTE	(9) 40,45,144,12
+	BYTE	(9) 0
+
+$130::	POINT	9,.+1,8
+	BYTE	(9) 120,103,137,120
+	BYTE	(9) 103,40,156,157
+	BYTE	(9) 164,40,151,155
+	BYTE	(9) 160,154,145,155
+	BYTE	(9) 145,156,164,145
+	BYTE	(9) 144,40,151,146
+	BYTE	(9) 40,116,102,131
+	BYTE	(9) 124,105,123,75
+	BYTE	(9) 41,64,12,0
+
+bytepo:	
+	331100
+	221100
+	111100
+	1100
+pitopc:
+	MOVE	3,codese
+	JUMPN	3,$137
+	MOVEI	2,bytepo
+	ADD	2,-2(17)
+	MOVE	3,(2)
+	PUSH	17,3
+	PUSH	17,-2(17)
+	PUSH	17,[5]
+	PUSHJ	17,code1
+	ADJSP	17,-3
+	JRST	$140
+$137::
+	MOVE	3,-2(17)
+	LSH	3,14
+	ADDI	3,700000
+	PUSH	17,3
+	PUSH	17,-2(17)
+	PUSH	17,[46]
+	PUSHJ	17,code8
+	ADJSP	17,-3
+$140::
+	POPJ	17,
+pctopi:
+	MOVE	3,codese
+	JUMPN	3,$141
+	SETZ	2,
+	PUSH	17,2
+	PUSH	17,-2(17)
+	PUSH	17,[5]
+	PUSHJ	17,code1
+	ADJSP	17,-3
+	JRST	$142
+$141::
+	PUSH	17,[770000]
+	PUSH	17,-2(17)
+	PUSH	17,[47]
+	PUSHJ	17,code8
+	ADJSP	17,-3
+$142::
+	POPJ	17,
+
+	INTERN	gterna,gboole,gensho,gboolo,revop,immedo,direct,coerce
+	INTERN	pitopc,pctopi
+
+	EXTERN	.iob,stdin,stdout,stderr,libpre,libpst,sprefi,spstfi
+	EXTERN	tok,rw,map,errstr,module,input,output,symfna,in,out
+	EXTERN	fsym,inc,mac,consta,nodes,csymbo,htable,symbol,isym
+	EXTERN	deftyp,charty,deflab,scalar,ttable,types,tstack,line
+	EXTERN	page,tline,scope,level,maclev,breakl,contle,eflag
+	EXTERN	eof,minsym,maxsym,maxtyp,maxnod,maxlab,maxini,minloc
+	EXTERN	maxaut,ncond,nelse,token,toksta,time,optimi,dump
+	EXTERN	assemb,delete,vsym,syntax,codese,.cpool,cpool,macptr
+	EXTERN	ch,errlin,erptr,dec20o,codes,previo,litera,maxcod
+	EXTERN	mincod,maxlit,stacko,regis,brklab,loopla,getlab,genstm
+	EXTERN	releas,code6,outlab,change,flushc,getzer,code0,fprint
+	EXTERN	getreg,code8,code1
+
+	END
+  

@@ -1,0 +1,4869 @@
+	TITLE c33
+	RADIX 10.
+.INSRT <C>NC
+
+.CODE
+	ENTRY	Zcgass
+	ENTRY	Zcgcal
+	ENTRY	Zcgcom
+	ENTRY	Zcgexp
+	ENTRY	Zcgflo
+	ENTRY	Zcgidn
+	ENTRY	Zcgind
+	ENTRY	Zcgint
+	ENTRY	Zcglse
+	ENTRY	Zcgmov
+	ENTRY	Zcgop
+	ENTRY	Zcgqma
+	ENTRY	Zcgstr
+	ENTRY	Zjumpv
+	ENTRY	Zttexp
+	ENTRY	Zchoos
+	ENTRY	Zrflus
+	ENTRY	Zresto
+	ENTRY	Zjumpz
+	ENTRY	Zgetre
+	ENTRY	Zfreer
+	ENTRY	Zeclea
+	ENTRY	Zreser
+	ENTRY	Zexpr2
+	ENTRY	ZcgJel
+	ENTRY	Zrsave
+	ENTRY	Zsave
+	ENTRY	Zmark
+	ENTRY	Zunmar
+	ENTRY	ZcgJfa
+	ENTRY	Zscore
+	ENTRY	Znbusy
+	ENTRY	Znfree
+	ENTRY	Zscoro
+	ENTRY	Zeresu
+	ENTRY	Zjumpn
+	ENTRY	Zcretu
+	ENTRY	Zjumpe
+	ENTRY	Zregta
+	ENTRY	Zeregt
+	ENTRY	ZregJi
+	ENTRY	Zclear
+	ENTRY	Zsave1
+	EXTERN	Zxoplo
+	EXTERN	Ztsize
+	EXTERN	Ztalig
+	EXTERN	Zcalig
+	EXTERN	Zretre
+	EXTERN	Ztpoin
+	EXTERN	Zspoin
+	EXTERN	Ztrdt
+	EXTERN	Zprdt
+	EXTERN	Zconf
+	EXTERN	Zrtopp
+	EXTERN	Zrtopl
+	EXTERN	Zmacta
+	EXTERN	Zopreg
+	EXTERN	Zopmem
+	EXTERN	ZoffJo
+	EXTERN	Zntype
+	EXTERN	Znmem
+	EXTERN	Znac
+	EXTERN	Znpc
+	EXTERN	Znreg
+	EXTERN	ZfltJh
+	EXTERN	Zacore
+	EXTERN	Zacorp
+	EXTERN	ZlcJno
+	EXTERN	ZflcJn
+	EXTERN	Zcore
+	EXTERN	Zcorep
+	EXTERN	Zcbn
+	EXTERN	Znfunc
+	EXTERN	Zlinen
+	EXTERN	Zexprl
+	EXTERN	Zttxle
+	EXTERN	ZcurJo
+	EXTERN	Ztempl
+	EXTERN	Zautol
+	EXTERN	Zaquot
+	EXTERN	Zframe
+	EXTERN	Zobjmo
+	EXTERN	ZfJerr
+	EXTERN	Zargop
+	EXTERN	ZfJmac
+	EXTERN	ZfJnod
+	EXTERN	Zfidn
+	EXTERN	Zntw
+	EXTERN	ZeofJn
+	EXTERN	Zaflag
+	EXTERN	Zciln
+	EXTERN	ZintJs
+	EXTERN	Zopdop
+	EXTERN	Zadope
+	EXTERN	Zallre
+	EXTERN	Zallme
+	EXTERN	Zanywh
+	EXTERN	ZfnJer
+	EXTERN	ZfnJno
+	EXTERN	ZfnJty
+	EXTERN	Zoptio
+	EXTERN	ZfnJma
+	EXTERN	ZtypeJ
+	EXTERN	Znodel
+	EXTERN	Zopbop
+	EXTERN	Zftype
+	EXTERN	Zconv
+	EXTERN	Zconvd
+	EXTERN	Zconve
+	EXTERN	Zconvx
+	EXTERN	ZeJall
+	EXTERN	Zintco
+	EXTERN	Zmkeno
+	EXTERN	Zmmove
+	EXTERN	Zopt
+	EXTERN	Ztaddr
+	EXTERN	Ztelis
+	EXTERN	Ztfarg
+	EXTERN	Ztexpr
+	EXTERN	Ztpadd
+	EXTERN	Ztpcom
+	EXTERN	Ztpsub
+	EXTERN	Ztptro
+	EXTERN	Ztxidn
+	EXTERN	Ztxinc
+	EXTERN	Ztxpr2
+	EXTERN	Ztxpr3
+	EXTERN	Zelist
+	EXTERN	Zro2p
+	EXTERN	Zmkarr
+	EXTERN	Zmkptr
+	EXTERN	Zto2p
+	EXTERN	ZTCHAR
+	EXTERN	ZTINT
+	EXTERN	ZTFLOA
+	EXTERN	ZTDOUB
+	EXTERN	ZTLONG
+	EXTERN	ZTUNSI
+	EXTERN	ZTUNDE
+	EXTERN	ZTPCHA
+	EXTERN	ZTACHA
+	EXTERN	ZTFINT
+	EXTERN	Zprtre
+	EXTERN	Zcprin
+	EXTERN	Zprloc
+	EXTERN	Zfixlo
+	EXTERN	Zerrx
+	EXTERN	Zjumpo
+	EXTERN	Zjump
+	EXTERN	Zilabe
+	EXTERN	Zfcall
+	EXTERN	Zectyp
+	EXTERN	Zbget1
+	EXTERN	Zemito
+	EXTERN	Zgette
+	EXTERN	Ztregs
+	EXTERN	Zttemp
+	EXTERN	Zcondo
+	EXTERN	Zinvco
+	EXTERN	Zexpr
+	EXTERN	Zmretu
+	EXTERN	Zmgoto
+	EXTERN	Zonebi
+.UDATA
+Zregta:
+	BLOCK	48
+Zeregt:
+	BLOCK	1
+.CODE
+.PDATA
+S0:	116
+	0
+S2:	98
+	0
+S4:	45
+	51
+	52
+	51
+	53
+	57
+	55
+	51
+	56
+	51
+	54
+	56
+	0
+S17:	37
+	50
+	100
+	32
+	84
+	84
+	69
+	88
+	80
+	82
+	32
+	37
+	111
+	32
+	84
+	79
+	32
+	0
+S35:	10
+	0
+S37:	37
+	50
+	100
+	32
+	84
+	84
+	69
+	88
+	80
+	82
+	32
+	82
+	69
+	84
+	85
+	82
+	78
+	83
+	32
+	0
+S57:	40
+	37
+	100
+	44
+	37
+	100
+	41
+	10
+	0
+S66:	32
+	32
+	32
+	101
+	112
+	61
+	37
+	111
+	44
+	112
+	49
+	61
+	37
+	111
+	44
+	112
+	50
+	61
+	37
+	111
+	10
+	0
+S88:	48
+	10
+	0
+S91:	83
+	67
+	79
+	82
+	69
+	32
+	73
+	83
+	32
+	37
+	100
+	10
+	0
+S104:	67
+	76
+	69
+	65
+	82
+	40
+	37
+	100
+	41
+	10
+	0
+S115:	69
+	67
+	76
+	69
+	65
+	82
+	40
+	37
+	111
+	41
+	10
+	0
+S127:	77
+	65
+	82
+	75
+	40
+	37
+	100
+	41
+	10
+	0
+S137:	82
+	69
+	83
+	69
+	82
+	86
+	69
+	40
+	37
+	100
+	44
+	37
+	111
+	41
+	10
+	0
+S153:	82
+	69
+	83
+	84
+	79
+	82
+	69
+	40
+	37
+	111
+	41
+	10
+	0
+S166:	83
+	65
+	86
+	69
+	40
+	37
+	100
+	41
+	10
+	0
+S176:	85
+	78
+	77
+	65
+	82
+	75
+	40
+	37
+	100
+	41
+	10
+	0
+.CODE
+
+%A==2
+	%A,,[ASCIZ/ttexpr/]
+Zttexp:	ADDI	P,FS1
+
+;	LINE 57
+
+	SKIPE	<0-FS1-%A-%P>(P)
+	GO	L5000
+	MOVEI	A,0
+	SUBI	P,FS1+%A+1
+	GO	@<%A+1>(P)
+L5000:
+
+;	LINE 58
+
+	MOVE	A,Zttxle
+	AOS	Zttxle
+	JUMPN	A,L5001
+	CCALL	0,Zrflus
+	MOVE	A,Zautol
+	MOVEM	A,Ztempl
+L5001:
+
+;	LINE 62
+
+	MOVE	A,Zaflag
+	JUMPE	A,L5002
+
+;	LINE 63
+
+	MOVE	A,Zttxle
+	CAIE	A,1
+	GO	L5003
+	PPUSH	<0-FS1-%A-%P>(P)
+	CCALL	1,Zprtre
+L5003:
+
+;	LINE 64
+
+	MOVEI	A,S17
+	PPUSH	A
+	PPUSH	Zttxle
+	PPUSH	<0-FS1-%A-%P>(P)
+	CCALL	3,Zcprin
+
+;	LINE 65
+
+	PPUSH	<1-FS1-%A-%P>(P)
+	CCALL	1,Zprloc
+
+;	LINE 66
+
+	MOVEI	A,S35
+	PPUSH	A
+	CCALL	1,Zcprin
+L5002:
+
+;	LINE 71
+
+	MOVEI	A,<1-FS1-%P>(P)
+	MOVE	C,<1-FS1-%A-%P>(P)
+	MOVE	C,(C)
+	MOVEM	C,(A)
+
+;	LINE 72
+
+	MOVEI	A,<1-FS1-%P>(P)
+	MOVE	C,<1-FS1-%A-%P>(P)
+	MOVE	C,1(C)
+	MOVEM	C,1(A)
+
+;	LINE 73
+
+	PPUSH	<0-FS1-%A-%P>(P)
+	MOVEI	A,<1-FS1-%P>(P)
+	PPUSH	A
+	CCALL	2,Zfixlo
+
+;	LINE 74
+
+	MOVEI	A,<1-FS1-%P>(P)
+	MOVE	A,(A)
+	CAIE	A,1
+	GO	L5004
+	MOVEI	A,<1-FS1-%P>(P)
+	MOVE	A,1(A)
+	JUMPN	A,L5004
+	PPUSH	[6001]
+	CCALL	1,Zerrx
+L5004:
+
+;	LINE 75
+
+	PPUSH	<0-FS1-%A-%P>(P)
+	MOVEI	A,<1-FS1-%P>(P)
+	PPUSH	A
+	CCALL	2,Zcgexp
+	MOVEM	A,<0-FS1-%A-%P>(P)
+
+;	LINE 76
+
+	SKIPN	<0-FS1-%A-%P>(P)
+	GO	L5005
+	PPUSH	<0-FS1-%A-%P>(P)
+	MOVEI	A,<1-FS1-%P>(P)
+	PPUSH	A
+	CCALL	2,Zcgmov
+	MOVEM	A,<0-FS1-%A-%P>(P)
+L5005:
+
+;	LINE 80
+
+	MOVE	A,Zaflag
+	JUMPE	A,L5006
+
+;	LINE 81
+
+	MOVEI	A,S37
+	PPUSH	A
+	PPUSH	Zttxle
+	CCALL	2,Zcprin
+
+;	LINE 82
+
+	SKIPN	<0-FS1-%A-%P>(P)
+	GO	L5007
+
+;	LINE 83
+
+	MOVEI	A,S57
+	PPUSH	A
+	MOVE	A,<0-FS1-%A-%P>(P)
+	PPUSH	2(A)
+	MOVE	A,<0-FS1-%A-%P>(P)
+	PPUSH	3(A)
+	CCALL	3,Zcprin
+
+;	LINE 84
+
+	MOVEI	A,S66
+	PPUSH	A
+	PPUSH	<0-FS1-%A-%P>(P)
+	MOVE	A,<0-FS1-%A-%P>(P)
+	PPUSH	7(A)
+	MOVE	A,<0-FS1-%A-%P>(P)
+	PPUSH	8(A)
+	CCALL	4,Zcprin
+	GO	L5008
+L5007:
+
+;	LINE 86
+
+	MOVEI	A,S88
+	PPUSH	A
+	CCALL	1,Zcprin
+L5008:
+L5006:
+
+;	LINE 91
+
+	SETO	A,
+	ADDB	A,Zttxle
+
+;	LINE 92
+
+	MOVE	A,<0-FS1-%A-%P>(P)
+	SUBI	P,FS1+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS1+%A+1
+	GO	@<%A+1>(P)
+FS1==3-1
+
+%A==2
+	%A,,[ASCIZ/cgexpr/]
+Zcgexp:	ADDI	P,FS2
+
+;	LINE 106
+
+	SKIPE	<0-FS2-%A-%P>(P)
+	GO	L5009
+	MOVEI	A,0
+	SUBI	P,FS2+%A+1
+	GO	@<%A+1>(P)
+L5009:
+
+;	LINE 107
+
+	MOVE	A,<0-FS2-%A-%P>(P)
+	MOVE	A,4(A)
+	JUMPLE	A,L5010
+	MOVE	A,<0-FS2-%A-%P>(P)
+	MOVE	A,2(A)
+	JUMPGE	A,L5010
+
+;	LINE 108
+
+	PPUSH	<0-FS2-%A-%P>(P)
+	CCALL	1,Zresto
+
+;	LINE 109
+
+	MOVE	A,<0-FS2-%A-%P>(P)
+	SUBI	P,FS2+%A+1
+	GO	@<%A+1>(P)
+L5010:
+
+;	LINE 111
+
+	MOVE	A,<0-FS2-%A-%P>(P)
+	PPUSH	(A)
+	CCALL	1,Zjumpo
+	JUMPE	A,L5011
+
+;	LINE 112
+
+	MOVE	A,<1-FS2-%A-%P>(P)
+	MOVE	A,(A)
+	JUMPN	A,L5012
+	PPUSH	<0-FS2-%A-%P>(P)
+	PPUSH	<1-FS2-%A-%P>(P)
+	CCALL	2,Zcgop
+	SUBI	P,FS2+%A+1
+	GO	@<%A+1>(P)
+	GO	L5013
+L5012:
+
+;	LINE 113
+
+	PPUSH	<0-FS2-%A-%P>(P)
+	PPUSH	<1-FS2-%A-%P>(P)
+	CCALL	2,Zjumpv
+	SUBI	P,FS2+%A+1
+	GO	@<%A+1>(P)
+L5013:
+L5011:
+
+;	LINE 115
+
+	MOVE	A,<0-FS2-%A-%P>(P)
+	MOVE	A,(A)
+	MOVE	B,[-10,,[
+	127
+	126
+	124
+	125
+	123
+	121
+	95
+	19
+	8
+	120
+	L1
+	L2
+	L3
+	L4
+	L5
+	L6
+	L7
+	L8
+	L9
+	L10
+	]]
+	CAMN	A,(B)
+	GO	@10(B)
+	AOBJN	B,.-2
+	GO	L5014
+L1:
+
+;	LINE 116
+
+	PPUSH	<0-FS2-%A-%P>(P)
+	CCALL	1,Zcgidn
+	SUBI	P,FS2+%A+1
+	GO	@<%A+1>(P)
+L2:
+
+;	LINE 117
+
+	PPUSH	<0-FS2-%A-%P>(P)
+	CCALL	1,Zcgint
+	SUBI	P,FS2+%A+1
+	GO	@<%A+1>(P)
+L3:
+
+;	LINE 118
+
+	PPUSH	<0-FS2-%A-%P>(P)
+	CCALL	1,Zcgflo
+	SUBI	P,FS2+%A+1
+	GO	@<%A+1>(P)
+L4:
+
+;	LINE 119
+
+	PPUSH	<0-FS2-%A-%P>(P)
+	CCALL	1,Zcgstr
+	SUBI	P,FS2+%A+1
+	GO	@<%A+1>(P)
+L5:
+
+;	LINE 120
+
+	PPUSH	<0-FS2-%A-%P>(P)
+	CCALL	1,Zcgcal
+	SUBI	P,FS2+%A+1
+	GO	@<%A+1>(P)
+L6:
+
+;	LINE 121
+
+	PPUSH	<0-FS2-%A-%P>(P)
+	PPUSH	<1-FS2-%A-%P>(P)
+	CCALL	2,Zcgqma
+	SUBI	P,FS2+%A+1
+	GO	@<%A+1>(P)
+L7:
+
+;	LINE 122
+
+	PPUSH	<0-FS2-%A-%P>(P)
+	PPUSH	<1-FS2-%A-%P>(P)
+	CCALL	2,Zcgass
+	SUBI	P,FS2+%A+1
+	GO	@<%A+1>(P)
+L8:
+
+;	LINE 123
+
+	PPUSH	<0-FS2-%A-%P>(P)
+	PPUSH	<1-FS2-%A-%P>(P)
+	CCALL	2,Zcgind
+	SUBI	P,FS2+%A+1
+	GO	@<%A+1>(P)
+L9:
+
+;	LINE 124
+
+	PPUSH	<0-FS2-%A-%P>(P)
+	PPUSH	<1-FS2-%A-%P>(P)
+	CCALL	2,Zcglse
+	SUBI	P,FS2+%A+1
+	GO	@<%A+1>(P)
+L10:
+
+;	LINE 125
+
+	PPUSH	<0-FS2-%A-%P>(P)
+	PPUSH	<1-FS2-%A-%P>(P)
+	CCALL	2,Zcgcom
+	SUBI	P,FS2+%A+1
+	GO	@<%A+1>(P)
+L5014:
+L0:
+
+;	LINE 128
+
+	PPUSH	<0-FS2-%A-%P>(P)
+	PPUSH	<1-FS2-%A-%P>(P)
+	CCALL	2,Zcgop
+	SUBI	P,FS2+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS2+%A+1
+	GO	@<%A+1>(P)
+FS2==1-1
+
+%A==2
+	%A,,[ASCIZ/jumpval/]
+Zjumpv:	ADDI	P,FS3
+
+;	LINE 143
+
+	PPUSH	<0-FS3-%A-%P>(P)
+	MOVE	A,Zciln
+	AOS	Zciln
+	MOVEM	A,<2-FS3-%P>(P)
+	PPUSH	A
+	CCALL	2,Zjumpz
+
+;	LINE 144
+
+	MOVEI	A,Ztrdt
+	MOVE	A,1(A)
+	MOVEM	A,<1-FS3-%P>(P)
+
+;	LINE 145
+
+	MOVE	A,<1-FS3-%A-%P>(P)
+	MOVE	A,(A)
+	CAIE	A,1
+	GO	L5015
+	MOVE	A,<1-FS3-%A-%P>(P)
+	PPUSH	1(A)
+	PPUSH	<1-FS3-%P>(P)
+	CCALL	2,Zgetre
+	GO	L5016
+L5015:
+	PPUSH	<1-FS3-%P>(P)
+	CCALL	1,Zfreer
+L5016:
+	MOVEM	A,<1-FS3-%P>(P)
+
+;	LINE 146
+
+	MOVEI	A,<4-FS3-%P>(P)
+	MOVEI	C,1
+	MOVEM	C,(A)
+
+;	LINE 147
+
+	MOVEI	A,<4-FS3-%P>(P)
+	MOVEI	C,1
+	MOVE	D,<1-FS3-%P>(P)
+	LSH	C,(D)
+	MOVEM	C,1(A)
+
+;	LINE 148
+
+	PPUSH	[1]
+	CCALL	1,Zintco
+	PPUSH	A
+	MOVEI	A,<4-FS3-%P>(P)
+	PPUSH	A
+	CCALL	2,Zttexp
+	PPUSH	A
+	CCALL	1,Zeclea
+
+;	LINE 149
+
+	MOVE	A,Zciln
+	AOS	Zciln
+	MOVEM	A,<3-FS3-%P>(P)
+	PPUSH	A
+	CCALL	1,Zjump
+
+;	LINE 150
+
+	PPUSH	<2-FS3-%P>(P)
+	CCALL	1,Zilabe
+
+;	LINE 151
+
+	PPUSH	[0]
+	CCALL	1,Zintco
+	PPUSH	A
+	MOVEI	A,<4-FS3-%P>(P)
+	PPUSH	A
+	CCALL	2,Zttexp
+	PPUSH	A
+	CCALL	1,Zeclea
+
+;	LINE 152
+
+	PPUSH	<3-FS3-%P>(P)
+	CCALL	1,Zilabe
+
+;	LINE 153
+
+	PPUSH	<1-FS3-%P>(P)
+	PPUSH	<0-FS3-%A-%P>(P)
+	CCALL	2,Zreser
+
+;	LINE 154
+
+	MOVE	A,<0-FS3-%A-%P>(P)
+	SUBI	P,FS3+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS3+%A+1
+	GO	@<%A+1>(P)
+FS3==6-1
+
+%A==1
+	%A,,[ASCIZ/cgidn/]
+Zcgidn:	ADDI	P,FS4
+
+;	LINE 165
+
+	MOVE	A,<0-FS4-%A-%P>(P)
+	MOVE	C,<0-FS4-%A-%P>(P)
+	MOVN	D,7(C)
+	MOVEM	D,2(A)
+
+;	LINE 166
+
+	MOVE	A,<0-FS4-%A-%P>(P)
+	MOVE	C,<0-FS4-%A-%P>(P)
+	MOVE	C,8(C)
+	MOVEM	C,3(A)
+
+;	LINE 167
+
+	MOVE	A,<0-FS4-%A-%P>(P)
+	SUBI	P,FS4+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS4+%A+1
+	GO	@<%A+1>(P)
+FS4==1-1
+
+%A==1
+	%A,,[ASCIZ/cgint/]
+Zcgint:	ADDI	P,FS5
+
+;	LINE 178
+
+	MOVE	A,<0-FS5-%A-%P>(P)
+	MOVNI	C,--6
+	MOVEM	C,2(A)
+
+;	LINE 179
+
+	MOVE	A,<0-FS5-%A-%P>(P)
+	MOVE	C,<0-FS5-%A-%P>(P)
+	MOVE	C,7(C)
+	MOVEM	C,3(A)
+
+;	LINE 180
+
+	MOVE	A,<0-FS5-%A-%P>(P)
+	SUBI	P,FS5+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS5+%A+1
+	GO	@<%A+1>(P)
+FS5==1-1
+
+%A==1
+	%A,,[ASCIZ/cgfloat/]
+Zcgflo:	ADDI	P,FS6
+
+;	LINE 191
+
+	MOVE	A,<0-FS6-%A-%P>(P)
+	MOVNI	C,--7
+	MOVEM	C,2(A)
+
+;	LINE 192
+
+	MOVE	A,<0-FS6-%A-%P>(P)
+	MOVE	C,<0-FS6-%A-%P>(P)
+	MOVE	C,7(C)
+	MOVEM	C,3(A)
+
+;	LINE 193
+
+	MOVE	A,<0-FS6-%A-%P>(P)
+	SUBI	P,FS6+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS6+%A+1
+	GO	@<%A+1>(P)
+FS6==1-1
+
+%A==1
+	%A,,[ASCIZ/cgstring/]
+Zcgstr:	ADDI	P,FS7
+
+;	LINE 204
+
+	MOVE	A,<0-FS7-%A-%P>(P)
+	MOVNI	C,--8
+	MOVEM	C,2(A)
+
+;	LINE 205
+
+	MOVE	A,<0-FS7-%A-%P>(P)
+	MOVE	C,<0-FS7-%A-%P>(P)
+	MOVE	C,7(C)
+	MOVEM	C,3(A)
+
+;	LINE 206
+
+	MOVE	A,<0-FS7-%A-%P>(P)
+	SUBI	P,FS7+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS7+%A+1
+	GO	@<%A+1>(P)
+FS7==1-1
+
+%A==2
+	%A,,[ASCIZ/cgindirect/]
+Zcgind:	ADDI	P,FS8
+
+;	LINE 222
+
+	MOVEI	A,<1-FS8-%P>(P)
+	MOVEI	C,1
+	MOVEM	C,(A)
+
+;	LINE 223
+
+	MOVE	A,<1-FS8-%A-%P>(P)
+	MOVE	A,(A)
+	CAIE	A,2
+	GO	L5017
+	MOVE	A,<1-FS8-%A-%P>(P)
+	MOVE	A,1(A)
+	LSH	A,-9
+	GO	L5018
+L5017:
+	MOVNI	A,--1
+L5018:
+	MOVEI	C,<1-FS8-%P>(P)
+	MOVEM	A,1(C)
+
+;	LINE 225
+
+	MOVE	A,<0-FS8-%A-%P>(P)
+	MOVE	A,7(A)
+	MOVEM	A,<3-FS8-%P>(P)
+	JUMPE	A,L5019
+
+;	LINE 226
+
+	MOVE	A,<3-FS8-%P>(P)
+	MOVE	A,(A)
+	MOVEM	A,<5-FS8-%P>(P)
+
+;	LINE 227
+
+	MOVE	A,<5-FS8-%P>(P)
+	CAIGE	A,102
+	GO	L5020
+	MOVE	A,<5-FS8-%P>(P)
+	CAILE	A,105
+	GO	L5020
+
+;	LINE 228
+
+	MOVE	A,<3-FS8-%P>(P)
+	MOVE	A,8(A)
+	MOVEM	A,<4-FS8-%P>(P)
+	MOVE	A,(A)
+	CAIE	A,126
+	GO	L5021
+	MOVE	A,<4-FS8-%P>(P)
+	MOVE	A,7(A)
+	MOVEM	A,<6-FS8-%P>(P)
+	PPUSH	A
+	MOVE	A,<5-FS8-%P>(P)
+	SUBI	A,102
+	IMULI	A,1
+	MOVEI	C,ZoffJo
+	ADD	C,A
+	MOVE	A,(C)
+	CCALL	1,(A)
+	JUMPE	A,L5021
+
+;	LINE 230
+
+	MOVE	A,<3-FS8-%P>(P)
+	MOVE	A,7(A)
+	MOVEM	A,<3-FS8-%P>(P)
+	GO	L5022
+L5021:
+
+;	LINE 231
+
+	MOVEI	A,0
+	MOVEM	A,<6-FS8-%P>(P)
+L5022:
+	GO	L5023
+L5020:
+
+;	LINE 233
+
+	MOVEI	A,0
+	MOVEM	A,<6-FS8-%P>(P)
+L5023:
+
+;	LINE 234
+
+	SKIPN	<3-FS8-%P>(P)
+	GO	L5024
+
+;	LINE 235
+
+	PPUSH	<3-FS8-%P>(P)
+	MOVEI	A,<1-FS8-%P>(P)
+	PPUSH	A
+	CCALL	2,Zttexp
+	MOVEM	A,<3-FS8-%P>(P)
+
+;	LINE 236
+
+	MOVE	A,<0-FS8-%A-%P>(P)
+	MOVE	C,<3-FS8-%P>(P)
+	MOVE	C,2(C)
+	ADDI	C,9
+	MOVN	C,C
+	MOVEM	C,2(A)
+
+;	LINE 237
+
+	MOVE	A,<0-FS8-%A-%P>(P)
+	MOVE	C,<6-FS8-%P>(P)
+	MOVEM	C,3(A)
+
+;	LINE 238
+
+	MOVE	A,<0-FS8-%A-%P>(P)
+	MOVE	C,<3-FS8-%P>(P)
+	MOVEM	C,7(A)
+
+;	LINE 239
+
+	MOVE	A,<0-FS8-%A-%P>(P)
+	SUBI	P,FS8+%A+1
+	GO	@<%A+1>(P)
+L5024:
+L5019:
+
+;	LINE 242
+
+	MOVEI	A,0
+	SUBI	P,FS8+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS8+%A+1
+	GO	@<%A+1>(P)
+FS8==7-1
+
+%A==2
+	%A,,[ASCIZ/cgassign/]
+Zcgass:	ADDI	P,FS9
+
+;	LINE 256
+
+	MOVE	A,<1-FS9-%A-%P>(P)
+	MOVE	A,(A)
+	CAIN	A,1
+	GO	L5025
+	MOVEI	A,Zallre
+	MOVEM	A,<1-FS9-%A-%P>(P)
+L5025:
+
+;	LINE 257
+
+	PPUSH	<0-FS9-%A-%P>(P)
+	MOVEI	A,Zallme
+	PPUSH	A
+	PPUSH	<1-FS9-%A-%P>(P)
+	CCALL	3,Zexpr2
+	JUMPE	A,L5026
+
+;	LINE 258
+
+	MOVE	A,<0-FS9-%A-%P>(P)
+	MOVE	A,7(A)
+	MOVEM	A,<1-FS9-%P>(P)
+
+;	LINE 259
+
+	MOVE	A,<0-FS9-%A-%P>(P)
+	MOVE	A,8(A)
+	MOVEM	A,<2-FS9-%P>(P)
+
+;	LINE 260
+
+	MOVE	A,<2-FS9-%P>(P)
+	MOVE	A,2(A)
+	MOVEM	A,<3-FS9-%P>(P)
+
+;	LINE 261
+
+	PPUSH	<2-FS9-%P>(P)
+	MOVE	A,<1-FS9-%P>(P)
+	PPUSH	2(A)
+	MOVE	A,<1-FS9-%P>(P)
+	PPUSH	3(A)
+	PPUSH	[1]
+	CCALL	4,Zmmove
+	MOVEM	A,<2-FS9-%P>(P)
+
+;	LINE 262
+
+	SKIPN	<2-FS9-%P>(P)
+	GO	L5027
+
+;	LINE 263
+
+	PPUSH	<1-FS9-%P>(P)
+	CCALL	1,Zeclea
+
+;	LINE 264
+
+	PPUSH	<3-FS9-%P>(P)
+	PPUSH	<0-FS9-%A-%P>(P)
+	CCALL	2,Zreser
+
+;	LINE 265
+
+	MOVE	A,<0-FS9-%A-%P>(P)
+	SUBI	P,FS9+%A+1
+	GO	@<%A+1>(P)
+L5027:
+L5026:
+
+;	LINE 268
+
+	MOVEI	A,0
+	SUBI	P,FS9+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS9+%A+1
+	GO	@<%A+1>(P)
+FS9==4-1
+
+%A==1
+	%A,,[ASCIZ/cgcall/]
+Zcgcal:	ADDI	P,FS10
+
+;	LINE 282
+
+	MOVE	A,<0-FS10-%A-%P>(P)
+	PPUSH	8(A)
+	MOVEI	A,<2-FS10-%P>(P)
+	PPUSH	A
+	CCALL	2,ZcgJel
+	MOVEM	A,<1-FS10-%P>(P)
+
+;	LINE 283
+
+	CCALL	0,Zrsave
+
+;	LINE 284
+
+	MOVE	A,<0-FS10-%A-%P>(P)
+	PPUSH	7(A)
+	MOVEI	A,Zallme
+	PPUSH	A
+	CCALL	2,Zttexp
+	MOVEM	A,<4-FS10-%P>(P)
+	JUMPE	A,L5028
+
+;	LINE 285
+
+	PPUSH	<4-FS10-%P>(P)
+	CCALL	1,Zeclea
+
+;	LINE 286
+
+	PPUSH	<1-FS10-%P>(P)
+	PPUSH	<2-FS10-%P>(P)
+	MOVE	A,<4-FS10-%P>(P)
+	PPUSH	2(A)
+	MOVE	A,<4-FS10-%P>(P)
+	PPUSH	3(A)
+	CCALL	4,Zfcall
+
+;	LINE 287
+
+	PPUSH	<0-FS10-%A-%P>(P)
+	CCALL	1,Zectyp
+	MOVEI	C,Zretre
+	ADD	C,A
+	MOVE	A,(C)
+	MOVEM	A,<3-FS10-%P>(P)
+
+;	LINE 288
+
+	MOVE	A,<3-FS10-%P>(P)
+	JUMPGE	A,L5029
+	PPUSH	[6029]
+	CCALL	1,Zerrx
+L5029:
+
+;	LINE 289
+
+	PPUSH	<3-FS10-%P>(P)
+	PPUSH	<0-FS10-%A-%P>(P)
+	CCALL	2,Zreser
+
+;	LINE 290
+
+	MOVE	A,<0-FS10-%A-%P>(P)
+	SUBI	P,FS10+%A+1
+	GO	@<%A+1>(P)
+L5028:
+
+;	LINE 292
+
+	MOVEI	A,0
+	SUBI	P,FS10+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS10+%A+1
+	GO	@<%A+1>(P)
+FS10==5-1
+
+%A==2
+	%A,,[ASCIZ/cgqmark/]
+Zcgqma:	ADDI	P,FS11
+
+;	LINE 307
+
+	MOVE	A,Zciln
+	AOS	Zciln
+	MOVEM	A,<1-FS11-%P>(P)
+
+;	LINE 308
+
+	MOVE	A,Zciln
+	AOS	Zciln
+	MOVEM	A,<2-FS11-%P>(P)
+
+;	LINE 309
+
+	MOVE	A,<0-FS11-%A-%P>(P)
+	MOVE	A,8(A)
+	MOVEM	A,<4-FS11-%P>(P)
+
+;	LINE 310
+
+	MOVE	A,<0-FS11-%A-%P>(P)
+	PPUSH	7(A)
+	PPUSH	<1-FS11-%P>(P)
+	CCALL	2,Zjumpz
+
+;	LINE 311
+
+	MOVEI	A,<6-FS11-%P>(P)
+	MOVEI	C,1
+	MOVEM	C,(A)
+
+;	LINE 312
+
+	MOVE	A,<1-FS11-%A-%P>(P)
+	MOVE	A,(A)
+	CAIE	A,1
+	GO	L5030
+	MOVE	A,<1-FS11-%A-%P>(P)
+	MOVE	A,1(A)
+	GO	L5031
+L5030:
+	MOVNI	A,--1
+L5031:
+	MOVEI	C,<6-FS11-%P>(P)
+	MOVEM	A,1(C)
+
+;	LINE 313
+
+	MOVE	A,<4-FS11-%P>(P)
+	PPUSH	7(A)
+	MOVEI	A,<6-FS11-%P>(P)
+	PPUSH	A
+	CCALL	2,Zttexp
+	MOVEM	A,<5-FS11-%P>(P)
+
+;	LINE 314
+
+	SKIPN	<5-FS11-%P>(P)
+	GO	L5032
+
+;	LINE 315
+
+	PPUSH	<5-FS11-%P>(P)
+	CCALL	1,Zeclea
+
+;	LINE 316
+
+	PPUSH	<2-FS11-%P>(P)
+	CCALL	1,Zjump
+
+;	LINE 317
+
+	PPUSH	<1-FS11-%P>(P)
+	CCALL	1,Zilabe
+
+;	LINE 318
+
+	MOVE	A,<5-FS11-%P>(P)
+	MOVE	A,2(A)
+	MOVEM	A,<3-FS11-%P>(P)
+
+;	LINE 319
+
+	MOVEI	A,<6-FS11-%P>(P)
+	MOVEI	C,1
+	MOVE	D,<3-FS11-%P>(P)
+	LSH	C,(D)
+	MOVEM	C,1(A)
+
+;	LINE 320
+
+	MOVE	A,<4-FS11-%P>(P)
+	PPUSH	8(A)
+	MOVEI	A,<6-FS11-%P>(P)
+	PPUSH	A
+	CCALL	2,Zttexp
+	MOVEM	A,<5-FS11-%P>(P)
+
+;	LINE 321
+
+	SKIPN	<5-FS11-%P>(P)
+	GO	L5033
+
+;	LINE 322
+
+	PPUSH	<5-FS11-%P>(P)
+	CCALL	1,Zeclea
+
+;	LINE 323
+
+	PPUSH	<2-FS11-%P>(P)
+	CCALL	1,Zilabe
+
+;	LINE 324
+
+	PPUSH	<3-FS11-%P>(P)
+	PPUSH	<0-FS11-%A-%P>(P)
+	CCALL	2,Zreser
+
+;	LINE 325
+
+	MOVE	A,<0-FS11-%A-%P>(P)
+	SUBI	P,FS11+%A+1
+	GO	@<%A+1>(P)
+L5033:
+L5032:
+
+;	LINE 328
+
+	MOVEI	A,0
+	SUBI	P,FS11+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS11+%A+1
+	GO	@<%A+1>(P)
+FS11==8-1
+
+%A==2
+	%A,,[ASCIZ/cglseq/]
+Zcglse:	ADDI	P,FS12
+
+;	LINE 346
+
+	MOVE	A,<1-FS12-%A-%P>(P)
+	MOVE	A,(A)
+	CAIN	A,1
+	GO	L5034
+	MOVEI	A,Zallre
+	MOVEM	A,<1-FS12-%A-%P>(P)
+L5034:
+
+;	LINE 347
+
+	MOVE	A,<0-FS12-%A-%P>(P)
+	MOVE	A,7(A)
+	MOVEM	A,<1-FS12-%P>(P)
+
+;	LINE 348
+
+	MOVE	A,<0-FS12-%A-%P>(P)
+	MOVE	A,8(A)
+	MOVEM	A,<2-FS12-%P>(P)
+
+;	LINE 349
+
+	PPUSH	<1-FS12-%P>(P)
+	PPUSH	<1-FS12-%A-%P>(P)
+	CCALL	2,Zttexp
+	MOVEM	A,<1-FS12-%P>(P)
+
+;	LINE 350
+
+	PPUSH	<2-FS12-%P>(P)
+	MOVEI	A,Zanywh
+	PPUSH	A
+	CCALL	2,Zttexp
+	MOVEM	A,<2-FS12-%P>(P)
+
+;	LINE 351
+
+	SKIPN	<2-FS12-%P>(P)
+	GO	L5035
+	PPUSH	<2-FS12-%P>(P)
+	CCALL	1,Zeclea
+L5035:
+
+;	LINE 352
+
+	MOVE	A,<1-FS12-%P>(P)
+	SUBI	P,FS12+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS12+%A+1
+	GO	@<%A+1>(P)
+FS12==3-1
+
+%A==2
+	%A,,[ASCIZ/cgcomma/]
+Zcgcom:	ADDI	P,FS13
+
+;	LINE 366
+
+	MOVE	A,<0-FS13-%A-%P>(P)
+	PPUSH	7(A)
+	MOVEI	A,Zanywh
+	PPUSH	A
+	CCALL	2,Zttexp
+	MOVEM	A,<1-FS13-%P>(P)
+
+;	LINE 367
+
+	SKIPN	<1-FS13-%P>(P)
+	GO	L5036
+	PPUSH	<1-FS13-%P>(P)
+	CCALL	1,Zeclea
+L5036:
+
+;	LINE 368
+
+	MOVE	A,<0-FS13-%A-%P>(P)
+	PPUSH	8(A)
+	PPUSH	<1-FS13-%A-%P>(P)
+	CCALL	2,Zttexp
+	SUBI	P,FS13+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS13+%A+1
+	GO	@<%A+1>(P)
+FS13==2-1
+
+%A==2
+	%A,,[ASCIZ/cgop/]
+Zcgop:	ADDI	P,FS14
+
+;	LINE 387
+
+	PPUSH	<0-FS14-%A-%P>(P)
+	PPUSH	<1-FS14-%A-%P>(P)
+	MOVEI	A,<1-FS14-%P>(P)
+	PPUSH	A
+	CCALL	3,Zchoos
+	MOVEM	A,<7-FS14-%P>(P)
+	JUMPN	A,L5037
+	MOVEI	A,0
+	SUBI	P,FS14+%A+1
+	GO	@<%A+1>(P)
+L5037:
+
+;	LINE 388
+
+	MOVE	A,<7-FS14-%P>(P)
+	MOVE	A,4(A)
+	MOVEM	A,<8-FS14-%P>(P)
+
+;	LINE 392
+
+	MOVE	A,<8-FS14-%P>(P)
+	CAIE	A,3
+	GO	L5038
+	MOVEI	A,<1-FS14-%P>(P)
+	GO	L5039
+L5038:
+	MOVE	A,<7-FS14-%P>(P)
+L5039:
+	MOVEM	A,<3-FS14-%P>(P)
+
+;	LINE 393
+
+	MOVE	A,<8-FS14-%P>(P)
+	CAIE	A,4
+	GO	L5040
+	MOVEI	A,<1-FS14-%P>(P)
+	GO	L5041
+L5040:
+	MOVE	A,<7-FS14-%P>(P)
+	ADDI	A,2
+L5041:
+	MOVEM	A,<4-FS14-%P>(P)
+
+;	LINE 397
+
+	PPUSH	<0-FS14-%A-%P>(P)
+	PPUSH	<3-FS14-%P>(P)
+	PPUSH	<4-FS14-%P>(P)
+	CCALL	3,Zexpr2
+	JUMPN	A,L5042
+	MOVEI	A,0
+	SUBI	P,FS14+%A+1
+	GO	@<%A+1>(P)
+L5042:
+
+;	LINE 398
+
+	MOVE	A,<0-FS14-%A-%P>(P)
+	MOVE	A,7(A)
+	MOVEM	A,<5-FS14-%P>(P)
+
+;	LINE 399
+
+	MOVE	A,<0-FS14-%A-%P>(P)
+	MOVE	A,8(A)
+	MOVEM	A,<6-FS14-%P>(P)
+
+;	LINE 403
+
+	PPUSH	<5-FS14-%P>(P)
+	CCALL	1,Zeclea
+
+;	LINE 404
+
+	PPUSH	<6-FS14-%P>(P)
+	CCALL	1,Zeclea
+
+;	LINE 408
+
+	MOVE	A,<7-FS14-%P>(P)
+	MOVE	A,6(A)
+	MOVEM	A,<9-FS14-%P>(P)
+	JUMPE	A,L5043
+	MOVEI	A,0
+	MOVEM	A,<10-FS14-%P>(P)
+L13:
+	MOVE	A,<10-FS14-%P>(P)
+	CAML	A,Znreg
+	GO	L5044
+	PPUSH	<9-FS14-%P>(P)
+	PPUSH	<10-FS14-%P>(P)
+	CCALL	2,Zbget1
+	JUMPE	A,L5045
+	PPUSH	<10-FS14-%P>(P)
+	CCALL	1,Zsave
+L5045:
+L12:
+	MOVEI	A,1
+	ADDB	A,<10-FS14-%P>(P)
+	GO	L13
+L5044:
+L11:
+L5043:
+
+;	LINE 412
+
+	MOVE	A,<1-FS14-%A-%P>(P)
+	MOVE	A,(A)
+	JUMPN	A,L5046
+
+;	LINE 413
+
+	MOVNI	A,--5
+	MOVEM	A,<11-FS14-%P>(P)
+
+;	LINE 414
+
+	MOVE	A,<1-FS14-%A-%P>(P)
+	MOVE	A,1(A)
+	MOVEM	A,<12-FS14-%P>(P)
+	GO	L5047
+L5046:
+
+;	LINE 416
+
+	MOVE	A,<8-FS14-%P>(P)
+	CAIE	A,3
+	GO	L5048
+
+;	LINE 417
+
+	MOVE	A,<5-FS14-%P>(P)
+	MOVE	A,2(A)
+	MOVEM	A,<11-FS14-%P>(P)
+
+;	LINE 418
+
+	MOVE	A,<5-FS14-%P>(P)
+	MOVE	A,3(A)
+	MOVEM	A,<12-FS14-%P>(P)
+	GO	L5049
+L5048:
+
+;	LINE 420
+
+	MOVE	A,<8-FS14-%P>(P)
+	CAIE	A,4
+	GO	L5050
+
+;	LINE 421
+
+	MOVE	A,<6-FS14-%P>(P)
+	MOVE	A,2(A)
+	MOVEM	A,<11-FS14-%P>(P)
+
+;	LINE 422
+
+	MOVE	A,<6-FS14-%P>(P)
+	MOVE	A,3(A)
+	MOVEM	A,<12-FS14-%P>(P)
+	GO	L5051
+L5050:
+
+;	LINE 424
+
+	MOVEI	A,<1-FS14-%P>(P)
+	MOVE	A,(A)
+	CAIE	A,1
+	GO	L5052
+
+;	LINE 425
+
+	PPUSH	<5-FS14-%P>(P)
+	CCALL	1,Zmark
+
+;	LINE 426
+
+	PPUSH	<6-FS14-%P>(P)
+	CCALL	1,Zmark
+
+;	LINE 427
+
+	MOVEI	A,<1-FS14-%P>(P)
+	PPUSH	1(A)
+	MOVE	A,<7-FS14-%P>(P)
+	PPUSH	5(A)
+	CCALL	2,Zgetre
+	MOVEM	A,<11-FS14-%P>(P)
+
+;	LINE 428
+
+	MOVEI	A,0
+	MOVEM	A,<12-FS14-%P>(P)
+
+;	LINE 429
+
+	PPUSH	<5-FS14-%P>(P)
+	CCALL	1,Zunmar
+
+;	LINE 430
+
+	PPUSH	<6-FS14-%P>(P)
+	CCALL	1,Zunmar
+	GO	L5053
+L5052:
+
+;	LINE 432
+
+	MOVEI	A,<1-FS14-%P>(P)
+	MOVE	A,(A)
+	CAIE	A,2
+	GO	L5054
+
+;	LINE 433
+
+	PPUSH	[6007]
+	CCALL	1,Zerrx
+L5054:
+L5053:
+L5051:
+L5049:
+L5047:
+
+;	LINE 437
+
+	SKIPN	<6-FS14-%P>(P)
+	GO	L5055
+	PPUSH	[2]
+	MOVE	A,<0-FS14-%A-%P>(P)
+	PPUSH	(A)
+	PPUSH	<11-FS14-%P>(P)
+	PPUSH	<12-FS14-%P>(P)
+	MOVE	A,<5-FS14-%P>(P)
+	PPUSH	2(A)
+	MOVE	A,<5-FS14-%P>(P)
+	PPUSH	3(A)
+	MOVE	A,<6-FS14-%P>(P)
+	PPUSH	2(A)
+	MOVE	A,<6-FS14-%P>(P)
+	PPUSH	3(A)
+	CCALL	8,Zemito
+	GO	L5056
+L5055:
+
+;	LINE 439
+
+	PPUSH	[1]
+	MOVE	A,<0-FS14-%A-%P>(P)
+	PPUSH	(A)
+	PPUSH	<11-FS14-%P>(P)
+	PPUSH	<12-FS14-%P>(P)
+	MOVE	A,<5-FS14-%P>(P)
+	PPUSH	2(A)
+	MOVE	A,<5-FS14-%P>(P)
+	PPUSH	3(A)
+	CCALL	6,Zemito
+L5056:
+
+;	LINE 443
+
+	MOVE	A,<11-FS14-%P>(P)
+	JUMPL	A,L5057
+	PPUSH	<11-FS14-%P>(P)
+	PPUSH	<0-FS14-%A-%P>(P)
+	CCALL	2,Zreser
+	GO	L5058
+L5057:
+
+;	LINE 445
+
+	MOVE	A,<0-FS14-%A-%P>(P)
+	MOVE	C,<11-FS14-%P>(P)
+	MOVEM	C,2(A)
+
+;	LINE 446
+
+	MOVE	A,<0-FS14-%A-%P>(P)
+	MOVE	C,<12-FS14-%P>(P)
+	MOVEM	C,3(A)
+
+;	LINE 447
+
+	MOVE	A,<0-FS14-%A-%P>(P)
+	MOVEI	C,127
+	MOVEM	C,6(A)
+L5058:
+
+;	LINE 450
+
+	MOVE	A,<0-FS14-%A-%P>(P)
+	SUBI	P,FS14+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS14+%A+1
+	GO	@<%A+1>(P)
+FS14==13-1
+
+%A==2
+	%A,,[ASCIZ/cgmove/]
+Zcgmov:	ADDI	P,FS15
+
+;	LINE 468
+
+	MOVE	A,<0-FS15-%A-%P>(P)
+	MOVE	A,2(A)
+	MOVEM	A,<1-FS15-%P>(P)
+
+;	LINE 469
+
+	MOVE	A,<1-FS15-%A-%P>(P)
+	MOVE	A,1(A)
+	MOVEM	A,<2-FS15-%P>(P)
+
+;	LINE 471
+
+	MOVE	A,<1-FS15-%A-%P>(P)
+	MOVE	A,(A)
+	JUMPL	A,L19
+	CAILE	A,3-0
+	GO	L19
+	GO	@(A)[
+	L15
+	L17
+	L18
+	L16
+	]
+L15:
+
+;	LINE 473
+
+	MOVE	A,<1-FS15-%P>(P)
+	CAMN	A,[-5]
+	GO	L5060
+	PPUSH	[6038]
+	CCALL	1,Zerrx
+L5060:
+	GO	L14
+L16:
+	GO	L14
+L17:
+
+;	LINE 478
+
+	MOVE	A,<1-FS15-%P>(P)
+	JUMPL	A,L5062
+	PPUSH	<2-FS15-%P>(P)
+	PPUSH	<1-FS15-%P>(P)
+	CCALL	2,Zbget1
+	JUMPN	A,L5061
+L5062:
+
+;	LINE 479
+
+	PPUSH	<0-FS15-%A-%P>(P)
+	CCALL	1,Zeclea
+
+;	LINE 480
+
+	PPUSH	<2-FS15-%P>(P)
+	CCALL	1,Zfreer
+	MOVEM	A,<1-FS15-%P>(P)
+
+;	LINE 481
+
+	PPUSH	<0-FS15-%A-%P>(P)
+	PPUSH	<1-FS15-%P>(P)
+	PPUSH	[0]
+	PPUSH	[0]
+	CCALL	4,Zmmove
+	MOVEM	A,<0-FS15-%A-%P>(P)
+
+;	LINE 482
+
+	PPUSH	<1-FS15-%P>(P)
+	PPUSH	<0-FS15-%A-%P>(P)
+	CCALL	2,Zreser
+L5061:
+	GO	L14
+L18:
+
+;	LINE 486
+
+	MOVE	A,<1-FS15-%P>(P)
+	JUMPL	A,L5063
+
+;	LINE 487
+
+	PPUSH	<2-FS15-%P>(P)
+	PPUSH	[1]
+	CCALL	2,Zbget1
+	JUMPE	A,L5064
+
+;	LINE 488
+
+	PPUSH	<0-FS15-%A-%P>(P)
+	PPUSH	[-1]
+	PPUSH	<0-FS15-%A-%P>(P)
+	CCALL	1,Zgette
+	PPUSH	A
+	PPUSH	[1]
+	CCALL	4,Zmmove
+	MOVEM	A,<0-FS15-%A-%P>(P)
+	GO	L5065
+L5064:
+
+;	LINE 489
+
+	PPUSH	[6012]
+	CCALL	1,Zerrx
+L5065:
+	GO	L5066
+L5063:
+
+;	LINE 491
+
+	PPUSH	<2-FS15-%P>(P)
+	MOVN	A,<1-FS15-%P>(P)
+	PPUSH	A
+	CCALL	2,Zbget1
+	JUMPN	A,L5067
+
+;	LINE 492
+
+	PPUSH	<2-FS15-%P>(P)
+	PPUSH	[-1]
+	CCALL	2,Zbget1
+	JUMPE	A,L5068
+
+;	LINE 493
+
+	MOVEI	A,<3-FS15-%P>(P)
+	MOVEI	C,1
+	MOVEM	C,(A)
+
+;	LINE 494
+
+	MOVEI	A,<3-FS15-%P>(P)
+	PPUSH	<0-FS15-%A-%P>(P)
+	MOVEM	A,<5-FS15-%P>(P)
+	CCALL	1,Ztregs
+	MOVE	C,A
+	MOVE	A,<5-FS15-%P>(P)
+	MOVEM	C,1(A)
+
+;	LINE 495
+
+	PPUSH	<0-FS15-%A-%P>(P)
+	MOVEI	A,<3-FS15-%P>(P)
+	PPUSH	A
+	CCALL	2,Zcgmov
+	MOVEM	A,<0-FS15-%A-%P>(P)
+
+;	LINE 496
+
+	PPUSH	<0-FS15-%A-%P>(P)
+	PPUSH	<1-FS15-%A-%P>(P)
+	CCALL	2,Zcgmov
+	MOVEM	A,<0-FS15-%A-%P>(P)
+	GO	L5069
+L5068:
+
+;	LINE 498
+
+	PPUSH	[6038]
+	CCALL	1,Zerrx
+L5069:
+L5067:
+L5066:
+	GO	L14
+L19:
+
+;	LINE 502
+
+	PPUSH	[6039]
+	MOVE	A,<1-FS15-%A-%P>(P)
+	PPUSH	(A)
+	PPUSH	<2-FS15-%P>(P)
+	CCALL	3,Zerrx
+L5059:
+L14:
+
+;	LINE 505
+
+	MOVE	A,<0-FS15-%A-%P>(P)
+	SUBI	P,FS15+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS15+%A+1
+	GO	@<%A+1>(P)
+FS15==6-1
+
+%A==2
+	%A,,[ASCIZ/cg_elist/]
+ZcgJel:	ADDI	P,FS16
+
+;	LINE 524
+
+	MOVEI	A,<4-FS16-%P>(P)
+	ADDI	A,30
+	MOVEM	A,<34-FS16-%P>(P)
+	MOVEM	A,<35-FS16-%P>(P)
+
+;	LINE 525
+
+	MOVE	A,<0-FS16-%A-%P>(P)
+	MOVEM	A,<2-FS16-%P>(P)
+L21:
+
+;	LINE 526
+
+	SKIPN	<2-FS16-%P>(P)
+	GO	L5070
+	MOVE	A,<2-FS16-%P>(P)
+	MOVE	A,(A)
+	JUMPGE	A,L5070
+
+;	LINE 527
+
+	MOVEI	A,1
+	MOVN	A,A
+	ADDB	A,<34-FS16-%P>(P)
+	MOVE	C,<2-FS16-%P>(P)
+	MOVE	C,2(C)
+	MOVEM	C,(A)
+
+;	LINE 528
+
+	MOVE	A,<2-FS16-%P>(P)
+	MOVE	A,1(A)
+	MOVEM	A,<2-FS16-%P>(P)
+	GO	L21
+L5070:
+L20:
+
+;	LINE 530
+
+	SKIPN	<2-FS16-%P>(P)
+	GO	L5071
+	MOVEI	A,1
+	MOVN	A,A
+	ADDB	A,<34-FS16-%P>(P)
+	MOVE	C,<2-FS16-%P>(P)
+	MOVEM	C,(A)
+L5071:
+
+;	LINE 532
+
+	MOVE	A,<35-FS16-%P>(P)
+	SUB	A,<34-FS16-%P>(P)
+	MOVEM	A,<1-FS16-%P>(P)
+
+;	LINE 533
+
+	MOVE	A,Zargop
+	JUMPN	A,L5072
+	PPUSH	ZTINT
+	PPUSH	<1-FS16-%P>(P)
+	CCALL	2,Zttemp
+	MOVEM	A,<3-FS16-%P>(P)
+	MOVE	C,<1-FS16-%A-%P>(P)
+	MOVEM	A,(C)
+	GO	L5073
+L5072:
+
+;	LINE 534
+
+	MOVEI	A,0
+	MOVEM	A,<3-FS16-%P>(P)
+	MOVE	C,<1-FS16-%A-%P>(P)
+	MOVEM	A,(C)
+L5073:
+L23:
+
+;	LINE 535
+
+	MOVE	A,<34-FS16-%P>(P)
+	CAML	A,<35-FS16-%P>(P)
+	GO	L5074
+
+;	LINE 536
+
+	MOVEI	B,1
+	MOVE	A,<34-FS16-%P>(P)
+	ADDM	B,<34-FS16-%P>(P)
+	PPUSH	(A)
+	PPUSH	<3-FS16-%P>(P)
+	CCALL	2,ZcgJfa
+
+;	LINE 537
+
+	MOVE	A,ZintJs
+	ADDB	A,<3-FS16-%P>(P)
+	GO	L23
+L5074:
+L22:
+
+;	LINE 539
+
+	MOVE	A,<1-FS16-%P>(P)
+	SUBI	P,FS16+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS16+%A+1
+	GO	@<%A+1>(P)
+FS16==36-1
+
+%A==2
+	%A,,[ASCIZ/cg_farg/]
+ZcgJfa:	ADDI	P,FS17
+
+;	LINE 553
+
+	SKIPE	<0-FS17-%A-%P>(P)
+	GO	L5075
+	SUBI	P,FS17+%A+1
+	GO	@<%A+1>(P)
+L5075:
+
+;	LINE 554
+
+	PPUSH	<0-FS17-%A-%P>(P)
+	CCALL	1,Zopt
+	MOVEM	A,<0-FS17-%A-%P>(P)
+
+;	LINE 555
+
+	MOVE	A,ZfltJh
+	JUMPE	A,L5076
+	MOVE	A,<0-FS17-%A-%P>(P)
+	MOVE	A,1(A)
+	CAME	A,ZTDOUB
+	GO	L5076
+
+;	LINE 556
+
+	PPUSH	<0-FS17-%A-%P>(P)
+	MOVEI	A,Zallre
+	PPUSH	A
+	CCALL	2,Zttexp
+	MOVEM	A,<0-FS17-%A-%P>(P)
+	JUMPN	A,L5077
+	SUBI	P,FS17+%A+1
+	GO	@<%A+1>(P)
+L5077:
+
+;	LINE 557
+
+	PPUSH	<0-FS17-%A-%P>(P)
+	PPUSH	[-1]
+	PPUSH	<0-FS17-%A-%P>(P)
+	CCALL	1,Zgette
+	PPUSH	A
+	PPUSH	[1]
+	CCALL	4,Zmmove
+	MOVEM	A,<0-FS17-%A-%P>(P)
+
+;	LINE 558
+
+	SKIPE	<0-FS17-%A-%P>(P)
+	GO	L5078
+	SUBI	P,FS17+%A+1
+	GO	@<%A+1>(P)
+L5078:
+
+;	LINE 559
+
+	MOVE	A,<0-FS17-%A-%P>(P)
+	MOVE	A,4(A)
+	CAIG	A,1
+	GO	L5079
+	PPUSH	[6046]
+	CCALL	1,Zerrx
+L5079:
+
+;	LINE 560
+
+	MOVE	A,<0-FS17-%A-%P>(P)
+	MOVEI	C,127
+	MOVEM	C,(A)
+
+;	LINE 561
+
+	MOVE	A,<0-FS17-%A-%P>(P)
+	MOVEI	C,2
+	MOVEM	C,4(A)
+
+;	LINE 562
+
+	PPUSH	<0-FS17-%A-%P>(P)
+	CCALL	1,Ztaddr
+	MOVEM	A,<0-FS17-%A-%P>(P)
+
+;	LINE 563
+
+	MOVE	A,Zargop
+	JUMPE	A,L5080
+
+;	LINE 564
+
+	MOVEI	A,Ztpoin
+	MOVE	A,3(A)
+	ADDI	A,98
+	PPUSH	A
+	MOVE	A,<0-FS17-%A-%P>(P)
+	PPUSH	1(A)
+	PPUSH	[0]
+	PPUSH	<0-FS17-%A-%P>(P)
+	PPUSH	[0]
+	CCALL	5,Zmkeno
+	MOVEM	A,<0-FS17-%A-%P>(P)
+L5080:
+L5076:
+
+;	LINE 567
+
+	PPUSH	<0-FS17-%A-%P>(P)
+	MOVE	A,Zargop
+	JUMPE	A,L5082
+	MOVEI	A,Zanywh
+	GO	L5083
+L5082:
+	MOVEI	A,Zallre
+L5083:
+	PPUSH	A
+	CCALL	2,Zttexp
+	MOVEM	A,<0-FS17-%A-%P>(P)
+	JUMPN	A,L5081
+	SUBI	P,FS17+%A+1
+	GO	@<%A+1>(P)
+L5081:
+
+;	LINE 568
+
+	MOVE	A,Zargop
+	JUMPN	A,L5084
+	PPUSH	<0-FS17-%A-%P>(P)
+	PPUSH	[-1]
+	PPUSH	<1-FS17-%A-%P>(P)
+	PPUSH	[1]
+	CCALL	4,Zmmove
+	MOVEM	A,<0-FS17-%A-%P>(P)
+	GO	L5085
+L5084:
+
+;	LINE 569
+
+	PPUSH	<0-FS17-%A-%P>(P)
+	CCALL	1,Zeclea
+L5085:
+	SUBI	P,FS17+%A+1
+	GO	@<%A+1>(P)
+FS17==1-1
+
+%A==3
+	%A,,[ASCIZ/choose/]
+Zchoos:	ADDI	P,FS18
+
+;	LINE 589
+
+	MOVE	A,<0-FS18-%A-%P>(P)
+	MOVE	A,(A)
+	MOVEM	A,<8-FS18-%P>(P)
+
+;	LINE 590
+
+	MOVEI	A,Zrtopp
+	ADD	A,<8-FS18-%P>(P)
+	MOVE	A,(A)
+	MOVEM	A,<4-FS18-%P>(P)
+
+;	LINE 591
+
+	MOVE	A,<4-FS18-%P>(P)
+	JUMPL	A,L5086
+
+;	LINE 592
+
+	MOVEI	A,Zrtopl
+	ADD	A,<4-FS18-%P>(P)
+	MOVEM	A,<9-FS18-%P>(P)
+
+;	LINE 593
+
+	MOVNI	A,--500
+	MOVEM	A,<7-FS18-%P>(P)
+
+;	LINE 594
+
+	MOVEI	A,0
+	MOVEM	A,<2-FS18-%P>(P)
+L25:
+
+;	LINE 595
+
+	MOVEI	B,1
+	MOVE	A,<9-FS18-%P>(P)
+	ADDM	B,<9-FS18-%P>(P)
+	MOVE	A,(A)
+	MOVEM	A,<5-FS18-%P>(P)
+	JUMPL	A,L5087
+
+;	LINE 596
+
+	MOVE	A,<5-FS18-%P>(P)
+	IMULI	A,7
+	MOVEI	C,Zxoplo
+	ADD	C,A
+	MOVEM	C,<1-FS18-%P>(P)
+
+;	LINE 597
+
+	PPUSH	<1-FS18-%P>(P)
+	PPUSH	<0-FS18-%A-%P>(P)
+	PPUSH	<1-FS18-%A-%P>(P)
+	CCALL	3,Zscore
+	MOVEM	A,<6-FS18-%P>(P)
+
+;	LINE 598
+
+	MOVE	A,<6-FS18-%P>(P)
+	CAMG	A,<7-FS18-%P>(P)
+	GO	L5088
+	MOVE	A,<6-FS18-%P>(P)
+	MOVEM	A,<7-FS18-%P>(P)
+	MOVE	A,<1-FS18-%P>(P)
+	MOVEM	A,<2-FS18-%P>(P)
+L5088:
+	GO	L25
+L5087:
+L24:
+
+;	LINE 600
+
+	SKIPN	<2-FS18-%P>(P)
+	GO	L5089
+
+;	LINE 601
+
+	MOVE	A,<2-FS18-%P>(P)
+	MOVE	A,4(A)
+	MOVEM	A,<6-FS18-%P>(P)
+
+;	LINE 602
+
+	MOVE	A,<6-FS18-%P>(P)
+	CAIE	A,3
+	GO	L5090
+	MOVEI	A,0
+	GO	L5091
+L5090:
+	MOVE	A,<6-FS18-%P>(P)
+	CAIE	A,4
+	GO	L5092
+	MOVEI	A,1
+	GO	L5093
+L5092:
+	MOVEI	A,2
+L5093:
+L5091:
+	IMULI	A,2
+	ADD	A,<2-FS18-%P>(P)
+	MOVEM	A,<3-FS18-%P>(P)
+
+;	LINE 603
+
+	MOVE	A,<2-FS18-%A-%P>(P)
+	MOVE	C,<3-FS18-%P>(P)
+	MOVE	C,(C)
+	MOVEM	C,(A)
+
+;	LINE 604
+
+	MOVE	A,<2-FS18-%A-%P>(P)
+	MOVE	C,<3-FS18-%P>(P)
+	MOVE	C,1(C)
+	MOVEM	C,1(A)
+
+;	LINE 605
+
+	MOVE	A,<1-FS18-%A-%P>(P)
+	MOVE	A,(A)
+	MOVE	C,<2-FS18-%A-%P>(P)
+	CAME	A,(C)
+	GO	L5094
+	MOVE	A,<2-FS18-%A-%P>(P)
+	MOVE	A,1(A)
+	MOVE	C,<1-FS18-%A-%P>(P)
+	AND	A,1(C)
+	MOVEM	A,<6-FS18-%P>(P)
+	JUMPE	A,L5094
+
+;	LINE 606
+
+	MOVE	A,<2-FS18-%A-%P>(P)
+	MOVE	C,<6-FS18-%P>(P)
+	MOVEM	C,1(A)
+L5094:
+
+;	LINE 607
+
+	MOVE	A,<2-FS18-%P>(P)
+	SUBI	P,FS18+%A+1
+	GO	@<%A+1>(P)
+L5089:
+
+;	LINE 609
+
+	PPUSH	[6031]
+	PPUSH	<8-FS18-%P>(P)
+	CCALL	2,Zerrx
+L5086:
+
+;	LINE 611
+
+	PPUSH	[1029]
+	PPUSH	<8-FS18-%P>(P)
+	CCALL	2,Zerrx
+
+;	LINE 612
+
+	MOVEI	A,0
+	SUBI	P,FS18+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS18+%A+1
+	GO	@<%A+1>(P)
+FS18==10-1
+
+%A==3
+	%A,,[ASCIZ/score/]
+Zscore:	ADDI	P,FS19
+
+;	LINE 627
+
+	MOVE	A,<0-FS19-%A-%P>(P)
+	MOVE	A,6(A)
+	MOVEM	A,<1-FS19-%P>(P)
+	JUMPE	A,L5095
+	PPUSH	<1-FS19-%P>(P)
+	CCALL	1,Znbusy
+	IMUL	A,[-10]
+	GO	L5096
+L5095:
+	MOVEI	A,0
+L5096:
+	MOVEM	A,<2-FS19-%P>(P)
+
+;	LINE 628
+
+	MOVE	A,<0-FS19-%A-%P>(P)
+	MOVE	A,4(A)
+	MOVEM	A,<3-FS19-%P>(P)
+
+;	LINE 629
+
+	MOVE	A,<3-FS19-%P>(P)
+	CAIE	A,3
+	GO	L5097
+
+;	LINE 630
+
+	MOVE	A,<0-FS19-%A-%P>(P)
+	MOVE	A,(A)
+	MOVEM	A,<4-FS19-%P>(P)
+
+;	LINE 631
+
+	MOVE	A,<0-FS19-%A-%P>(P)
+	MOVE	A,1(A)
+	MOVEM	A,<5-FS19-%P>(P)
+	GO	L5098
+L5097:
+
+;	LINE 633
+
+	MOVE	A,<3-FS19-%P>(P)
+	CAIE	A,4
+	GO	L5099
+
+;	LINE 634
+
+	MOVE	A,<0-FS19-%A-%P>(P)
+	MOVE	A,2(A)
+	MOVEM	A,<4-FS19-%P>(P)
+
+;	LINE 635
+
+	MOVE	A,<0-FS19-%A-%P>(P)
+	MOVE	A,3(A)
+	MOVEM	A,<5-FS19-%P>(P)
+	GO	L5100
+L5099:
+
+;	LINE 638
+
+	MOVE	A,<3-FS19-%P>(P)
+	MOVEM	A,<4-FS19-%P>(P)
+
+;	LINE 639
+
+	MOVE	A,<0-FS19-%A-%P>(P)
+	MOVE	A,5(A)
+	MOVEM	A,<5-FS19-%P>(P)
+L5100:
+L5098:
+
+;	LINE 641
+
+	MOVE	A,<2-FS19-%A-%P>(P)
+	MOVE	A,1(A)
+	MOVEM	A,<6-FS19-%P>(P)
+
+;	LINE 643
+
+	MOVE	A,<2-FS19-%A-%P>(P)
+	MOVE	A,(A)
+	JUMPL	A,L5101
+	CAILE	A,2-0
+	GO	L5101
+	GO	@(A)[
+	L27
+	L28
+	L29
+	]
+L27:
+
+;	LINE 645
+
+	MOVE	A,<4-FS19-%P>(P)
+	CAIE	A,2
+	GO	L5103
+	PPUSH	<5-FS19-%P>(P)
+	PPUSH	[5]
+	CCALL	2,Zbget1
+	JUMPN	A,L5102
+L5103:
+	MOVNI	A,--1000
+	MOVEM	A,<2-FS19-%P>(P)
+L5102:
+	GO	L26
+L28:
+
+;	LINE 648
+
+	MOVE	A,<4-FS19-%P>(P)
+	CAIE	A,1
+	GO	L5104
+
+;	LINE 649
+
+	MOVE	A,<6-FS19-%P>(P)
+	AND	A,<5-FS19-%P>(P)
+	MOVEM	A,<1-FS19-%P>(P)
+	JUMPE	A,L5105
+
+;	LINE 650
+
+	PPUSH	<1-FS19-%P>(P)
+	CCALL	1,Znfree
+	JUMPN	A,L5106
+	PPUSH	<6-FS19-%P>(P)
+	CCALL	1,Znfree
+	JUMPLE	A,L5106
+	MOVE	A,<2-FS19-%P>(P)
+	SUBI	A,10
+	MOVEM	A,<2-FS19-%P>(P)
+L5106:
+	GO	L5107
+L5105:
+
+;	LINE 652
+
+	MOVE	A,<2-FS19-%P>(P)
+	PPUSH	<5-FS19-%P>(P)
+	MOVEM	A,<7-FS19-%P>(P)
+	CCALL	1,Znfree
+	JUMPLE	A,L5108
+	MOVEI	C,4
+	GO	L5109
+L5108:
+	MOVEI	C,14
+L5109:
+	MOVE	A,<7-FS19-%P>(P)
+	SUB	A,C
+	MOVEM	A,<2-FS19-%P>(P)
+L5107:
+	GO	L5110
+L5104:
+
+;	LINE 654
+
+	MOVE	A,<2-FS19-%P>(P)
+	SUBI	A,5
+	MOVEM	A,<2-FS19-%P>(P)
+L5110:
+	GO	L26
+L29:
+
+;	LINE 657
+
+	MOVE	A,<4-FS19-%P>(P)
+	CAIE	A,1
+	GO	L5111
+
+;	LINE 658
+
+	PPUSH	<6-FS19-%P>(P)
+	PPUSH	[1]
+	CCALL	2,Zbget1
+	JUMPN	A,L5112
+	MOVNI	A,--1000
+	MOVEM	A,<2-FS19-%P>(P)
+	GO	L5113
+L5112:
+
+;	LINE 659
+
+	MOVE	A,<2-FS19-%P>(P)
+	PPUSH	<5-FS19-%P>(P)
+	MOVEM	A,<7-FS19-%P>(P)
+	CCALL	1,Znfree
+	JUMPLE	A,L5114
+	MOVEI	C,5
+	GO	L5115
+L5114:
+	MOVEI	C,15
+L5115:
+	MOVE	A,<7-FS19-%P>(P)
+	SUB	A,C
+	MOVEM	A,<2-FS19-%P>(P)
+L5113:
+	GO	L5116
+L5111:
+
+;	LINE 661
+
+	MOVE	A,<5-FS19-%P>(P)
+	AND	A,<6-FS19-%P>(P)
+	CAMN	A,<5-FS19-%P>(P)
+	GO	L5117
+	MOVNI	A,--1000
+	MOVEM	A,<2-FS19-%P>(P)
+L5117:
+L5116:
+	GO	L26
+L5101:
+L26:
+
+;	LINE 665
+
+	MOVE	A,<2-FS19-%P>(P)
+	CAMG	A,[-1000]
+	GO	L5118
+
+;	LINE 666
+
+	MOVE	A,<1-FS19-%A-%P>(P)
+	SKIPN	7(A)
+	GO	L5119
+	MOVE	A,<1-FS19-%A-%P>(P)
+	PPUSH	7(A)
+	PPUSH	<3-FS19-%P>(P)
+	PPUSH	<0-FS19-%A-%P>(P)
+	CCALL	3,Zscoro
+	ADDB	A,<2-FS19-%P>(P)
+L5119:
+
+;	LINE 667
+
+	MOVE	A,<1-FS19-%A-%P>(P)
+	SKIPN	8(A)
+	GO	L5120
+	MOVE	A,<1-FS19-%A-%P>(P)
+	PPUSH	8(A)
+	PPUSH	<3-FS19-%P>(P)
+	MOVE	A,<0-FS19-%A-%P>(P)
+	ADDI	A,2
+	PPUSH	A
+	CCALL	3,Zscoro
+	ADDB	A,<2-FS19-%P>(P)
+L5120:
+L5118:
+
+;	LINE 672
+
+	MOVE	A,Zaflag
+	JUMPE	A,L5121
+	MOVEI	A,S91
+	PPUSH	A
+	PPUSH	<2-FS19-%P>(P)
+	CCALL	2,Zcprin
+L5121:
+
+;	LINE 676
+
+	MOVE	A,<2-FS19-%P>(P)
+	SUBI	P,FS19+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS19+%A+1
+	GO	@<%A+1>(P)
+FS19==8-1
+
+%A==3
+	%A,,[ASCIZ/scorop/]
+Zscoro:	ADDI	P,FS20
+
+;	LINE 689
+
+	MOVE	A,<2-FS20-%A-%P>(P)
+	MOVE	A,(A)
+	MOVEM	A,<1-FS20-%P>(P)
+
+;	LINE 690
+
+	MOVE	A,<2-FS20-%A-%P>(P)
+	MOVE	A,1(A)
+	MOVEM	A,<2-FS20-%P>(P)
+
+;	LINE 691
+
+	PPUSH	<0-FS20-%A-%P>(P)
+	MOVEI	A,<3-FS20-%P>(P)
+	PPUSH	A
+	MOVEI	A,<4-FS20-%P>(P)
+	PPUSH	A
+	CCALL	3,Zeresu
+
+;	LINE 692
+
+	MOVEI	A,0
+	MOVEM	A,<5-FS20-%P>(P)
+
+;	LINE 693
+
+	MOVE	A,<1-FS20-%P>(P)
+	CAIE	A,1
+	GO	L5122
+
+;	LINE 694
+
+	MOVE	A,<1-FS20-%A-%P>(P)
+	CAIL	A,3
+	GO	L5123
+	PPUSH	<2-FS20-%P>(P)
+	CCALL	1,Znfree
+	JUMPN	A,L5123
+	MOVE	A,<5-FS20-%P>(P)
+	SUBI	A,10
+	MOVEM	A,<5-FS20-%P>(P)
+L5123:
+
+;	LINE 695
+
+	MOVE	A,<3-FS20-%P>(P)
+	JUMPE	A,L5124
+
+;	LINE 696
+
+	MOVE	A,<3-FS20-%P>(P)
+	AND	A,<2-FS20-%P>(P)
+	JUMPN	A,L5125
+	MOVE	A,<5-FS20-%P>(P)
+	SUBI	A,4
+	MOVEM	A,<5-FS20-%P>(P)
+L5125:
+	GO	L5126
+L5124:
+
+;	LINE 698
+
+	MOVE	A,<5-FS20-%P>(P)
+	SUBI	A,5
+	MOVEM	A,<5-FS20-%P>(P)
+L5126:
+	GO	L5127
+L5122:
+
+;	LINE 700
+
+	MOVE	A,<1-FS20-%P>(P)
+	CAIE	A,2
+	GO	L5128
+
+;	LINE 701
+
+	MOVE	A,<2-FS20-%P>(P)
+	ANDI	A,511
+	CAIE	A,511
+	GO	L5129
+
+;	LINE 702
+
+	MOVE	A,<4-FS20-%P>(P)
+	JUMPN	A,L5130
+	MOVE	A,<5-FS20-%P>(P)
+	SUBI	A,5
+	MOVEM	A,<5-FS20-%P>(P)
+L5130:
+	GO	L5131
+L5129:
+
+;	LINE 705
+
+	MOVE	A,<4-FS20-%P>(P)
+	AND	A,<2-FS20-%P>(P)
+	CAME	A,<4-FS20-%P>(P)
+	GO	L5133
+	MOVE	A,<3-FS20-%P>(P)
+	JUMPE	A,L5132
+	PPUSH	<2-FS20-%P>(P)
+	PPUSH	[1]
+	CCALL	2,Zbget1
+	JUMPN	A,L5132
+L5133:
+
+;	LINE 706
+
+	MOVNI	A,--1000
+	SUBI	P,FS20+%A+1
+	GO	@<%A+1>(P)
+L5132:
+L5131:
+L5128:
+L5127:
+
+;	LINE 708
+
+	MOVE	A,<5-FS20-%P>(P)
+	SUBI	P,FS20+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS20+%A+1
+	GO	@<%A+1>(P)
+FS20==6-1
+
+%A==3
+	%A,,[ASCIZ/eresult/]
+Zeresu:	ADDI	P,FS21
+
+;	LINE 724
+
+	MOVE	A,<0-FS21-%A-%P>(P)
+	MOVE	A,(A)
+	MOVEM	A,<1-FS21-%P>(P)
+
+;	LINE 725
+
+	MOVE	A,<1-FS21-%P>(P)
+	MOVE	B,[-5,,[
+	19
+	121
+	95
+	123
+	127
+	L31
+	L32
+	L33
+	L34
+	L35
+	]]
+	CAMN	A,(B)
+	GO	@5(B)
+	AOBJN	B,.-2
+	GO	L5134
+L31:
+
+;	LINE 727
+
+	MOVE	A,<1-FS21-%A-%P>(P)
+	MOVEI	C,0
+	MOVEM	C,(A)
+
+;	LINE 728
+
+	MOVE	A,<0-FS21-%A-%P>(P)
+	PPUSH	7(A)
+	CCALL	1,Ztregs
+	LSH	A,9
+	MOVE	C,<2-FS21-%A-%P>(P)
+	MOVEM	A,(C)
+
+;	LINE 729
+
+	SUBI	P,FS21+%A+1
+	GO	@<%A+1>(P)
+L33:
+L32:
+
+;	LINE 732
+
+	PPUSH	<0-FS21-%A-%P>(P)
+	CCALL	1,Ztregs
+	MOVE	C,<1-FS21-%A-%P>(P)
+	MOVEM	A,(C)
+
+;	LINE 733
+
+	MOVE	A,<2-FS21-%A-%P>(P)
+	MOVEI	C,0
+	MOVEM	C,(A)
+
+;	LINE 734
+
+	SUBI	P,FS21+%A+1
+	GO	@<%A+1>(P)
+L34:
+
+;	LINE 736
+
+	PPUSH	<0-FS21-%A-%P>(P)
+	CCALL	1,Zectyp
+	MOVEI	C,Zretre
+	ADD	C,A
+	MOVE	A,(C)
+	MOVEI	C,1
+	LSH	C,(A)
+	MOVE	A,<1-FS21-%A-%P>(P)
+	MOVEM	C,(A)
+
+;	LINE 737
+
+	MOVE	A,<2-FS21-%A-%P>(P)
+	MOVEI	C,0
+	MOVEM	C,(A)
+
+;	LINE 738
+
+	SUBI	P,FS21+%A+1
+	GO	@<%A+1>(P)
+L35:
+
+;	LINE 740
+
+	MOVE	A,<0-FS21-%A-%P>(P)
+	MOVEM	A,<3-FS21-%P>(P)
+
+;	LINE 741
+
+	MOVE	A,<1-FS21-%A-%P>(P)
+	MOVEI	C,0
+	MOVEM	C,(A)
+
+;	LINE 742
+
+	MOVE	A,<3-FS21-%P>(P)
+	MOVE	A,7(A)
+	MOVEM	A,<2-FS21-%P>(P)
+	CAIE	A,50
+	GO	L5135
+	MOVEI	A,2
+	GO	L5136
+L5135:
+	MOVE	A,<2-FS21-%P>(P)
+L5136:
+	MOVEI	C,1
+	LSH	C,(A)
+	MOVE	A,<2-FS21-%A-%P>(P)
+	MOVEM	C,(A)
+
+;	LINE 743
+
+	SUBI	P,FS21+%A+1
+	GO	@<%A+1>(P)
+L5134:
+L30:
+
+;	LINE 746
+
+	MOVEI	A,Zopreg
+	ADD	A,<1-FS21-%P>(P)
+	MOVE	A,(A)
+	MOVE	C,<1-FS21-%A-%P>(P)
+	MOVEM	A,(C)
+
+;	LINE 747
+
+	MOVEI	A,Zopmem
+	ADD	A,<1-FS21-%P>(P)
+	MOVE	A,(A)
+	MOVE	C,<2-FS21-%A-%P>(P)
+	MOVEM	A,(C)
+	SUBI	P,FS21+%A+1
+	GO	@<%A+1>(P)
+FS21==4-1
+
+%A==2
+	%A,,[ASCIZ/jumpz/]
+Zjumpz:	ADDI	P,FS22
+
+;	LINE 761
+
+	SKIPE	<0-FS22-%A-%P>(P)
+	GO	L5137
+	SUBI	P,FS22+%A+1
+	GO	@<%A+1>(P)
+L5137:
+
+;	LINE 762
+
+	MOVE	A,<0-FS22-%A-%P>(P)
+	MOVE	A,(A)
+	MOVEM	A,<1-FS22-%P>(P)
+
+;	LINE 764
+
+	PPUSH	<1-FS22-%P>(P)
+	CCALL	1,Zcondo
+	JUMPE	A,L5138
+
+;	LINE 765
+
+	PPUSH	<1-FS22-%P>(P)
+	CCALL	1,Zinvco
+	MOVEM	A,<4-FS22-%P>(P)
+
+;	LINE 766
+
+	MOVEI	A,Zrtopp
+	ADD	A,<4-FS22-%P>(P)
+	MOVE	A,(A)
+	JUMPGE	A,L5139
+
+;	LINE 767
+
+	PPUSH	<0-FS22-%A-%P>(P)
+	MOVE	A,Zciln
+	AOS	Zciln
+	MOVEM	A,<2-FS22-%P>(P)
+	PPUSH	A
+	CCALL	2,Zjumpn
+
+;	LINE 768
+
+	PPUSH	<1-FS22-%A-%P>(P)
+	CCALL	1,Zjump
+
+;	LINE 769
+
+	PPUSH	<2-FS22-%P>(P)
+	CCALL	1,Zilabe
+	GO	L5140
+L5139:
+
+;	LINE 772
+
+	MOVE	A,<0-FS22-%A-%P>(P)
+	MOVE	C,<4-FS22-%P>(P)
+	MOVEM	C,(A)
+
+;	LINE 773
+
+	PPUSH	<0-FS22-%A-%P>(P)
+	PPUSH	<1-FS22-%A-%P>(P)
+	CCALL	2,Zjumpn
+
+;	LINE 774
+
+	MOVE	A,<0-FS22-%A-%P>(P)
+	MOVE	C,<1-FS22-%P>(P)
+	MOVEM	C,(A)
+L5140:
+
+;	LINE 776
+
+	SUBI	P,FS22+%A+1
+	GO	@<%A+1>(P)
+L5138:
+
+;	LINE 779
+
+	MOVE	A,<1-FS22-%P>(P)
+	MOVE	B,[-4,,[
+	7
+	92
+	93
+	126
+	L37
+	L38
+	L39
+	L40
+	]]
+	CAMN	A,(B)
+	GO	@4(B)
+	AOBJN	B,.-2
+	GO	L5141
+L37:
+
+;	LINE 781
+
+	MOVE	A,<0-FS22-%A-%P>(P)
+	PPUSH	7(A)
+	PPUSH	<1-FS22-%A-%P>(P)
+	CCALL	2,Zjumpn
+
+;	LINE 782
+
+	SUBI	P,FS22+%A+1
+	GO	@<%A+1>(P)
+L38:
+
+;	LINE 784
+
+	MOVE	A,<0-FS22-%A-%P>(P)
+	PPUSH	7(A)
+	PPUSH	<1-FS22-%A-%P>(P)
+	CCALL	2,Zjumpz
+
+;	LINE 785
+
+	MOVE	A,<0-FS22-%A-%P>(P)
+	PPUSH	8(A)
+	PPUSH	<1-FS22-%A-%P>(P)
+	CCALL	2,Zjumpz
+
+;	LINE 786
+
+	SUBI	P,FS22+%A+1
+	GO	@<%A+1>(P)
+L39:
+
+;	LINE 788
+
+	MOVE	A,<0-FS22-%A-%P>(P)
+	PPUSH	7(A)
+	MOVE	A,Zciln
+	AOS	Zciln
+	MOVEM	A,<2-FS22-%P>(P)
+	PPUSH	A
+	CCALL	2,Zjumpn
+
+;	LINE 789
+
+	MOVE	A,<0-FS22-%A-%P>(P)
+	PPUSH	8(A)
+	PPUSH	<1-FS22-%A-%P>(P)
+	CCALL	2,Zjumpz
+
+;	LINE 790
+
+	PPUSH	<2-FS22-%P>(P)
+	CCALL	1,Zilabe
+
+;	LINE 791
+
+	SUBI	P,FS22+%A+1
+	GO	@<%A+1>(P)
+L40:
+
+;	LINE 793
+
+	MOVE	A,<0-FS22-%A-%P>(P)
+	MOVEM	A,<5-FS22-%P>(P)
+	MOVE	A,7(A)
+	JUMPN	A,L5142
+	PPUSH	<1-FS22-%A-%P>(P)
+	CCALL	1,Zjump
+L5142:
+
+;	LINE 794
+
+	SUBI	P,FS22+%A+1
+	GO	@<%A+1>(P)
+L5141:
+L36:
+
+;	LINE 797
+
+	MOVEI	A,<3-FS22-%P>(P)
+	MOVEI	C,26
+	MOVEM	C,(A)
+
+;	LINE 798
+
+	MOVEI	A,<3-FS22-%P>(P)
+	PPUSH	A
+	PPUSH	<0-FS22-%A-%P>(P)
+	PPUSH	[0]
+	CCALL	1,Zintco
+	PPUSH	A
+	CCALL	3,Ztxpr2
+	PPUSH	A
+	PPUSH	<1-FS22-%A-%P>(P)
+	CCALL	2,Zjumpn
+	SUBI	P,FS22+%A+1
+	GO	@<%A+1>(P)
+FS22==6-1
+
+%A==2
+	%A,,[ASCIZ/jumpn/]
+Zjumpn:	ADDI	P,FS23
+
+;	LINE 813
+
+	SKIPE	<0-FS23-%A-%P>(P)
+	GO	L5143
+	SUBI	P,FS23+%A+1
+	GO	@<%A+1>(P)
+L5143:
+
+;	LINE 814
+
+	MOVE	A,<0-FS23-%A-%P>(P)
+	MOVE	A,(A)
+	MOVEM	A,<1-FS23-%P>(P)
+
+;	LINE 816
+
+	PPUSH	<1-FS23-%P>(P)
+	CCALL	1,Zcondo
+	JUMPE	A,L5144
+
+;	LINE 817
+
+	MOVEI	A,<4-FS23-%P>(P)
+	MOVEI	C,0
+	MOVEM	C,(A)
+
+;	LINE 818
+
+	MOVEI	A,<4-FS23-%P>(P)
+	MOVE	C,<1-FS23-%A-%P>(P)
+	MOVEM	C,1(A)
+
+;	LINE 819
+
+	PPUSH	<0-FS23-%A-%P>(P)
+	MOVEI	A,<4-FS23-%P>(P)
+	PPUSH	A
+	CCALL	2,Zttexp
+
+;	LINE 820
+
+	SUBI	P,FS23+%A+1
+	GO	@<%A+1>(P)
+L5144:
+
+;	LINE 823
+
+	MOVE	A,<1-FS23-%P>(P)
+	MOVE	B,[-4,,[
+	7
+	92
+	93
+	126
+	L42
+	L43
+	L44
+	L45
+	]]
+	CAMN	A,(B)
+	GO	@4(B)
+	AOBJN	B,.-2
+	GO	L5145
+L42:
+
+;	LINE 825
+
+	MOVE	A,<0-FS23-%A-%P>(P)
+	PPUSH	7(A)
+	PPUSH	<1-FS23-%A-%P>(P)
+	CCALL	2,Zjumpz
+
+;	LINE 826
+
+	SUBI	P,FS23+%A+1
+	GO	@<%A+1>(P)
+L43:
+
+;	LINE 828
+
+	MOVE	A,<0-FS23-%A-%P>(P)
+	PPUSH	7(A)
+	MOVE	A,Zciln
+	AOS	Zciln
+	MOVEM	A,<2-FS23-%P>(P)
+	PPUSH	A
+	CCALL	2,Zjumpz
+
+;	LINE 829
+
+	MOVE	A,<0-FS23-%A-%P>(P)
+	PPUSH	8(A)
+	PPUSH	<1-FS23-%A-%P>(P)
+	CCALL	2,Zjumpn
+
+;	LINE 830
+
+	PPUSH	<2-FS23-%P>(P)
+	CCALL	1,Zilabe
+
+;	LINE 831
+
+	SUBI	P,FS23+%A+1
+	GO	@<%A+1>(P)
+L44:
+
+;	LINE 833
+
+	MOVE	A,<0-FS23-%A-%P>(P)
+	PPUSH	7(A)
+	PPUSH	<1-FS23-%A-%P>(P)
+	CCALL	2,Zjumpn
+
+;	LINE 834
+
+	MOVE	A,<0-FS23-%A-%P>(P)
+	PPUSH	8(A)
+	PPUSH	<1-FS23-%A-%P>(P)
+	CCALL	2,Zjumpn
+
+;	LINE 835
+
+	SUBI	P,FS23+%A+1
+	GO	@<%A+1>(P)
+L45:
+
+;	LINE 837
+
+	MOVE	A,<0-FS23-%A-%P>(P)
+	MOVEM	A,<6-FS23-%P>(P)
+	MOVE	A,7(A)
+	JUMPE	A,L5146
+	PPUSH	<1-FS23-%A-%P>(P)
+	CCALL	1,Zjump
+L5146:
+
+;	LINE 838
+
+	SUBI	P,FS23+%A+1
+	GO	@<%A+1>(P)
+L5145:
+L41:
+
+;	LINE 841
+
+	MOVEI	A,<3-FS23-%P>(P)
+	MOVEI	C,27
+	MOVEM	C,(A)
+
+;	LINE 842
+
+	MOVEI	A,<3-FS23-%P>(P)
+	PPUSH	A
+	PPUSH	<0-FS23-%A-%P>(P)
+	PPUSH	[0]
+	CCALL	1,Zintco
+	PPUSH	A
+	CCALL	3,Ztxpr2
+	PPUSH	A
+	PPUSH	<1-FS23-%A-%P>(P)
+	CCALL	2,Zjumpn
+	SUBI	P,FS23+%A+1
+	GO	@<%A+1>(P)
+FS23==7-1
+
+%A==1
+	%A,,[ASCIZ/creturn/]
+Zcretu:	ADDI	P,FS24
+
+;	LINE 856
+
+	SKIPN	<0-FS24-%A-%P>(P)
+	GO	L5147
+
+;	LINE 857
+
+	PPUSH	<0-FS24-%A-%P>(P)
+	CCALL	1,Zectyp
+	MOVEI	C,Zretre
+	ADD	C,A
+	MOVE	A,(C)
+	MOVEM	A,<3-FS24-%P>(P)
+
+;	LINE 858
+
+	MOVE	A,<3-FS24-%P>(P)
+	JUMPGE	A,L5148
+	PPUSH	[6030]
+	CCALL	1,Zerrx
+L5148:
+
+;	LINE 859
+
+	MOVEI	A,<1-FS24-%P>(P)
+	MOVEI	C,1
+	MOVEM	C,(A)
+
+;	LINE 860
+
+	MOVEI	A,<1-FS24-%P>(P)
+	MOVEI	C,1
+	MOVE	D,<3-FS24-%P>(P)
+	LSH	C,(D)
+	MOVEM	C,1(A)
+
+;	LINE 861
+
+	PPUSH	<0-FS24-%A-%P>(P)
+	MOVEI	A,<1-FS24-%P>(P)
+	PPUSH	A
+	CCALL	2,Zexpr
+L5147:
+
+;	LINE 863
+
+	CCALL	0,Zmretu
+	SUBI	P,FS24+%A+1
+	GO	@<%A+1>(P)
+FS24==4-1
+
+%A==1
+	%A,,[ASCIZ/jumpe/]
+Zjumpe:	ADDI	P,FS25
+
+;	LINE 874
+
+	PPUSH	<0-FS25-%A-%P>(P)
+	MOVEI	A,Zallme
+	PPUSH	A
+	CCALL	2,Zexpr
+	JUMPE	A,L5149
+
+;	LINE 875
+
+	MOVE	A,<0-FS25-%A-%P>(P)
+	PPUSH	2(A)
+	MOVE	A,<0-FS25-%A-%P>(P)
+	PPUSH	3(A)
+	CCALL	2,Zmgoto
+L5149:
+	SUBI	P,FS25+%A+1
+	GO	@<%A+1>(P)
+FS25==1-1
+
+%A==3
+	%A,,[ASCIZ/expr2/]
+Zexpr2:	ADDI	P,FS26
+
+;	LINE 894
+
+	MOVE	A,<0-FS26-%A-%P>(P)
+	SKIPE	8(A)
+	GO	L5150
+
+;	LINE 895
+
+	MOVE	A,<0-FS26-%A-%P>(P)
+	SKIPN	7(A)
+	GO	L5151
+
+;	LINE 896
+
+	MOVE	A,<0-FS26-%A-%P>(P)
+	PPUSH	7(A)
+	PPUSH	<1-FS26-%A-%P>(P)
+	CCALL	2,Zttexp
+	MOVE	C,<0-FS26-%A-%P>(P)
+	MOVEM	A,7(C)
+	SUBI	P,FS26+%A+1
+	GO	@<%A+1>(P)
+	GO	L5152
+L5151:
+
+;	LINE 897
+
+	MOVEI	A,0
+	SUBI	P,FS26+%A+1
+	GO	@<%A+1>(P)
+L5152:
+L5150:
+
+;	LINE 898
+
+	MOVE	A,<0-FS26-%A-%P>(P)
+	MOVE	A,8(A)
+	MOVE	A,5(A)
+	MOVE	C,<0-FS26-%A-%P>(P)
+	MOVE	C,7(C)
+	MOVE	C,5(C)
+	CAMG	A,C
+	GO	L5153
+	MOVE	A,<0-FS26-%A-%P>(P)
+	MOVE	A,7(A)
+	MOVE	A,4(A)
+	CAIL	A,2
+	GO	L5153
+
+;	LINE 899
+
+	MOVE	A,<0-FS26-%A-%P>(P)
+	ADDI	A,8
+	MOVEM	A,<1-FS26-%P>(P)
+
+;	LINE 900
+
+	MOVE	A,<0-FS26-%A-%P>(P)
+	ADDI	A,7
+	MOVEM	A,<2-FS26-%P>(P)
+
+;	LINE 901
+
+	MOVE	A,<1-FS26-%A-%P>(P)
+	MOVEM	A,<3-FS26-%P>(P)
+	MOVE	A,<2-FS26-%A-%P>(P)
+	MOVEM	A,<1-FS26-%A-%P>(P)
+	MOVE	A,<3-FS26-%P>(P)
+	MOVEM	A,<2-FS26-%A-%P>(P)
+	GO	L5154
+L5153:
+
+;	LINE 904
+
+	MOVE	A,<0-FS26-%A-%P>(P)
+	ADDI	A,7
+	MOVEM	A,<1-FS26-%P>(P)
+
+;	LINE 905
+
+	MOVE	A,<0-FS26-%A-%P>(P)
+	ADDI	A,8
+	MOVEM	A,<2-FS26-%P>(P)
+L5154:
+
+;	LINE 908
+
+	MOVEI	A,<4-FS26-%P>(P)
+	MOVE	C,<1-FS26-%A-%P>(P)
+	MOVE	C,(C)
+	MOVEM	C,(A)
+
+;	LINE 909
+
+	MOVEI	A,<4-FS26-%P>(P)
+	MOVE	C,<1-FS26-%A-%P>(P)
+	MOVE	C,1(C)
+	MOVEM	C,1(A)
+
+;	LINE 910
+
+	MOVEI	A,<6-FS26-%P>(P)
+	MOVE	C,<2-FS26-%A-%P>(P)
+	MOVE	C,(C)
+	MOVEM	C,(A)
+
+;	LINE 911
+
+	MOVEI	A,<6-FS26-%P>(P)
+	MOVE	C,<2-FS26-%A-%P>(P)
+	MOVE	C,1(C)
+	MOVEM	C,1(A)
+
+;	LINE 912
+
+	MOVEI	A,<4-FS26-%P>(P)
+	MOVEM	A,<8-FS26-%P>(P)
+
+;	LINE 913
+
+	MOVEI	A,<6-FS26-%P>(P)
+	MOVEM	A,<9-FS26-%P>(P)
+
+;	LINE 914
+
+	MOVE	A,<1-FS26-%P>(P)
+	PPUSH	(A)
+	PPUSH	<8-FS26-%P>(P)
+	CCALL	2,Zfixlo
+
+;	LINE 915
+
+	MOVE	A,<2-FS26-%P>(P)
+	PPUSH	(A)
+	PPUSH	<9-FS26-%P>(P)
+	CCALL	2,Zfixlo
+
+;	LINE 916
+
+	MOVE	A,<8-FS26-%P>(P)
+	MOVE	A,(A)
+	MOVEM	A,<10-FS26-%P>(P)
+
+;	LINE 917
+
+	MOVE	A,<9-FS26-%P>(P)
+	MOVE	A,(A)
+	MOVEM	A,<11-FS26-%P>(P)
+
+;	LINE 918
+
+	MOVE	A,<8-FS26-%P>(P)
+	MOVE	A,1(A)
+	MOVEM	A,<12-FS26-%P>(P)
+
+;	LINE 919
+
+	MOVE	A,<9-FS26-%P>(P)
+	MOVE	A,1(A)
+	MOVEM	A,<13-FS26-%P>(P)
+
+;	LINE 921
+
+	MOVE	A,<10-FS26-%P>(P)
+	CAIE	A,2
+	GO	L5155
+
+;	LINE 922
+
+	MOVE	A,<12-FS26-%P>(P)
+	ANDI	A,511
+	MOVEM	A,<14-FS26-%P>(P)
+
+;	LINE 923
+
+	MOVE	A,<12-FS26-%P>(P)
+	LSH	A,-9
+	MOVEM	A,<12-FS26-%P>(P)
+L5155:
+
+;	LINE 925
+
+	MOVE	A,<11-FS26-%P>(P)
+	CAIE	A,2
+	GO	L5156
+
+;	LINE 926
+
+	MOVE	A,<13-FS26-%P>(P)
+	ANDI	A,511
+	MOVEM	A,<15-FS26-%P>(P)
+
+;	LINE 927
+
+	MOVE	A,<13-FS26-%P>(P)
+	LSH	A,-9
+	MOVEM	A,<13-FS26-%P>(P)
+L5156:
+
+;	LINE 929
+
+	PPUSH	<13-FS26-%P>(P)
+	CCALL	1,Zonebi
+	JUMPE	A,L5157
+	SETCM	A,<13-FS26-%P>(P)
+	ANDB	A,<12-FS26-%P>(P)
+L5157:
+
+;	LINE 931
+
+	MOVE	A,<10-FS26-%P>(P)
+	CAIE	A,2
+	GO	L5158
+	MOVE	A,<12-FS26-%P>(P)
+	LSH	A,9
+	IOR	A,<14-FS26-%P>(P)
+	MOVEM	A,<12-FS26-%P>(P)
+L5158:
+
+;	LINE 932
+
+	MOVE	A,<8-FS26-%P>(P)
+	MOVE	C,<12-FS26-%P>(P)
+	MOVEM	C,1(A)
+
+;	LINE 933
+
+	MOVE	A,<1-FS26-%P>(P)
+	PPUSH	(A)
+	PPUSH	<8-FS26-%P>(P)
+	CCALL	2,Zttexp
+	MOVE	C,<1-FS26-%P>(P)
+	MOVEM	A,(C)
+	MOVEM	A,<16-FS26-%P>(P)
+
+;	LINE 935
+
+	MOVE	A,<1-FS26-%P>(P)
+	MOVE	A,(A)
+	MOVE	A,2(A)
+	MOVEM	A,<17-FS26-%P>(P)
+	JUMPL	A,L5159
+	MOVEI	A,1
+	MOVE	C,<17-FS26-%P>(P)
+	LSH	A,(C)
+	SETCA	A,
+	ANDB	A,<13-FS26-%P>(P)
+	GO	L5160
+L5159:
+
+;	LINE 936
+
+	MOVE	A,<17-FS26-%P>(P)
+	CAMLE	A,[-9]
+	GO	L5161
+
+;	LINE 937
+
+	MOVN	A,<17-FS26-%P>(P)
+	SUBI	A,9
+	MOVEI	C,1
+	LSH	C,(A)
+	SETCA	C,
+	ANDB	C,<13-FS26-%P>(P)
+L5161:
+L5160:
+
+;	LINE 938
+
+	MOVE	A,<11-FS26-%P>(P)
+	CAIE	A,2
+	GO	L5162
+	MOVE	A,<13-FS26-%P>(P)
+	LSH	A,9
+	IOR	A,<15-FS26-%P>(P)
+	MOVEM	A,<13-FS26-%P>(P)
+L5162:
+
+;	LINE 939
+
+	MOVE	A,<9-FS26-%P>(P)
+	MOVE	C,<13-FS26-%P>(P)
+	MOVEM	C,1(A)
+
+;	LINE 940
+
+	MOVE	A,<16-FS26-%P>(P)
+	JUMPE	A,L5163
+	MOVE	A,<2-FS26-%P>(P)
+	PPUSH	(A)
+	PPUSH	<9-FS26-%P>(P)
+	CCALL	2,Zttexp
+	MOVE	C,<2-FS26-%P>(P)
+	MOVEM	A,(C)
+	MOVEM	A,<16-FS26-%P>(P)
+L5163:
+
+;	LINE 941
+
+	MOVE	A,<1-FS26-%P>(P)
+	PPUSH	(A)
+	CCALL	1,Zresto
+
+;	LINE 942
+
+	MOVE	A,<16-FS26-%P>(P)
+	SUBI	P,FS26+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS26+%A+1
+	GO	@<%A+1>(P)
+FS26==18-1
+
+%A==0
+	%A,,[ASCIZ/reg_init/]
+ZregJi:	ADDI	P,FS27
+
+;	LINE 987
+
+	MOVE	A,Znreg
+	IMULI	A,3
+	MOVEI	C,Zregta
+	ADD	C,A
+	MOVEM	C,Zeregt
+	SUBI	P,FS27+%A+1
+	GO	@<%A+1>(P)
+FS27==1-1
+
+%A==1
+	%A,,[ASCIZ/clear/]
+Zclear:	ADDI	P,FS28
+
+;	LINE 1004
+
+	MOVE	A,Zaflag
+	JUMPE	A,L5164
+	MOVEI	A,S104
+	PPUSH	A
+	PPUSH	<0-FS28-%A-%P>(P)
+	CCALL	2,Zcprin
+L5164:
+
+;	LINE 1008
+
+	MOVE	A,<0-FS28-%A-%P>(P)
+	IMULI	A,3
+	MOVEI	C,Zregta
+	ADD	C,A
+	MOVEM	C,<3-FS28-%P>(P)
+
+;	LINE 1009
+
+	MOVE	A,<3-FS28-%P>(P)
+	MOVE	A,(A)
+	JUMPL	A,L5165
+	PPUSH	[6019]
+	PPUSH	<0-FS28-%A-%P>(P)
+	CCALL	2,Zerrx
+L5165:
+
+;	LINE 1010
+
+	MOVE	A,<3-FS28-%P>(P)
+	MOVEI	C,0
+	MOVEM	C,(A)
+
+;	LINE 1011
+
+	MOVE	A,<3-FS28-%P>(P)
+	MOVEI	C,0
+	MOVEM	C,2(A)
+
+;	LINE 1012
+
+	MOVEI	A,Zconf
+	ADD	A,<0-FS28-%A-%P>(P)
+	MOVE	A,(A)
+	MOVEM	A,<2-FS28-%P>(P)
+	JUMPE	A,L5166
+	MOVEI	A,0
+	MOVEM	A,<1-FS28-%P>(P)
+L48:
+	MOVE	A,<1-FS28-%P>(P)
+	CAML	A,Znreg
+	GO	L5167
+	PPUSH	<2-FS28-%P>(P)
+	PPUSH	<1-FS28-%P>(P)
+	CCALL	2,Zbget1
+	JUMPE	A,L5168
+
+;	LINE 1013
+
+	MOVE	A,<1-FS28-%P>(P)
+	IMULI	A,3
+	MOVEI	C,Zregta
+	ADD	C,A
+	SETO	A,
+	ADDB	A,(C)
+	JUMPGE	A,L5169
+	PPUSH	[6021]
+	PPUSH	<1-FS28-%P>(P)
+	CCALL	2,Zerrx
+L5169:
+L5168:
+L47:
+
+;	LINE 1012
+
+	MOVE	A,<1-FS28-%P>(P)
+	AOS	<1-FS28-%P>(P)
+	GO	L48
+L5167:
+L46:
+L5166:
+	SUBI	P,FS28+%A+1
+	GO	@<%A+1>(P)
+FS28==4-1
+
+%A==1
+	%A,,[ASCIZ/eclear/]
+Zeclea:	ADDI	P,FS29
+
+;	LINE 1028
+
+	MOVE	A,Zaflag
+	JUMPE	A,L5170
+	MOVEI	A,S115
+	PPUSH	A
+	PPUSH	<0-FS29-%A-%P>(P)
+	CCALL	2,Zcprin
+L5170:
+
+;	LINE 1032
+
+	SKIPE	<0-FS29-%A-%P>(P)
+	GO	L5171
+	SUBI	P,FS29+%A+1
+	GO	@<%A+1>(P)
+L5171:
+
+;	LINE 1033
+
+	MOVE	A,<0-FS29-%A-%P>(P)
+	MOVE	A,2(A)
+	MOVEM	A,<1-FS29-%P>(P)
+
+;	LINE 1034
+
+	MOVE	A,<0-FS29-%A-%P>(P)
+	MOVE	A,6(A)
+	CAIE	A,127
+	GO	L5172
+
+;	LINE 1035
+
+	MOVE	A,<1-FS29-%P>(P)
+	JUMPL	A,L5173
+	PPUSH	<1-FS29-%P>(P)
+	CCALL	1,Zclear
+	GO	L5174
+L5173:
+
+;	LINE 1036
+
+	MOVE	A,<1-FS29-%P>(P)
+	CAMLE	A,[-9]
+	GO	L5175
+
+;	LINE 1037
+
+	MOVE	A,<0-FS29-%A-%P>(P)
+	MOVE	A,4(A)
+	JUMPLE	A,L5176
+	MOVE	A,<0-FS29-%A-%P>(P)
+	SETO	C,
+	ADDB	C,4(A)
+	JUMPN	C,L5176
+
+;	LINE 1038
+
+	MOVE	A,<0-FS29-%A-%P>(P)
+	PPUSH	7(A)
+	CCALL	1,Zeclea
+L5176:
+L5175:
+L5174:
+L5172:
+	SUBI	P,FS29+%A+1
+	GO	@<%A+1>(P)
+FS29==2-1
+
+%A==1
+	%A,,[ASCIZ/freereg/]
+Zfreer:	ADDI	P,FS30
+
+;	LINE 1053
+
+	MOVE	A,<0-FS30-%A-%P>(P)
+	JUMPN	A,L5177
+	PPUSH	[6013]
+	CCALL	1,Zerrx
+L5177:
+
+;	LINE 1054
+
+	MOVNI	A,--1
+	MOVEM	A,<3-FS30-%P>(P)
+	MOVEM	A,<2-FS30-%P>(P)
+
+;	LINE 1056
+
+	MOVEI	A,0
+	MOVEM	A,<1-FS30-%P>(P)
+L51:
+	MOVE	A,<1-FS30-%P>(P)
+	CAML	A,Znreg
+	GO	L5178
+
+;	LINE 1057
+
+	MOVE	A,<0-FS30-%A-%P>(P)
+	ANDI	A,1
+	JUMPE	A,L5179
+
+;	LINE 1058
+
+	MOVE	A,<1-FS30-%P>(P)
+	IMULI	A,3
+	ADDI	A,1
+	MOVEI	C,Zregta
+	ADD	C,A
+	MOVE	A,(C)
+	JUMPE	A,L5180
+	MOVE	A,<1-FS30-%P>(P)
+	MOVEM	A,<3-FS30-%P>(P)
+	GO	L5181
+L5180:
+
+;	LINE 1059
+
+	MOVE	A,<1-FS30-%P>(P)
+	IMULI	A,3
+	MOVEI	C,Zregta
+	ADD	C,A
+	MOVE	A,(C)
+	JUMPE	A,L5182
+	MOVE	A,<1-FS30-%P>(P)
+	MOVEM	A,<2-FS30-%P>(P)
+	GO	L5183
+L5182:
+
+;	LINE 1060
+
+	MOVE	A,<1-FS30-%P>(P)
+	SUBI	P,FS30+%A+1
+	GO	@<%A+1>(P)
+L5183:
+L5181:
+L5179:
+
+;	LINE 1061
+
+	MOVE	A,<0-FS30-%A-%P>(P)
+	LSH	A,-1
+	MOVEM	A,<0-FS30-%A-%P>(P)
+L50:
+
+;	LINE 1056
+
+	MOVE	A,<1-FS30-%P>(P)
+	AOS	<1-FS30-%P>(P)
+	GO	L51
+L5178:
+L49:
+
+;	LINE 1063
+
+	MOVE	A,<2-FS30-%P>(P)
+	CAME	A,[-1]
+	GO	L5184
+	MOVE	A,<3-FS30-%P>(P)
+	MOVEM	A,<2-FS30-%P>(P)
+L5184:
+
+;	LINE 1064
+
+	PPUSH	<2-FS30-%P>(P)
+	CCALL	1,Zsave
+
+;	LINE 1065
+
+	MOVE	A,<2-FS30-%P>(P)
+	SUBI	P,FS30+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS30+%A+1
+	GO	@<%A+1>(P)
+FS30==4-1
+
+%A==2
+	%A,,[ASCIZ/getreg/]
+Zgetre:	ADDI	P,FS31
+
+;	LINE 1086
+
+	MOVE	A,<0-FS31-%A-%P>(P)
+	JUMPN	A,L5185
+	PPUSH	[6040]
+	CCALL	1,Zerrx
+L5185:
+
+;	LINE 1087
+
+	MOVNI	A,--1
+	MOVEM	A,<6-FS31-%P>(P)
+	MOVEM	A,<5-FS31-%P>(P)
+	MOVEM	A,<4-FS31-%P>(P)
+	MOVEM	A,<3-FS31-%P>(P)
+
+;	LINE 1088
+
+	MOVEI	A,1
+	MOVEM	A,<2-FS31-%P>(P)
+
+;	LINE 1089
+
+	MOVEI	A,0
+	MOVEM	A,<1-FS31-%P>(P)
+L54:
+	MOVE	A,<1-FS31-%P>(P)
+	CAML	A,Znreg
+	GO	L5186
+
+;	LINE 1090
+
+	MOVE	A,<1-FS31-%P>(P)
+	IMULI	A,3
+	MOVEI	C,Zregta
+	ADD	C,A
+	MOVE	A,(C)
+	MOVEM	A,<7-FS31-%P>(P)
+
+;	LINE 1091
+
+	MOVE	A,<1-FS31-%P>(P)
+	IMULI	A,3
+	ADDI	A,1
+	MOVEI	C,Zregta
+	ADD	C,A
+	MOVE	A,(C)
+	MOVEM	A,<8-FS31-%P>(P)
+
+;	LINE 1092
+
+	MOVE	A,<0-FS31-%A-%P>(P)
+	AND	A,<2-FS31-%P>(P)
+	JUMPE	A,L5187
+
+;	LINE 1093
+
+	MOVE	A,<8-FS31-%P>(P)
+	JUMPE	A,L5188
+	MOVE	A,<1-FS31-%P>(P)
+	MOVEM	A,<6-FS31-%P>(P)
+	GO	L5189
+L5188:
+
+;	LINE 1094
+
+	MOVE	A,<7-FS31-%P>(P)
+	JUMPN	A,L5190
+	MOVE	A,<1-FS31-%P>(P)
+	SUBI	P,FS31+%A+1
+	GO	@<%A+1>(P)
+	GO	L5191
+L5190:
+
+;	LINE 1095
+
+	MOVE	A,<1-FS31-%P>(P)
+	MOVEM	A,<3-FS31-%P>(P)
+L5191:
+L5189:
+	GO	L5192
+L5187:
+
+;	LINE 1097
+
+	MOVE	A,<1-FS31-%A-%P>(P)
+	AND	A,<2-FS31-%P>(P)
+	JUMPE	A,L5193
+
+;	LINE 1098
+
+	MOVE	A,<8-FS31-%P>(P)
+	JUMPE	A,L5194
+	GO	L5195
+L5194:
+
+;	LINE 1099
+
+	MOVE	A,<7-FS31-%P>(P)
+	JUMPN	A,L5196
+	MOVE	A,<1-FS31-%P>(P)
+	MOVEM	A,<4-FS31-%P>(P)
+	GO	L5197
+L5196:
+
+;	LINE 1100
+
+	MOVE	A,<1-FS31-%P>(P)
+	MOVEM	A,<5-FS31-%P>(P)
+L5197:
+L5195:
+L5193:
+L5192:
+
+;	LINE 1102
+
+	MOVE	A,<2-FS31-%P>(P)
+	LSH	A,1
+	MOVEM	A,<2-FS31-%P>(P)
+L53:
+
+;	LINE 1089
+
+	MOVEI	A,1
+	ADDB	A,<1-FS31-%P>(P)
+	GO	L54
+L5186:
+L52:
+
+;	LINE 1104
+
+	MOVE	A,<3-FS31-%P>(P)
+	JUMPL	A,L5198
+	PPUSH	<3-FS31-%P>(P)
+	CCALL	1,Zsave
+	MOVE	A,<3-FS31-%P>(P)
+	SUBI	P,FS31+%A+1
+	GO	@<%A+1>(P)
+L5198:
+
+;	LINE 1105
+
+	MOVE	A,<4-FS31-%P>(P)
+	JUMPL	A,L5199
+	MOVE	A,<4-FS31-%P>(P)
+	SUBI	P,FS31+%A+1
+	GO	@<%A+1>(P)
+L5199:
+
+;	LINE 1106
+
+	MOVE	A,<5-FS31-%P>(P)
+	JUMPL	A,L5200
+	PPUSH	<5-FS31-%P>(P)
+	CCALL	1,Zsave
+	MOVE	A,<5-FS31-%P>(P)
+	SUBI	P,FS31+%A+1
+	GO	@<%A+1>(P)
+L5200:
+
+;	LINE 1107
+
+	MOVE	A,<6-FS31-%P>(P)
+	SUBI	P,FS31+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS31+%A+1
+	GO	@<%A+1>(P)
+FS31==9-1
+
+%A==1
+	%A,,[ASCIZ/mark/]
+Zmark:	ADDI	P,FS32
+
+;	LINE 1121
+
+	SKIPN	<0-FS32-%A-%P>(P)
+	GO	L5201
+	MOVE	A,<0-FS32-%A-%P>(P)
+	MOVE	A,2(A)
+	MOVEM	A,<1-FS32-%P>(P)
+	CAMLE	A,[-9]
+	GO	L5201
+
+;	LINE 1122
+
+	MOVN	A,<1-FS32-%P>(P)
+	SUBI	A,9
+	MOVEM	A,<1-FS32-%P>(P)
+
+;	LINE 1126
+
+	MOVE	A,Zaflag
+	JUMPE	A,L5202
+	MOVEI	A,S127
+	PPUSH	A
+	PPUSH	<1-FS32-%P>(P)
+	CCALL	2,Zcprin
+L5202:
+
+;	LINE 1130
+
+	MOVE	A,<1-FS32-%P>(P)
+	IMULI	A,3
+	ADDI	A,1
+	MOVEI	C,Zregta
+	ADD	C,A
+	MOVE	A,(C)
+	JUMPE	A,L5203
+	PPUSH	[6044]
+	PPUSH	<1-FS32-%P>(P)
+	CCALL	2,Zerrx
+L5203:
+
+;	LINE 1131
+
+	MOVE	A,<1-FS32-%P>(P)
+	IMULI	A,3
+	ADDI	A,1
+	MOVEI	C,Zregta
+	ADD	C,A
+	MOVEI	A,1
+	ADDB	A,(C)
+
+;	LINE 1132
+
+	MOVEI	A,1
+	SUBI	P,FS32+%A+1
+	GO	@<%A+1>(P)
+L5201:
+
+;	LINE 1134
+
+	MOVEI	A,0
+	SUBI	P,FS32+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS32+%A+1
+	GO	@<%A+1>(P)
+FS32==2-1
+
+%A==1
+	%A,,[ASCIZ/nbusy/]
+Znbusy:	ADDI	P,FS33
+
+;	LINE 1148
+
+	MOVEI	A,0
+	MOVEM	A,<1-FS33-%P>(P)
+
+;	LINE 1149
+
+	MOVEI	A,Zregta
+	MOVEM	A,<2-FS33-%P>(P)
+L56:
+
+;	LINE 1150
+
+	MOVE	A,<2-FS33-%P>(P)
+	CAML	A,Zeregt
+	GO	L5204
+	MOVE	A,<0-FS33-%A-%P>(P)
+	JUMPE	A,L5204
+
+;	LINE 1151
+
+	MOVE	A,<0-FS33-%A-%P>(P)
+	ANDI	A,1
+	JUMPE	A,L5205
+	MOVE	A,<2-FS33-%P>(P)
+	MOVE	A,(A)
+	JUMPE	A,L5205
+	MOVEI	A,1
+	ADDB	A,<1-FS33-%P>(P)
+L5205:
+
+;	LINE 1152
+
+	MOVEI	A,3
+	ADDB	A,<2-FS33-%P>(P)
+
+;	LINE 1153
+
+	MOVE	A,<0-FS33-%A-%P>(P)
+	LSH	A,-1
+	MOVEM	A,<0-FS33-%A-%P>(P)
+	GO	L56
+L5204:
+L55:
+
+;	LINE 1155
+
+	MOVE	A,<1-FS33-%P>(P)
+	SUBI	P,FS33+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS33+%A+1
+	GO	@<%A+1>(P)
+FS33==3-1
+
+%A==1
+	%A,,[ASCIZ/nfree/]
+Znfree:	ADDI	P,FS34
+
+;	LINE 1169
+
+	MOVEI	A,0
+	MOVEM	A,<1-FS34-%P>(P)
+
+;	LINE 1170
+
+	MOVEI	A,Zregta
+	MOVEM	A,<2-FS34-%P>(P)
+L58:
+
+;	LINE 1171
+
+	MOVE	A,<2-FS34-%P>(P)
+	CAML	A,Zeregt
+	GO	L5206
+	MOVE	A,<0-FS34-%A-%P>(P)
+	JUMPE	A,L5206
+
+;	LINE 1172
+
+	MOVE	A,<0-FS34-%A-%P>(P)
+	ANDI	A,1
+	JUMPE	A,L5207
+	MOVE	A,<2-FS34-%P>(P)
+	MOVE	A,(A)
+	JUMPN	A,L5207
+	MOVEI	A,1
+	ADDB	A,<1-FS34-%P>(P)
+L5207:
+
+;	LINE 1173
+
+	MOVEI	A,3
+	ADDB	A,<2-FS34-%P>(P)
+
+;	LINE 1174
+
+	MOVE	A,<0-FS34-%A-%P>(P)
+	LSH	A,-1
+	MOVEM	A,<0-FS34-%A-%P>(P)
+	GO	L58
+L5206:
+L57:
+
+;	LINE 1176
+
+	MOVE	A,<1-FS34-%P>(P)
+	SUBI	P,FS34+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS34+%A+1
+	GO	@<%A+1>(P)
+FS34==3-1
+
+%A==2
+	%A,,[ASCIZ/reserve/]
+Zreser:	ADDI	P,FS35
+
+;	LINE 1192
+
+	MOVE	A,Zaflag
+	JUMPE	A,L5208
+	MOVEI	A,S137
+	PPUSH	A
+	PPUSH	<0-FS35-%A-%P>(P)
+	PPUSH	<1-FS35-%A-%P>(P)
+	CCALL	3,Zcprin
+L5208:
+
+;	LINE 1196
+
+	MOVE	A,<0-FS35-%A-%P>(P)
+	IMULI	A,3
+	MOVEI	C,Zregta
+	ADD	C,A
+	MOVEM	C,<3-FS35-%P>(P)
+
+;	LINE 1197
+
+	MOVE	A,<3-FS35-%P>(P)
+	MOVE	A,(A)
+	JUMPE	A,L5209
+	PPUSH	[6017]
+	PPUSH	<0-FS35-%A-%P>(P)
+	CCALL	2,Zerrx
+L5209:
+
+;	LINE 1198
+
+	MOVEI	A,Zconf
+	ADD	A,<0-FS35-%A-%P>(P)
+	MOVE	A,(A)
+	MOVEM	A,<2-FS35-%P>(P)
+	JUMPE	A,L5210
+	MOVEI	A,0
+	MOVEM	A,<1-FS35-%P>(P)
+L61:
+	MOVE	A,<1-FS35-%P>(P)
+	CAML	A,Znreg
+	GO	L5211
+	PPUSH	<2-FS35-%P>(P)
+	PPUSH	<1-FS35-%P>(P)
+	CCALL	2,Zbget1
+	JUMPE	A,L5212
+
+;	LINE 1199
+
+	MOVE	A,<1-FS35-%P>(P)
+	IMULI	A,3
+	MOVEI	C,Zregta
+	ADD	C,A
+	MOVEI	A,1
+	ADDB	A,(C)
+	JUMPG	A,L5213
+	PPUSH	[6018]
+	PPUSH	<1-FS35-%P>(P)
+	CCALL	2,Zerrx
+L5213:
+L5212:
+L60:
+
+;	LINE 1198
+
+	MOVE	A,<1-FS35-%P>(P)
+	AOS	<1-FS35-%P>(P)
+	GO	L61
+L5211:
+L59:
+L5210:
+
+;	LINE 1200
+
+	MOVE	A,<3-FS35-%P>(P)
+	MOVNI	C,--1
+	MOVEM	C,(A)
+
+;	LINE 1201
+
+	MOVE	A,<3-FS35-%P>(P)
+	MOVE	C,<1-FS35-%A-%P>(P)
+	MOVEM	C,2(A)
+
+;	LINE 1202
+
+	MOVE	A,<1-FS35-%A-%P>(P)
+	MOVE	C,<0-FS35-%A-%P>(P)
+	MOVEM	C,2(A)
+
+;	LINE 1203
+
+	MOVE	A,<1-FS35-%A-%P>(P)
+	MOVEI	C,0
+	MOVEM	C,3(A)
+
+;	LINE 1204
+
+	MOVE	A,<1-FS35-%A-%P>(P)
+	MOVEI	C,127
+	MOVEM	C,6(A)
+	SUBI	P,FS35+%A+1
+	GO	@<%A+1>(P)
+FS35==4-1
+
+%A==1
+	%A,,[ASCIZ/restore/]
+Zresto:	ADDI	P,FS36
+
+;	LINE 1221
+
+	MOVE	A,Zaflag
+	JUMPE	A,L5214
+	MOVEI	A,S153
+	PPUSH	A
+	PPUSH	<0-FS36-%A-%P>(P)
+	CCALL	2,Zcprin
+L5214:
+
+;	LINE 1225
+
+	SKIPE	<0-FS36-%A-%P>(P)
+	GO	L5215
+	MOVEI	A,0
+	SUBI	P,FS36+%A+1
+	GO	@<%A+1>(P)
+L5215:
+
+;	LINE 1226
+
+	MOVE	A,<0-FS36-%A-%P>(P)
+	MOVE	A,6(A)
+	MOVEM	A,<1-FS36-%P>(P)
+	CAIE	A,127
+	GO	L5216
+
+;	LINE 1227
+
+	MOVE	A,<0-FS36-%A-%P>(P)
+	MOVE	A,2(A)
+	CAMLE	A,[-9]
+	GO	L5217
+
+;	LINE 1228
+
+	MOVE	A,<0-FS36-%A-%P>(P)
+	PPUSH	7(A)
+	CCALL	1,Zresto
+	SUBI	P,FS36+%A+1
+	GO	@<%A+1>(P)
+L5217:
+
+;	LINE 1229
+
+	MOVEI	A,0
+	SUBI	P,FS36+%A+1
+	GO	@<%A+1>(P)
+L5216:
+
+;	LINE 1231
+
+	PPUSH	<1-FS36-%P>(P)
+	CCALL	1,Zsave
+
+;	LINE 1232
+
+	PPUSH	<0-FS36-%A-%P>(P)
+	PPUSH	<1-FS36-%P>(P)
+	PPUSH	[0]
+	PPUSH	[1]
+	CCALL	4,Zmmove
+	MOVEM	A,<0-FS36-%A-%P>(P)
+
+;	LINE 1233
+
+	SKIPE	<0-FS36-%A-%P>(P)
+	GO	L5218
+	MOVEI	A,0
+	SUBI	P,FS36+%A+1
+	GO	@<%A+1>(P)
+L5218:
+
+;	LINE 1234
+
+	PPUSH	<1-FS36-%P>(P)
+	PPUSH	<0-FS36-%A-%P>(P)
+	CCALL	2,Zreser
+
+;	LINE 1235
+
+	MOVEI	A,1
+	SUBI	P,FS36+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS36+%A+1
+	GO	@<%A+1>(P)
+FS36==2-1
+
+%A==0
+	%A,,[ASCIZ/rflush/]
+Zrflus:	ADDI	P,FS37
+
+;	LINE 1247
+
+	MOVEI	A,Zregta
+	MOVEM	A,<1-FS37-%P>(P)
+L64:
+	MOVE	A,<1-FS37-%P>(P)
+	CAML	A,Zeregt
+	GO	L5219
+	MOVE	A,<1-FS37-%P>(P)
+	MOVEI	C,0
+	MOVEM	C,(A)
+L63:
+	MOVEI	A,3
+	ADDB	A,<1-FS37-%P>(P)
+	GO	L64
+L5219:
+L62:
+	SUBI	P,FS37+%A+1
+	GO	@<%A+1>(P)
+FS37==2-1
+
+%A==0
+	%A,,[ASCIZ/rsave/]
+Zrsave:	ADDI	P,FS38
+
+;	LINE 1259
+
+	MOVEI	A,0
+	MOVEM	A,<1-FS38-%P>(P)
+L67:
+	MOVE	A,<1-FS38-%P>(P)
+	CAML	A,Znreg
+	GO	L5220
+	PPUSH	<1-FS38-%P>(P)
+	CCALL	1,Zsave
+L66:
+	MOVEI	A,1
+	ADDB	A,<1-FS38-%P>(P)
+	GO	L67
+L5220:
+L65:
+	SUBI	P,FS38+%A+1
+	GO	@<%A+1>(P)
+FS38==2-1
+
+%A==1
+	%A,,[ASCIZ/save/]
+Zsave:	ADDI	P,FS39
+
+;	LINE 1275
+
+	MOVE	A,Zaflag
+	JUMPE	A,L5221
+	MOVEI	A,S166
+	PPUSH	A
+	PPUSH	<0-FS39-%A-%P>(P)
+	CCALL	2,Zcprin
+L5221:
+
+;	LINE 1279
+
+	MOVE	A,<0-FS39-%A-%P>(P)
+	IMULI	A,3
+	MOVEI	C,Zregta
+	ADD	C,A
+	MOVE	A,(C)
+	MOVEM	A,<1-FS39-%P>(P)
+
+;	LINE 1280
+
+	MOVE	A,<1-FS39-%P>(P)
+	JUMPGE	A,L5222
+	PPUSH	<0-FS39-%A-%P>(P)
+	CCALL	1,Zsave1
+	GO	L5223
+L5222:
+
+;	LINE 1281
+
+	MOVE	A,<1-FS39-%P>(P)
+	JUMPLE	A,L5224
+
+;	LINE 1282
+
+	MOVEI	A,Zconf
+	ADD	A,<0-FS39-%A-%P>(P)
+	MOVE	A,(A)
+	MOVEM	A,<3-FS39-%P>(P)
+	JUMPE	A,L5225
+
+;	LINE 1283
+
+	MOVEI	A,0
+	MOVEM	A,<2-FS39-%P>(P)
+L70:
+	MOVE	A,<2-FS39-%P>(P)
+	CAML	A,Znreg
+	GO	L5226
+
+;	LINE 1284
+
+	PPUSH	<3-FS39-%P>(P)
+	PPUSH	<2-FS39-%P>(P)
+	CCALL	2,Zbget1
+	JUMPE	A,L5227
+	MOVE	A,<2-FS39-%P>(P)
+	IMULI	A,3
+	MOVEI	C,Zregta
+	ADD	C,A
+	MOVE	A,(C)
+	JUMPGE	A,L5227
+
+;	LINE 1285
+
+	PPUSH	<2-FS39-%P>(P)
+	CCALL	1,Zsave1
+L5227:
+L69:
+
+;	LINE 1283
+
+	MOVE	A,<2-FS39-%P>(P)
+	AOS	<2-FS39-%P>(P)
+	GO	L70
+L5226:
+L68:
+L5225:
+L5224:
+L5223:
+
+;	LINE 1286
+
+	MOVE	A,<0-FS39-%A-%P>(P)
+	IMULI	A,3
+	MOVEI	C,Zregta
+	ADD	C,A
+	MOVE	A,(C)
+	JUMPE	A,L5228
+	PPUSH	[6023]
+	PPUSH	<0-FS39-%A-%P>(P)
+	CCALL	2,Zerrx
+L5228:
+	SUBI	P,FS39+%A+1
+	GO	@<%A+1>(P)
+FS39==4-1
+
+%A==1
+	%A,,[ASCIZ/save1/]
+Zsave1:	ADDI	P,FS40
+
+;	LINE 1300
+
+	MOVE	A,<0-FS40-%A-%P>(P)
+	IMULI	A,3
+	MOVEI	C,Zregta
+	ADD	C,A
+	MOVE	A,(C)
+	JUMPL	A,L5229
+	PPUSH	[6022]
+	PPUSH	<0-FS40-%A-%P>(P)
+	CCALL	2,Zerrx
+L5229:
+
+;	LINE 1301
+
+	MOVE	A,<0-FS40-%A-%P>(P)
+	IMULI	A,3
+	ADDI	A,2
+	MOVEI	C,Zregta
+	ADD	C,A
+	MOVE	A,(C)
+	MOVEM	A,<2-FS40-%P>(P)
+
+;	LINE 1302
+
+	SKIPN	<2-FS40-%P>(P)
+	GO	L5230
+
+;	LINE 1303
+
+	PPUSH	<2-FS40-%P>(P)
+	CCALL	1,Zgette
+	MOVEM	A,<1-FS40-%P>(P)
+
+;	LINE 1304
+
+	PPUSH	<2-FS40-%P>(P)
+	PPUSH	[-1]
+	PPUSH	<1-FS40-%P>(P)
+	PPUSH	[1]
+	CCALL	4,Zmmove
+	MOVEM	A,<2-FS40-%P>(P)
+
+;	LINE 1305
+
+	SKIPN	<2-FS40-%P>(P)
+	GO	L5231
+	MOVE	A,<2-FS40-%P>(P)
+	MOVE	C,<0-FS40-%A-%P>(P)
+	MOVEM	C,6(A)
+L5231:
+	GO	L5232
+L5230:
+
+;	LINE 1307
+
+	MOVE	A,<0-FS40-%A-%P>(P)
+	IMULI	A,3
+	MOVEI	C,Zregta
+	ADD	C,A
+	MOVEI	A,0
+	MOVEM	A,(C)
+L5232:
+	SUBI	P,FS40+%A+1
+	GO	@<%A+1>(P)
+FS40==3-1
+
+%A==1
+	%A,,[ASCIZ/unmark/]
+Zunmar:	ADDI	P,FS41
+
+;	LINE 1320
+
+	SKIPN	<0-FS41-%A-%P>(P)
+	GO	L5233
+	MOVE	A,<0-FS41-%A-%P>(P)
+	MOVE	A,2(A)
+	MOVEM	A,<1-FS41-%P>(P)
+	CAMLE	A,[-9]
+	GO	L5233
+
+;	LINE 1321
+
+	MOVN	A,<1-FS41-%P>(P)
+	SUBI	A,9
+	MOVEM	A,<1-FS41-%P>(P)
+
+;	LINE 1325
+
+	MOVE	A,Zaflag
+	JUMPE	A,L5234
+	MOVEI	A,S176
+	PPUSH	A
+	PPUSH	<1-FS41-%P>(P)
+	CCALL	2,Zcprin
+L5234:
+
+;	LINE 1329
+
+	MOVE	A,<1-FS41-%P>(P)
+	IMULI	A,3
+	ADDI	A,1
+	MOVEI	C,Zregta
+	ADD	C,A
+	MOVE	A,(C)
+	JUMPN	A,L5235
+	PPUSH	[6045]
+	PPUSH	<1-FS41-%P>(P)
+	CCALL	2,Zerrx
+L5235:
+
+;	LINE 1330
+
+	MOVE	A,<1-FS41-%P>(P)
+	IMULI	A,3
+	ADDI	A,1
+	MOVEI	C,Zregta
+	ADD	C,A
+	SETO	A,
+	ADDB	A,(C)
+
+;	LINE 1331
+
+	MOVEI	A,1
+	SUBI	P,FS41+%A+1
+	GO	@<%A+1>(P)
+L5233:
+
+;	LINE 1333
+
+	MOVEI	A,0
+	SUBI	P,FS41+%A+1
+	GO	@<%A+1>(P)
+	SUBI	P,FS41+%A+1
+	GO	@<%A+1>(P)
+FS41==2-1
+.PDATA
+CONSTANTS
+END
+   

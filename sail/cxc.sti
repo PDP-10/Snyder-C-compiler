@@ -1,0 +1,11 @@
+x <c>clib
+l <c.cmp>c31
+l <c.cmp>c32
+l <c.cmp>c33
+l <c.cmp>c34
+l <c.cmp>c35-10
+l <c.cmp>c91
+l <c.cmp>c94
+l <c.cmp>c95
+l <c.lib>c20hak
+o c20c.exe
