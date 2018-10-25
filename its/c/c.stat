@@ -1,0 +1,3972 @@
+
+EBM - Aug 29 1980 18:46:14 - .dovr./.spool (b)
+
+LP P=        5.41 E=       48.44
+
+EBM - Aug 29 1980 18:48:48 - .dovr./.spool (b)
+
+LP P=        5.37 E=       47.42
+C  P=        5.12 E=       47.06
+M  P=        8.45 E=     1:24.56
+
+EBM - Sep  2 1980 13:31:54 - .dovr./.spool (b)
+
+LP P=        5.43 E=       23.42
+C  P=        5.17 E=       15.30
+M  P=        9.00 E=       21.38
+
+EBM - Sep  2 1980 13:43:59 - .dovr./.spool (b)
+
+LP P=        5.45 E=       22.38
+C  P=        5.13 E=       34.52
+M  P=        9.04 E=       54.26
+
+EBM - Sep  2 1980 14:02:20 - .dovr./.spool (b)
+
+LP P=        5.48 E=       20.58
+C  P=        5.16 E=       32.56
+M  P=        9.10 E=       45.22
+
+EBM - Sep  2 1980 14:12:38 - .dovr./.spool (b)
+
+LP P=        5.25 E=       29.28
+C  P=        5.20 E=       32.00
+M  P=        8.57 E=       54.58
+
+EBM - Sep  2 1980 14:34:35 - .dovr./.spool (b)
+
+LP P=        5.48 E=     1:40.06
+C  P=        5.05 E=       57.26
+M  P=        9.01 E=     1:04.52
+
+MJA - Sep  9 1980 03:09:51 - guest3/mja
+
+LP P=        0.45 E=        5.14
+C  P=        0.53 E=        4.44
+M  P=        1.16 E=        4.22
+
+MJA - Sep  9 1980 03:25:21 - guest3/mja
+
+LP P=        0.49 E=        4.30
+C  P=        0.54 E=        5.34
+M  P=        1.19 E=        6.04
+
+MJA - Sep  9 1980 04:31:18 - guest3/mja
+
+LP P=        0.45 E=        2.14
+C  P=        0.51 E=        4.26
+M  P=        1.16 E=        2.54
+
+MJA - Sep  9 1980 05:08:50 - guest3/mja
+
+LP P=        0.45 E=        2.04
+C  P=        0.49 E=        2.40
+M  P=        1.14 E=        2.28
+
+MJA - Sep  9 1980 05:16:58 - guest3/mja
+
+LP P=        0.46 E=        2.42
+C  P=        0.51 E=        3.06
+M  P=        1.14 E=        2.16
+
+EBM - Sep 17 1980 18:53:51 - .dovr./.spool (b)
+
+LP P=        5.52 E=       10.56
+C  P=        5.38 E=       18.08
+M  P=        9.18 E=       17.44
+
+EBM - Sep 18 1980 09:48:30 - .dovr./.spool (b)
+
+LP P=        5.39 E=       19.50
+C  P=        5.24 E=       17.02
+M  P=        9.13 E=       16.58
+
+STEVEH - Sep 19 1980 19:01:38 - armte/steveh
+
+LP P=        0.11 E=        1.26
+
+STEVEH - Sep 19 1980 19:02:05 - armte/steveh (s)
+
+LP P=        0.11 E=        1.16
+S  P=        0.04 E=        1.38
+
+STEVEH - Sep 19 1980 19:07:30 - armte/steveh (s)
+
+LP P=        0.11 E=        1.26
+S  P=        0.04 E=        0.54
+
+STEVEH - Sep 19 1980 19:10:10 - armte/steveh (s)
+
+LP P=        0.12 E=        2.42
+S  P=        0.04 E=        1.58
+
+STEVEH - Sep 19 1980 19:14:22 - armte/steveh (s)
+
+LP P=        0.11 E=        2.02
+S  P=        0.04 E=        1.24
+
+BARMAR - Sep 29 1980 06:36:43 - sipb/barmar
+
+LP P=        0.10 E=        1.10
+
+EBM - Oct 17 1980 12:39:26 - .dovr./.spool (b)
+
+LP P=        6.09 E=       38.42
+C  P=        5.32 E=       46.08
+M  P=        9.22 E=       53.08
+
+MACRAK - Oct 24 1980 18:02:24 - macrak/foo (g)
+
+LP P=        0.10 E=        3.14
+C  P=        0.05 E=        3.40
+M  P=        0.08 E=        2.32
+
+MACRAK - Oct 24 1980 18:05:08 - macrak/foo (g)
+
+LP P=        0.10 E=        3.36
+
+MACRAK - Oct 24 1980 18:05:27 - macrak/foo
+
+LP P=        0.10 E=        3.06
+
+MACRAK - Oct 24 1980 18:05:48 - macrak/foo (g)
+
+LP P=        0.10 E=        2.50
+C  P=        0.05 E=        2.58
+M  P=        0.08 E=        2.40
+
+MACRAK - Oct 24 1980 18:08:26 - macrak/foo (g)
+
+LP P=        0.10 E=        2.12
+
+MACRAK - Oct 24 1980 18:09:06 - macrak/foo (g)
+
+LP P=        0.10 E=        3.12
+C  P=        0.06 E=        3.30
+M  P=        0.10 E=        3.28
+
+MACRAK - Oct 24 1980 18:23:03 - macrak/foo (g)
+
+LP P=        0.12 E=        2.28
+C  P=        0.06 E=        2.20
+M  P=        0.12 E=        2.12
+
+JFB - Nov  2 1980 19:07:44 - guest2/jeffh
+
+LP P=        0.17 E=        2.54
+C  P=        0.11 E=        2.16
+M  P=        0.15 E=        2.00
+
+SAI - Dec  5 1980 03:44:01 - guest4/tes
+
+LP P=        0.13 E=        4.20
+C  P=        0.06 E=        3.04
+M  P=        0.07 E=        3.10
+
+SAI - Dec  5 1980 03:44:31 - guest4/tes
+
+LP P=        0.11 E=        3.38
+C  P=        0.05 E=        3.04
+M  P=        0.07 E=        2.32
+
+SAI - Dec  5 1980 04:03:16 - guest4/tes
+
+LP P=        0.11 E=        3.16
+C  P=        0.05 E=        2.04
+M  P=        0.07 E=        1.20
+
+SAI - Dec  5 1980 04:03:30 - guest4/tes
+
+LP P=        0.12 E=        2.08
+C  P=        0.05 E=        1.16
+M  P=        0.07 E=        1.04
+
+GZ - Dec 16 1980 09:14:12 - gz/dmtgjr
+
+LP P=        0.09 E=        3.28
+
+GZ - Dec 16 1980 09:16:01 - gz/dmtgjr
+
+LP P=        0.09 E=        3.48
+C  P=        0.05 E=        3.10
+M  P=        0.09 E=        2.36
+
+GZ - Dec 16 1980 09:16:52 - gz/dmtgjr
+
+LP P=        0.09 E=        2.24
+C  P=        0.05 E=        2.10
+M  P=        0.07 E=        2.04
+
+GZ - Dec 16 1980 09:17:36 - gz/dmtgjr
+
+LP P=        0.09 E=        3.04
+C  P=        0.05 E=        2.26
+M  P=        0.07 E=        2.04
+
+GZ - Dec 16 1980 09:23:46 - gz/dmtgjr
+
+LP P=        0.11 E=        4.06
+C  P=        0.05 E=        3.14
+M  P=        0.07 E=        2.04
+
+EBM - Jan  3 1981 16:06:18 - mt/dwnlod
+
+LP P=        0.36 E=        3.24
+C  P=        0.23 E=        3.10
+M  P=        0.44 E=        2.30
+
+EBM - Jan  3 1981 16:06:50 - mt/dwnlod
+
+LP P=        0.36 E=       10.00
+C  P=        0.23 E=        3.52
+M  P=        0.44 E=        4.48
+
+EBM - Jan  3 1981 16:09:48 - mt/dwnlod
+
+LP P=        0.34 E=        6.38
+C  P=        0.23 E=        2.14
+M  P=        0.44 E=        2.16
+
+EBM - Jan  3 1981 16:19:46 - mt/dwnlod
+
+LP P=        0.36 E=        8.02
+C  P=        0.23 E=        3.16
+M  P=        0.44 E=        9.46
+
+EBM - Jan  3 1981 17:44:52 - mt/dwnlod
+
+LP P=        0.47 E=        5.06
+C  P=        0.26 E=        6.30
+M  P=        0.51 E=        3.24
+
+EBM - Jan  3 1981 18:26:09 - mt/dwnlod
+
+LP P=        0.47 E=        5.38
+C  P=        0.26 E=        4.28
+M  P=        0.49 E=        6.12
+
+EBM - Jan  7 1981 15:45:32 - mt/dwnlod
+
+LP P=        0.47 E=        6.26
+C  P=        0.24 E=        4.36
+M  P=        0.51 E=        8.18
+
+EBM - Jan  7 1981 15:56:01 - mt/dwnlod
+
+LP P=        0.51 E=        4.06
+
+EBM - Jan  7 1981 15:56:47 - mt/dwnlod
+
+LP P=        0.48 E=        4.26
+C  P=        0.23 E=        3.48
+M  P=        0.50 E=        3.02
+
+SAI - Jan 15 1981 09:19:34 - guest4/hello
+
+LP P=        0.11 E=        2.30
+
+MARKBO - Jan 30 1981 01:31:32 - guest3/*
+
+LP P=        0.10 E=        4.06
+
+MARKBO - Jan 30 1981 01:31:38 - guest3/f
+
+LP P=        0.10 E=        4.00
+
+HIRGEL - Feb  3 1981 18:39:04 - lll/macro (x)
+
+LP P=        0.34 E=        2.24
+
+HIRGEL - Feb  3 1981 18:45:08 - lll/macro (x)
+
+LP P=        0.36 E=        8.50
+
+HIRGEL - Feb  3 1981 18:51:26 - lll/macro (x)
+
+LP P=        0.35 E=        4.18
+
+HIRGEL - Feb  3 1981 18:57:29 - lll/macro (x)
+
+LP P=        1.53 E=       14.16
+
+LEECH - Mar  6 1981 05:18:39 - guest2/leech
+
+LP P=        0.07 E=        2.10
+
+LEECH - Mar  8 1981 04:34:20 - guest2/leech
+
+LP P=        0.09 E=        2.22
+
+LEECH - Mar  8 1981 04:34:33 - guest2/leech
+
+LP P=        0.07 E=        1.24
+
+LEECH - Mar 14 1981 05:33:38 - guest2/leech
+
+LP P=        0.13 E=        3.30
+
+LEECH - Mar 14 1981 05:33:57 - guest2/leech
+
+LP P=        0.12 E=        3.00
+
+LEECH - Mar 14 1981 05:35:45 - guest2/leech
+
+LP P=        0.08 E=        2.06
+
+LEECH - Mar 14 1981 05:36:56 - guest2/leech
+
+LP P=        0.07 E=        1.32
+
+LEECH - Mar 14 1981 05:37:24 - guest2/leech
+
+LP P=        0.10 E=        2.18
+
+LEECH - Mar 14 1981 05:39:29 - guest2/leech
+
+LP P=        0.08 E=        2.12
+
+LEECH - Mar 14 1981 05:41:58 - guest2/leech
+
+LP P=        0.07 E=        2.04
+
+LEECH - Mar 14 1981 05:42:59 - guest2/leech
+
+LP P=        0.07 E=        1.42
+
+ATTILA - Apr 26 1981 00:38:10 - guest0/attila
+
+LP P=        0.13 E=        3.56
+
+ATTILA - Apr 26 1981 00:41:42 - guest0/attila
+
+LP P=        0.11 E=        3.22
+
+ATTILA - Apr 26 1981 00:43:13 - guest0/attila
+
+LP P=        0.07 E=        2.32
+
+ATTILA - Apr 26 1981 00:49:17 - guest0/attila
+
+LP P=        0.12 E=        2.54
+
+MJA - May  9 1981 04:08:53 - guest3/mja
+
+LP P=        0.47 E=        2.56
+C  P=        0.50 E=        4.10
+M  P=        1.14 E=        2.42
+
+MJA - May  9 1981 04:16:42 - guest3/mja
+
+LP P=        0.57 E=        3.26
+
+MJA - May  9 1981 04:22:38 - guest3/mja
+
+LP P=        0.53 E=        3.34
+
+E.S.S. - May 10 1981 23:34:02 - guest1/e.s.s.
+
+LP P=        0.12 E=        3.26
+
+E.S.S. - May 10 1981 23:34:21 - guest1/e.s.s.
+
+LP P=        0.13 E=        3.10
+
+MOON - May 20 1981 22:02:11 - .dovr./.spool
+
+LP P=        0.13 E=        3.24
+
+MOON - May 20 1981 22:03:51 - .dovr./.spool
+
+LP P=        6.50 E=     1:10.22
+
+MOON - May 20 1981 22:09:29 - .dovr./.spool
+
+LP P=        6.57 E=       56.00
+C  P=        1.45 E=       13.50
+
+MOON - May 20 1981 22:11:13 - .dovr./.spool (b)
+
+LP P=        6.49 E=       48.12
+C  P=        6.21 E=     1:02.58
+M  P=       10.26 E=     1:27.52
+
+M.H. - Jul 20 1981 21:55:10 - guest3/m.h.
+
+LP P=        0.11 E=        3.56
+
+M.H. - Jul 20 1981 21:55:33 - guest3/m.h.
+
+LP P=        0.11 E=        3.28
+C  P=        0.05 E=        3.40
+M  P=        0.07 E=        2.16
+
+MOON - Jul 22 1981 16:11:24 - .dovr./.spool
+
+LP P=        6.44 E=       17.54
+C  P=        1.44 E=       22.20
+
+MOON - Jul 22 1981 16:12:17 - .dovr./.spool (b)
+
+LP P=        6.45 E=       13.38
+C  P=        6.09 E=       12.10
+M  P=       10.36 E=     1:05.38
+
+MOON - Jul 22 1981 16:27:38 - .dovr./.spool
+
+LP P=        7.03 E=       58.32
+C  P=        1.49 E=       16.26
+
+MOON - Jul 22 1981 16:29:20 - .dovr./.spool (b)
+
+LP P=        6.59 E=       46.42
+C  P=        5.46 E=       26.22
+M  P=       10.25 E=       29.26
+
+MP - Jul 25 1981 00:27:54 - cpm/tabify
+
+LP P=        0.36 E=        3.00
+C  P=        0.28 E=        3.06
+M  P=        0.48 E=        2.58
+
+M.H. - Jul 25 1981 22:22:04 - guest3/m.h.
+
+LP P=        0.11 E=        3.48
+
+M.H. - Jul 25 1981 22:25:21 - guest3/m.h.
+
+LP P=        0.11 E=        2.30
+C  P=        0.05 E=        2.32
+M  P=        0.07 E=        1.20
+
+M.H. - Jul 26 1981 13:34:44 - guest3/m.h.
+
+LP P=        0.11 E=        2.48
+C  P=        0.05 E=        2.54
+M  P=        0.07 E=        1.54
+
+M.H. - Jul 26 1981 13:36:35 - guest3/m.h.
+
+LP P=        0.11 E=        2.36
+
+M.H. - Aug  2 1981 13:38:51 - guest3/m.h.
+
+LP P=        0.11 E=        2.28
+
+ALMAIN - Aug 15 1981 13:10:33 - guest0/almain
+
+LP P=        0.10 E=        2.12
+C  P=        0.05 E=        2.28
+M  P=        0.07 E=        1.22
+
+MARTY - Sep  2 1981 18:53:13 - linc/foo
+
+LP P=        0.12 E=        3.58
+
+BARRYS - Sep 20 1981 00:22:45 - guest0/barrys
+
+LP P=        0.10 E=        2.08
+
+BARRYS - Sep 20 1981 00:23:32 - guest0/*
+
+LP P=        0.10 E=        2.42
+
+BARRYS - Sep 20 1981 00:25:38 - guest0/barrys
+
+LP P=        0.10 E=        2.30
+C  P=        0.05 E=        2.30
+M  P=        0.07 E=        1.20
+
+BARRYS - Sep 20 1981 00:26:43 - guest0/barrys (g)
+
+LP P=        0.10 E=        1.44
+C  P=        0.05 E=        1.30
+M  P=        0.07 E=        1.00
+
+BARRYS - Sep 20 1981 00:28:59 - guest0/barrys
+
+LP P=        0.10 E=        2.18
+C  P=        0.05 E=        3.08
+M  P=        0.07 E=        1.24
+
+BARRYS - Sep 21 1981 00:34:39 - guest0/barrys
+
+LP P=        0.11 E=        2.28
+C  P=        0.06 E=        2.24
+M  P=        0.08 E=        2.20
+
+BARRYS - Sep 21 1981 00:37:09 - guest0/barrys
+
+LP P=        0.11 E=        2.36
+C  P=        0.06 E=        2.30
+M  P=        0.09 E=        1.30
+
+PALLAS - Oct 11 1981 03:15:09 - guest3/pallas (g)
+
+LP P=        0.11 E=        2.28
+C  P=        0.05 E=        2.30
+M  P=        0.07 E=        1.18
+
+PALLAS - Oct 11 1981 03:20:23 - guest3/pallas (g)
+
+LP P=        0.12 E=        2.28
+
+PALLAS - Oct 11 1981 03:20:42 - guest3/pallas (g)
+
+LP P=        0.12 E=        2.10
+
+PALLAS - Oct 11 1981 03:21:28 - guest3/pallas (g)
+
+LP P=        0.11 E=        2.32
+C  P=        0.05 E=        2.28
+M  P=        0.07 E=        1.22
+
+ALMAIN - Nov  7 1981 14:45:38 - guest0/almain
+
+LP P=        0.10 E=        4.08
+C  P=        0.05 E=        4.04
+M  P=        0.07 E=        2.50
+
+ALMAIN - Nov  7 1981 14:46:49 - guest0/almain
+
+LP P=        0.09 E=        3.06
+C  P=        0.05 E=        2.38
+M  P=        0.07 E=        2.32
+
+ALMAIN - Nov  7 1981 14:54:57 - guest0/almain
+
+LP P=        0.10 E=        3.42
+C  P=        0.05 E=        4.12
+M  P=        0.07 E=        3.16
+
+ALMAIN - Nov  7 1981 15:07:37 - guest0/almain
+
+LP P=        0.07 E=        3.22
+
+ALMAIN - Nov  7 1981 15:08:10 - guest0/almain
+
+LP P=        0.07 E=        1.50
+
+ALMAIN - Nov  7 1981 15:09:49 - guest0/almain
+
+LP P=        0.07 E=        2.42
+
+ALMAIN - Nov  7 1981 17:14:32 - guest0/almain
+
+LP P=        0.11 E=        2.14
+C  P=        0.05 E=        3.00
+M  P=        0.09 E=        1.44
+
+ALMAIN - Nov  7 1981 17:14:58 - guest0/almain (s)
+
+LP P=        0.11 E=        1.46
+C  P=        0.05 E=        1.30
+M  P=        0.07 E=        1.12
+S  P=        0.04 E=        1.00
+
+ALMAIN - Nov  7 1981 17:29:10 - guest0/almain
+
+LP P=        0.11 E=        2.22
+C  P=        0.05 E=        2.38
+M  P=        0.07 E=        1.36
+
+ALMAIN - Nov  7 1981 17:29:56 - guest0/almain
+
+LP P=        0.11 E=        3.22
+C  P=        0.05 E=        3.30
+M  P=        0.08 E=        2.38
+
+ALMAIN - Nov  7 1981 17:31:10 - guest0/almain
+
+LP P=        0.10 E=        3.22
+C  P=        0.05 E=        4.08
+M  P=        0.07 E=        2.36
+
+ALMAIN - Nov  7 1981 17:34:44 - guest0/almain
+
+LP P=        0.10 E=        4.08
+C  P=        0.05 E=        3.30
+M  P=        0.07 E=        2.26
+
+ALMAIN - Nov  7 1981 17:35:25 - guest0/almain
+
+LP P=        0.08 E=        2.42
+
+SKEF - Nov 16 1981 01:33:07 - guest4/skef
+
+LP P=        0.11 E=        3.44
+
+MCLEAN - Dec  9 1981 18:46:34 - users5/mclean
+
+LP P=        0.11 E=        3.56
+
+KOZ - Feb 25 1982 00:34:01 - guest2/test
+
+LP P=        0.13 E=        3.42
+C  P=        0.05 E=        4.20
+M  P=        0.08 E=        2.30
+
+KOZ - Feb 25 1982 00:34:47 - guest2/test
+
+LP P=        0.11 E=        3.56
+C  P=        0.04 E=        4.02
+M  P=        0.08 E=        2.30
+
+KOZ - Feb 25 1982 00:35:22 - guest2/test
+
+LP P=        0.12 E=        2.52
+C  P=        0.04 E=        2.14
+M  P=        0.08 E=        1.42
+
+KOZ - Feb 25 1982 00:35:42 - guest2/test
+
+LP P=        0.13 E=        3.22
+C  P=        0.05 E=        3.04
+M  P=        0.10 E=        2.22
+
+APPLE - Feb 28 1982 01:10:20 - guest0/apple
+
+LP P=        0.17 E=        3.18
+
+APPLE - Feb 28 1982 01:12:48 - guest0/apple
+
+LP P=        0.13 E=       17.48
+
+APPLE - Feb 28 1982 01:13:33 - guest0/apple (x)
+
+LP P=        0.11 E=       11.06
+
+APPLE - Feb 28 1982 01:16:52 - guest0/apple
+
+LP P=        0.11 E=        2.42
+
+APPLE - Feb 28 1982 01:17:05 - guest0/apple
+
+LP P=        0.11 E=        2.14
+
+KOZ - Apr  7 1982 03:31:53 - guest2/ascii
+
+LP P=        0.14 E=        4.12
+
+KOZ - Apr  7 1982 03:33:27 - guest2/ascii
+
+LP P=        0.16 E=        4.06
+
+KOZ - Apr  7 1982 03:34:44 - guest2/ascii
+
+LP P=        0.13 E=        3.06
+C  P=        0.06 E=        4.04
+M  P=        0.09 E=        2.28
+
+KOZ - Apr  7 1982 03:38:12 - guest2/ascii
+
+LP P=        0.12 E=        3.54
+C  P=        0.06 E=        3.56
+M  P=        0.09 E=        2.36
+
+KOZ - Apr  7 1982 03:39:20 - guest2/ascii
+
+LP P=        0.12 E=        2.44
+C  P=        0.05 E=        3.22
+M  P=        0.06 E=        2.34
+
+KOZ - Apr  7 1982 03:44:08 - guest2/test
+
+LP P=        0.11 E=        3.48
+C  P=        0.05 E=        4.44
+M  P=        0.07 E=        2.42
+
+KOZ - Apr  7 1982 03:46:45 - guest2/test
+
+LP P=        0.11 E=        3.24
+C  P=        0.06 E=        3.58
+M  P=        0.06 E=        2.28
+
+KOZ - Apr  7 1982 03:53:44 - guest2/test
+
+LP P=        0.08 E=        2.32
+
+KOZ - Apr  7 1982 03:54:30 - guest2/test
+
+LP P=        0.08 E=        2.12
+
+KOZ - Apr  7 1982 04:02:51 - guest2/test
+
+LP P=        0.08 E=        2.32
+
+KOZ - Apr  7 1982 04:05:49 - guest2/test
+
+LP P=        0.14 E=        4.24
+C  P=        0.07 E=        3.58
+M  P=        0.07 E=        2.26
+
+KOZ - Apr  7 1982 04:07:37 - guest2/test
+
+LP P=        0.10 E=        3.22
+C  P=        0.04 E=        3.54
+M  P=        0.06 E=        2.44
+
+KOZ - Apr  7 1982 04:11:47 - guest2/test
+
+LP P=        0.12 E=        4.04
+C  P=        0.05 E=        3.56
+M  P=        0.07 E=        2.42
+
+KOZ - Apr  7 1982 04:13:06 - guest2/test
+
+LP P=        0.11 E=        2.42
+C  P=        0.05 E=        2.50
+M  P=        0.06 E=        2.12
+
+KOZ - Apr  7 1982 04:39:18 - guest2/test
+
+LP P=        0.12 E=        3.56
+C  P=        0.06 E=        4.30
+M  P=        0.07 E=        2.28
+
+KOZ - Apr  7 1982 04:40:00 - guest2/test
+
+LP P=        0.11 E=        3.12
+C  P=        0.06 E=        2.26
+M  P=        0.06 E=        2.06
+
+KOZ - Apr  7 1982 04:42:01 - guest2/test
+
+LP P=        0.10 E=        3.42
+C  P=        0.05 E=        4.40
+M  P=        0.07 E=        2.34
+
+KOZ - Apr  7 1982 04:44:42 - guest2/ascii
+
+LP P=        0.12 E=        4.12
+C  P=        0.06 E=        3.56
+M  P=        0.11 E=        2.36
+
+KOZ - Apr  7 1982 04:45:31 - guest2/ascii
+
+LP P=        0.13 E=        4.02
+C  P=        0.06 E=        3.56
+M  P=        0.10 E=        2.34
+
+KOZ - Apr  7 1982 04:46:45 - guest2/ascii
+
+LP P=        0.12 E=        3.08
+C  P=        0.06 E=        2.30
+M  P=        0.11 E=        2.16
+
+KOZ - Apr  7 1982 04:49:06 - guest2/ascii
+
+LP P=        0.12 E=        3.44
+C  P=        0.06 E=        4.08
+M  P=        0.09 E=        2.46
+
+KOZ - Apr  7 1982 04:50:14 - guest2/ascii
+
+LP P=        0.10 E=        3.22
+C  P=        0.04 E=        4.04
+M  P=        0.06 E=        2.36
+
+KOZ - Apr  7 1982 04:53:45 - guest2/ascii
+
+LP P=        0.13 E=        3.38
+C  P=        0.06 E=        4.08
+M  P=        0.10 E=        2.44
+
+KOZ - Apr  7 1982 04:55:35 - guest2/ascii
+
+LP P=        0.10 E=        3.30
+C  P=        0.04 E=        4.00
+M  P=        0.06 E=        2.24
+
+KOZ - Apr  7 1982 04:57:20 - guest2/ascii
+
+LP P=        0.11 E=        2.48
+C  P=        0.05 E=        3.38
+M  P=        0.06 E=        2.10
+
+KOZ - Apr  7 1982 04:59:44 - guest2/ascii
+
+LP P=        0.12 E=        3.50
+C  P=        0.06 E=        4.20
+M  P=        0.10 E=        2.34
+
+KOZ - Apr  7 1982 05:12:10 - guest2/lower
+
+LP P=        0.15 E=        4.12
+
+KOZ - Apr  7 1982 05:14:21 - guest2/lower
+
+LP P=        0.13 E=        3.46
+C  P=        0.07 E=        4.36
+M  P=        0.12 E=        2.26
+
+KOZ - Apr  7 1982 05:15:43 - guest2/lower
+
+LP P=        0.13 E=        3.56
+C  P=        0.07 E=        4.30
+M  P=        0.14 E=        2.30
+
+KOZ - Apr  7 1982 05:17:41 - guest2/lower
+
+LP P=        0.13 E=        3.30
+C  P=        0.07 E=        4.30
+M  P=        0.12 E=        2.18
+
+KOZ - Apr  7 1982 05:20:34 - guest2/lower
+
+LP P=        0.13 E=        3.28
+C  P=        0.06 E=        3.58
+M  P=        0.10 E=        2.46
+
+KOZ - Apr  7 1982 05:23:06 - guest2/lower
+
+LP P=        0.16 E=        4.00
+C  P=        0.08 E=        3.56
+M  P=        0.10 E=        2.24
+
+KOZ - Apr  7 1982 05:24:49 - guest2/lower
+
+LP P=        0.09 E=        3.24
+C  P=        0.04 E=        3.56
+M  P=        0.06 E=        2.26
+
+KOZ - Apr  7 1982 05:26:29 - guest2/lower
+
+LP P=        0.12 E=        3.30
+C  P=        0.06 E=        4.28
+M  P=        0.10 E=        2.24
+
+KOZ - Apr  7 1982 05:28:55 - guest2/lower
+
+LP P=        0.16 E=        3.30
+C  P=        0.08 E=        4.02
+M  P=        0.10 E=        2.22
+
+KOZ - Apr  7 1982 05:29:44 - guest2/lower
+
+LP P=        0.10 E=        3.22
+C  P=        0.04 E=        4.12
+M  P=        0.06 E=        3.16
+
+KOZ - Apr  7 1982 05:31:43 - guest2/lower
+
+LP P=        0.09 E=        3.22
+C  P=        0.04 E=        3.54
+M  P=        0.07 E=        2.32
+
+KOZ - Apr  7 1982 05:34:16 - guest2/lower
+
+LP P=        0.10 E=        3.14
+C  P=        0.04 E=        3.50
+M  P=        0.06 E=        2.28
+
+KOZ - Apr  7 1982 05:40:33 - guest2/test1
+
+LP P=        0.15 E=        3.36
+C  P=        0.08 E=        4.26
+M  P=        0.11 E=        2.28
+
+KOZ - Apr  7 1982 05:42:59 - guest2/test1
+
+LP P=        0.09 E=        3.08
+C  P=        0.04 E=        3.50
+M  P=        0.06 E=        2.14
+
+KOZ - Apr  7 1982 05:44:38 - guest2/test1
+
+LP P=        0.11 E=        2.58
+C  P=        0.06 E=        4.06
+M  P=        0.06 E=        2.14
+
+KOZ - Apr  7 1982 05:46:27 - guest2/test1
+
+LP P=        0.09 E=        3.42
+C  P=        0.04 E=        3.52
+M  P=        0.06 E=        2.38
+
+KOZ - Apr  7 1982 06:19:49 - guest2/koz
+
+LP P=        0.15 E=        3.42
+
+KOZ - Apr  7 1982 06:21:15 - guest2/koz
+
+LP P=        0.13 E=        4.04
+
+KOZ - Apr  7 1982 06:22:08 - guest2/koz
+
+LP P=        0.13 E=        3.40
+
+KOZ - Apr  7 1982 06:22:33 - guest2/foo
+
+LP P=        0.11 E=        3.06
+
+KOZ - Apr  7 1982 06:24:12 - guest2/foo
+
+LP P=        0.15 E=        3.54
+C  P=        0.07 E=        4.00
+M  P=        0.07 E=        2.28
+
+KOZ - Apr  7 1982 06:24:55 - guest2/koz
+
+LP P=        0.13 E=        3.16
+
+KOZ - Apr  7 1982 06:25:35 - guest2/foo
+
+LP P=        0.09 E=        3.08
+C  P=        0.04 E=        3.46
+M  P=        0.05 E=        2.22
+
+KOZ - Apr 10 1982 06:50:25 - guest2/foo
+
+LP P=        0.10 E=        2.10
+C  P=        0.05 E=        2.20
+M  P=        0.07 E=        1.18
+
+SOLEY - Apr 12 1982 21:12:15 - r/r
+
+LP P=        0.08 E=        2.30
+
+SOLEY - Apr 12 1982 21:12:46 - r/r
+
+LP P=        0.10 E=       22.18
+
+TANG - May  1 1982 21:52:46 - atlogo/test
+
+LP P=        0.10 E=        2.50
+C  P=        0.05 E=        2.16
+M  P=        0.04 E=        1.04
+
+TANG - May  1 1982 22:02:22 - users9/tang
+
+LP P=        0.14 E=        2.26
+C  P=        0.07 E=        2.50
+M  P=        0.07 E=        1.24
+
+TANG - May  1 1982 22:04:02 - users9/tang
+
+LP P=        0.11 E=        1.48
+
+TANG - May  1 1982 22:05:16 - users9/tang
+
+LP P=        0.11 E=        2.42
+
+TANG - May  1 1982 22:06:36 - users9/tang
+
+LP P=        0.11 E=        2.16
+C  P=        0.05 E=        2.30
+M  P=        0.07 E=        1.24
+
+TANG - May  1 1982 22:12:23 - users9/tang
+
+LP P=        8.33 E=       17.16
+
+TANG - May  1 1982 22:17:46 - users9/tang1
+
+LP P=        1.22 E=        4.52
+C  P=        1.02 E=        6.18
+M  P=        2.21 E=        6.04
+
+TANG - May  1 1982 22:22:58 - users9/tang11
+
+LP P=        1.29 E=        3.50
+C  P=        1.11 E=        4.48
+M  P=        2.25 E=        7.20
+
+TANG - May  1 1982 22:39:51 - users9/tang1
+
+LP P=        1.27 E=        4.00
+C  P=        1.08 E=        5.14
+M  P=        2.25 E=        4.06
+
+TANG - May  1 1982 22:40:22 - users9/tang2
+
+LP P=        1.16 E=        7.14
+
+TANG - May  1 1982 22:41:48 - users9/tang3
+
+LP P=        1.21 E=        3.36
+
+TANG - May  1 1982 22:45:14 - users9/tang2
+
+LP P=        1.21 E=        5.22
+
+TANG - May  1 1982 22:52:22 - users9/tang2
+
+LP P=        2.41 E=        8.44
+
+TANG - May  1 1982 22:59:23 - users9/tang2
+
+LP P=        2.38 E=        7.36
+C  P=        2.17 E=        9.34
+M  P=        4.01 E=        6.48
+
+TANG - May  1 1982 23:08:15 - users9/tang1
+
+LP P=        1.17 E=        4.40
+
+TANG - May  1 1982 23:09:30 - users9/tang1
+
+LP P=        1.27 E=        3.50
+C  P=        1.02 E=        4.48
+M  P=        2.23 E=        8.18
+
+TANG - May  1 1982 23:16:23 - users9/tang2
+
+LP P=        1.28 E=        5.14
+C  P=        1.13 E=        5.40
+M  P=        2.09 E=        6.10
+
+TANG - May  1 1982 23:16:56 - users9/tang3
+
+LP P=        1.27 E=        9.48
+C  P=        1.13 E=        6.14
+M  P=        2.34 E=        7.02
+
+TANG - May  1 1982 23:23:33 - users9/tang2
+
+LP P=        1.31 E=        9.06
+C  P=        1.11 E=        7.18
+M  P=        2.10 E=       16.22
+
+TANG - May  1 1982 23:24:21 - users9/tang3
+
+LP P=        1.30 E=        7.44
+C  P=        1.10 E=        9.28
+M  P=        2.32 E=       10.44
+
+TANG - May  1 1982 23:25:16 - users9/tang4
+
+LP P=        1.26 E=        4.52
+C  P=        1.14 E=        5.48
+M  P=        2.40 E=        5.56
+
+TANG - May  1 1982 23:25:55 - users9/tang5
+
+LP P=        1.07 E=        4.50
+C  P=        1.00 E=        5.00
+M  P=        1.59 E=        5.48
+
+TANG - May  1 1982 23:26:35 - users9/tang6
+
+LP P=        1.12 E=        6.00
+C  P=        1.11 E=        5.32
+M  P=        2.32 E=        8.26
+
+TANG - May  1 1982 23:27:00 - users9/tang7
+
+LP P=        1.14 E=       10.42
+C  P=        1.00 E=        5.26
+M  P=        2.01 E=        7.42
+
+TANG - May  1 1982 23:27:34 - users9/tang8
+
+LP P=        1.34 E=        6.02
+
+TANG - May  1 1982 23:30:42 - users9/tang7
+
+LP P=        1.16 E=        5.44
+C  P=        1.03 E=        6.42
+M  P=        1.59 E=        5.14
+
+TANG - May  1 1982 23:31:06 - users9/tang8
+
+LP P=        1.14 E=        5.20
+C  P=        0.52 E=        4.42
+M  P=        1.46 E=        4.30
+
+TANG - May  1 1982 23:35:36 - users9/tang8
+
+LP P=        7.52 E=       13.38
+
+TANG - May  1 1982 23:38:57 - users9/tang8
+
+LP P=        2.22 E=        8.46
+C  P=        1.52 E=        9.08
+M  P=        3.45 E=        5.44
+
+TANG - May  1 1982 23:40:44 - users9/tang8
+
+LP P=        7.04 E=       15.32
+C  P=        7.01 E=       20.02
+M  P=       12.46 E=       32.46
+
+TANG - May  1 1982 23:50:01 - users9/tang0
+
+LP P=        7.50 E=       12.12
+C  P=        8.34 E=       14.10
+M  P=       16.15 E=       28.06
+
+TANG - May  1 1982 23:54:11 - users9/tang0
+
+LP P=        7.51 E=       24.02
+C  P=        8.12 E=       26.00
+M  P=       16.34 E=       33.42
+
+TANG - May  2 1982 00:05:06 - users9/tang0
+
+LP P=        8.11 E=       15.52
+C  P=        7.48 E=       21.38
+M  P=       16.20 E=       48.12
+
+TANG - May  2 1982 00:11:20 - users9/tang0
+
+LP P=        8.17 E=       26.02
+C  P=        8.39 E=       16.48
+M  P=       16.18 E=       25.26
+
+TANG - May  2 1982 00:24:08 - users9/tang0
+
+LP P=        8.08 E=       14.02
+C  P=        8.40 E=       14.18
+M  P=       16.09 E=       31.56
+
+TANG - May  2 1982 01:39:26 - users9/tang0
+
+LP P=        7.57 E=       11.30
+C  P=        8.22 E=       19.42
+M  P=       15.58 E=       20.16
+
+TANG - May  2 1982 01:58:27 - users9/tang0
+
+LP P=        8.05 E=       12.38
+C  P=        8.40 E=       13.06
+M  P=       16.06 E=       21.38
+
+TANG - May  2 1982 02:02:59 - users9/tang0
+
+LP P=        8.08 E=       15.48
+
+TANG - May  2 1982 02:03:54 - users9/tang0
+
+LP P=        8.03 E=       10.40
+C  P=        8.42 E=       13.38
+M  P=       16.05 E=       20.04
+
+TANG - May  2 1982 02:13:52 - users9/tang0
+
+LP P=        8.08 E=       12.12
+C  P=        8.44 E=       15.32
+M  P=       16.15 E=       20.56
+
+TANG - May  2 1982 02:29:46 - users9/tang0
+
+LP P=        7.32 E=       10.40
+C  P=        7.40 E=       20.18
+M  P=       16.02 E=       23.36
+
+TANG - May  3 1982 00:32:10 - users9/tang1
+
+LP P=        7.08 E=       27.12
+C  P=        7.25 E=       36.18
+M  P=       14.52 E=       56.52
+
+TANG - May  3 1982 00:34:55 - users9/tang8
+
+LP P=        0.21 E=        4.26
+
+TANG - May  3 1982 00:38:59 - users9/tang8
+
+LP P=        1.09 E=        5.24
+C  P=        0.53 E=        6.14
+M  P=        1.41 E=        5.08
+
+TANG - May  3 1982 02:27:37 - users9/tang8
+
+LP P=        1.07 E=        6.24
+C  P=        0.39 E=        5.44
+M  P=        1.24 E=        4.36
+
+TANG - May  5 1982 21:04:16 - users9/tanga
+
+LP P=        7.17 E=       51.54
+C  P=        7.48 E=       35.38
+M  P=       14.49 E=       59.20
+
+TANG - May  5 1982 21:07:44 - users9/tangb
+
+LP P=        1.08 E=       10.06
+C  P=        0.37 E=        6.24
+M  P=        1.21 E=       13.50
+
+TANG - May  5 1982 21:54:10 - users9/tanga
+
+LP P=        7.25 E=       59.44
+C  P=        8.00 E=     1:05.20
+M  P=       15.06 E=     2:07.18
+
+TANG - May  5 1982 21:59:15 - users9/tanga
+
+LP P=        7.16 E=       35.56
+C  P=        7.51 E=       37.50
+M  P=       15.01 E=     1:12.16
+
+TANG - May  5 1982 22:02:27 - users9/tangb
+
+LP P=        1.08 E=        6.46
+C  P=        0.37 E=        4.54
+M  P=        1.25 E=        5.20
+
+TANG - May  5 1982 22:26:29 - users9/tanga
+
+LP P=        7.19 E=       29.10
+C  P=        7.59 E=       27.32
+M  P=       15.04 E=       38.22
+
+TANG - May  5 1982 22:28:26 - users9/tangb
+
+LP P=        1.09 E=        4.14
+C  P=        0.39 E=        3.36
+M  P=        1.21 E=        3.06
+
+TANG - May  5 1982 22:53:43 - users9/tangb
+
+LP P=        1.09 E=        4.52
+C  P=        0.39 E=        3.14
+M  P=        1.22 E=        5.26
+
+TANG - May  8 1982 23:37:32 - users9/tanga
+
+LP P=        7.28 E=       18.42
+C  P=        8.01 E=       15.56
+M  P=       14.53 E=       22.12
+
+TANG - May  8 1982 23:39:45 - users9/tangb
+
+LP P=        1.09 E=        3.32
+C  P=        0.40 E=        3.28
+M  P=        1.23 E=        7.38
+
+TANG - May  9 1982 00:17:28 - users9/tangb
+
+LP P=        1.07 E=        3.14
+C  P=        0.38 E=        3.20
+M  P=        1.21 E=        2.42
+
+TANG - May  9 1982 00:26:59 - users9/tanga
+
+LP P=        7.13 E=       11.32
+C  P=        7.41 E=       11.36
+M  P=       14.31 E=       17.18
+
+M.JR - Jun  8 1982 23:54:08 - guest3/m.jr
+
+LP P=        0.12 E=        3.28
+
+M.JR - Jun  8 1982 23:59:34 - guest3/m.jr
+
+LP P=        0.12 E=        2.46
+
+A2DEH - Jun 15 1982 21:31:30 - guest0/a2deh
+
+LP P=        0.11 E=        3.12
+
+M.JR - Jul 16 1982 00:10:29 - guest3/m.jr
+
+LP P=        0.11 E=        4.12
+
+GJC - Sep  6 1982 11:32:56 - gjc/foo
+
+LP P=        0.16 E=        3.52
+
+BGL - Oct 19 1982 21:28:57 - bgl/c
+
+LP P=        0.09 E=        3.56
+
+BGL - Oct 19 1982 21:29:02 - bgl/y
+
+LP P=        0.11 E=        3.52
+
+BGL - Nov  7 1982 17:03:51 - bgl/c
+
+LP P=        0.14 E=        3.44
+
+BGL - Nov  7 1982 17:04:07 - bgl/test
+
+LP P=        0.08 E=        3.14
+C  P=        0.05 E=        5.14
+M  P=        0.07 E=        3.04
+
+SHAWN - Nov 15 1982 13:45:30 - guest4/foo
+
+LP P=        0.11 E=        3.48
+C  P=        0.05 E=        3.30
+M  P=        0.08 E=        2.38
+
+FFM - Dec  7 1982 21:38:57 - ffm/junk (gs)
+
+LP P=        0.09 E=        3.42
+C  P=        0.05 E=        4.50
+M  P=        0.07 E=        2.30
+S  P=        0.04 E=        2.42
+
+FFM - Dec  7 1982 21:39:20 - ffm/junk (gs)
+
+LP P=        0.09 E=        3.50
+S  P=        0.04 E=        2.22
+
+FFM - Dec  7 1982 21:53:53 - ffm/junk
+
+LP P=        0.08 E=        3.40
+
+FFM - Dec  7 1982 21:55:12 - ffm/junk
+
+LP P=        0.10 E=        3.24
+
+FFM - Dec  7 1982 21:57:04 - ffm/junk
+
+LP P=        0.09 E=        3.14
+
+FFM - Dec  7 1982 22:14:56 - ffm/junk
+
+LP P=        0.09 E=        3.58
+
+FFM - Dec  7 1982 22:17:12 - ffm/junk
+
+LP P=        0.09 E=        4.10
+
+FFM - Dec  7 1982 22:20:31 - ffm/junk
+
+LP P=        0.10 E=        3.56
+
+FFM - Dec  7 1982 22:21:46 - ffm/junk
+
+LP P=        0.09 E=        3.56
+C  P=        0.05 E=        4.14
+M  P=        0.07 E=        3.04
+
+FFM - Dec  7 1982 22:23:16 - ffm/junk
+
+LP P=        0.09 E=        2.56
+C  P=        0.05 E=        4.24
+M  P=        0.07 E=        3.08
+
+FFM - Dec  7 1982 22:25:44 - ffm/bar
+
+LP P=        0.08 E=        3.58
+C  P=        0.04 E=        4.48
+M  P=        0.06 E=        2.34
+
+FFM - Dec  7 1982 22:27:52 - ffm/foobaz
+
+LP P=        0.10 E=        3.36
+C  P=        0.05 E=        4.12
+M  P=        0.07 E=        2.34
+
+FFM - Dec  7 1982 23:47:44 - ffm/junk
+
+LP P=        0.08 E=        3.12
+C  P=        0.04 E=        4.14
+M  P=        0.05 E=        2.20
+
+BGL - Dec 12 1982 19:38:11 - bgl/c
+
+LP P=        0.12 E=        4.00
+
+BGL - Dec 12 1982 19:38:17 - bgl/y
+
+LP P=        0.09 E=        3.14
+
+FFM - Dec 26 1982 22:39:01 - ffm/junk
+
+LP P=        0.08 E=        3.24
+C  P=        0.04 E=        4.18
+M  P=        0.05 E=        2.28
+
+FFM - Dec 26 1982 23:27:18 - ffm/junk
+
+LP P=        0.10 E=        4.08
+C  P=        0.06 E=        4.02
+
+FFM - Dec 26 1982 23:27:49 - ffm/junk (s)
+
+LP P=        0.12 E=        1.42
+C  P=        0.06 E=        2.02
+S  P=        0.04 E=        0.54
+
+FFM - Dec 26 1982 23:33:10 - ffm/junk
+
+LP P=        0.09 E=        2.00
+
+FFM - Dec 26 1982 23:33:29 - ffm/junk (s)
+
+LP P=        0.09 E=        3.02
+S  P=        0.04 E=        2.30
+
+FFM - Dec 26 1982 23:34:01 - ffm/junk (s)
+
+LP P=        0.09 E=        1.24
+S  P=        0.04 E=        0.40
+
+FFM - Dec 27 1982 03:20:33 - ffm/junk (s)
+
+LP P=        0.13 E=        3.42
+S  P=        0.04 E=        2.14
+
+FFM - Dec 27 1982 03:22:25 - ffm/junk (s)
+
+LP P=        0.12 E=        3.58
+C  P=        0.06 E=        4.34
+S  P=        0.04 E=        2.52
+
+FFM - Dec 27 1982 03:39:39 - ffm/junk
+
+LP P=        0.09 E=        3.30
+
+MAZE - Dec 30 1982 05:04:15 - guest3/world
+
+LP P=        0.11 E=        3.48
+C  P=        0.05 E=        4.06
+M  P=        0.07 E=        2.54
+
+MAZE - Dec 30 1982 05:04:51 - guest3/world
+
+LP P=        0.13 E=        2.56
+C  P=        0.05 E=        2.56
+M  P=        0.07 E=        2.22
+
+SDMAIN - Jan 15 1983 18:30:09 - users8/sdmain
+
+LP P=        0.10 E=        3.04
+
+SDMAIN - Jan 15 1983 18:31:22 - users8/sdmain
+
+LP P=        0.10 E=        3.52
+
+EJS - Mar  3 1983 00:54:13 - ejs/printf (c)
+
+LP P=        0.35 E=        8.16
+
+EJS - Mar  3 1983 00:56:54 - ejs/abs (c)
+
+LP P=        0.10 E=        3.56
+C  P=        0.06 E=        4.10
+M  P=        0.08 E=        2.50
+
+EJS - Mar  4 1983 13:19:28 - ejs/cc1 (c)
+
+LP P=        0.34 E=        4.42
+
+EJS - Mar  4 1983 13:23:50 - ejs/cc1 (c)
+
+LP P=        0.35 E=        4.16
+
+EJS - Mar  4 1983 13:25:16 - ejs/cc1x (c)
+
+LP P=        0.34 E=        4.18
+
+EJS - Mar  4 1983 13:27:23 - ejs/cc1m (c)
+
+LP P=        0.07 E=        2.22
+
+EJS - Mar  4 1983 13:28:15 - ejs/cc1m (c)
+
+LP P=        0.50 E=        5.10
+
+EJS - Mar  4 1983 13:44:01 - ejs/cc1m (x)
+
+LP P=        0.40 E=       41.30
+
+EJS - Mar  4 1983 13:49:52 - ejs/cc1m (c)
+
+LP P=        0.50 E=       11.20
+
+EJS - Mar  4 1983 13:51:00 - ejs/cc1m (c)
+
+LP P=        0.51 E=        6.14
+
+EJS - Mar  4 1983 13:52:02 - ejs/cc1m (c)
+
+LP P=        0.50 E=        9.52
+
+EJS - Mar  4 1983 13:53:05 - ejs/cc1m (c)
+
+LP P=        0.51 E=        8.30
+
+EJS - Mar  4 1983 13:53:51 - ejs/cc1m (c)
+
+LP P=        0.52 E=        5.10
+
+EJS - Mar  4 1983 13:54:47 - ejs/cc1m (c)
+
+LP P=        0.50 E=        7.02
+
+EJS - Mar  4 1983 13:56:14 - ejs/cc1m (c)
+
+LP P=        0.47 E=        7.26
+
+EJS - Mar  4 1983 13:58:36 - ejs/cc1m (c)
+
+LP P=        0.47 E=        5.48
+
+EJS - Mar  4 1983 14:03:35 - ejs/foo (c)
+
+LP P=        0.08 E=        3.16
+C  P=        0.04 E=        3.28
+M  P=        0.06 E=        2.24
+
+EJS - Mar  4 1983 14:05:18 - ejs/foo (c)
+
+LP P=        0.09 E=        2.56
+
+EJS - Mar  4 1983 14:06:04 - ejs/foo (c)
+
+LP P=        0.10 E=        4.48
+
+EJS - Mar  4 1983 14:08:04 - ejs/foo (c)
+
+LP P=        0.12 E=        3.56
+
+EJS - Mar  4 1983 14:09:47 - ejs/foo (c)
+
+LP P=        0.10 E=        4.30
+
+EJS - Mar  4 1983 14:10:58 - ejs/foo (c)
+
+LP P=        0.12 E=        4.02
+
+EJS - Mar  4 1983 14:17:21 - ejs/foo (c)
+
+LP P=        0.12 E=        6.24
+
+EJS - Mar  4 1983 14:20:31 - ejs/foo (c)
+
+LP P=        0.12 E=        4.18
+
+EJS - Mar  4 1983 14:58:59 - ejs/foo (c)
+
+LP P=        0.12 E=        3.58
+
+EJS - Mar  4 1983 15:00:12 - ejs/foo (c)
+
+LP P=        0.09 E=        3.22
+C  P=        0.05 E=        4.52
+M  P=        0.08 E=        3.04
+
+EJS - Mar  4 1983 15:01:12 - ejs/foo (c)
+
+LP P=        0.10 E=        1.44
+
+EJS - Mar  4 1983 15:01:32 - ejs/foo (c)
+
+LP P=        0.12 E=        1.28
+C  P=        0.07 E=        1.32
+M  P=        0.08 E=        1.02
+
+EJS - Mar  4 1983 15:02:14 - ejs/foo (c)
+
+LP P=        0.11 E=        2.18
+
+EJS - Mar  4 1983 15:02:28 - ejs/foo (c)
+
+LP P=        0.11 E=        2.40
+C  P=        0.05 E=        3.04
+M  P=        0.08 E=        1.20
+
+EJS - Mar  4 1983 15:03:29 - ejs/foo (x)
+
+LP P=        0.10 E=        1.42
+
+EJS - Mar  4 1983 15:03:48 - ejs/foo (x)
+
+LP P=        0.10 E=        2.52
+
+EJS - Mar  4 1983 15:07:14 - ejs/foo (x)
+
+LP P=        0.09 E=        3.52
+
+EJS - Mar  4 1983 23:24:21 - ejs/foo (x)
+
+LP P=        0.10 E=        3.22
+
+EJS - Mar  4 1983 23:36:11 - ejs/foo (x)
+
+LP P=        0.10 E=        3.24
+
+EJS - Mar  4 1983 23:37:27 - ejs/foo (x)
+
+LP P=        0.10 E=        3.20
+
+EJS - Mar  4 1983 23:38:03 - ejs/foo (x)
+
+LP P=        0.10 E=        3.02
+
+EJS - Mar  4 1983 23:39:19 - ejs/foo (x)
+
+LP P=        0.10 E=        3.28
+
+EJS - Mar  4 1983 23:43:51 - ejs/foo
+
+LP P=        0.11 E=        3.22
+
+EJS - Mar  4 1983 23:45:31 - ejs/foo (x)
+
+LP P=        0.10 E=        3.44
+
+EJS - Mar  7 1983 00:51:34 - ejs/foo (x)
+
+LP P=        0.10 E=        3.24
+
+EJS - Mar  7 1983 00:54:18 - ejs/foo (x)
+
+LP P=        0.10 E=        3.38
+
+JHT - Mar 18 1983 22:42:34 - users3/foo (g)
+
+LP P=        0.12 E=        3.48
+C  P=        0.05 E=        4.36
+M  P=        0.08 E=        2.40
+
+WILLIS - Apr  3 1983 00:37:34 - users3/willis
+
+LP P=        0.13 E=        2.16
+
+MADLER - Apr 17 1983 13:37:53 - users6/madler
+
+LP P=        0.11 E=        2.12
+
+MADLER - Apr 17 1983 13:39:16 - users6/madler
+
+LP P=        2.48 E=        4.28
+C  P=        3.30 E=        7.04
+M  P=        5.15 E=        7.42
+
+CSTACY - May  6 1983 13:58:49 - .dovr./.spool
+
+LP P=        7.54 E=       23.48
+C  P=        2.11 E=        7.08
+
+SKEF - May 13 1983 20:48:11 - guest4/skef
+
+LP P=        0.11 E=        2.34
+
+HAA - May 14 1983 21:09:59 - guest1/haa
+
+LP P=        0.12 E=        2.06
+
+HAA - May 14 1983 21:10:15 - guest1/haa
+
+LP P=        0.13 E=        2.18
+
+HAA - May 14 1983 21:16:38 - guest1/haa
+
+LP P=        0.13 E=        2.20
+C  P=        0.08 E=        4.20
+M  P=        0.13 E=        3.08
+
+HAA - May 14 1983 21:18:54 - guest1/haa
+
+LP P=        0.13 E=        2.36
+C  P=        0.08 E=        2.22
+M  P=        0.14 E=        1.30
+
+HAA - May 14 1983 21:20:06 - guest1/haa
+
+LP P=        0.14 E=        2.56
+C  P=        0.08 E=        2.18
+M  P=        0.14 E=        2.06
+
+HAA - May 14 1983 21:20:54 - guest1/haa
+
+LP P=        0.18 E=        2.32
+C  P=        0.10 E=        2.30
+M  P=        0.14 E=        1.22
+
+HAA - May 14 1983 21:25:04 - guest1/haa
+
+LP P=        0.15 E=        2.46
+C  P=        0.09 E=        2.36
+M  P=        0.14 E=        1.40
+
+HAA - May 14 1983 21:32:01 - guest1/haa
+
+LP P=        0.15 E=        2.58
+C  P=        0.09 E=        2.50
+M  P=        0.14 E=        1.30
+
+HAA - May 16 1983 21:52:21 - guest1/haa
+
+LP P=        0.12 E=        2.26
+
+HAA - May 16 1983 21:52:47 - guest1/haa
+
+LP P=        0.18 E=        3.22
+
+HAA - May 16 1983 21:56:11 - guest1/haa
+
+LP P=        0.18 E=        2.24
+C  P=        0.11 E=        2.32
+M  P=        0.17 E=        1.32
+
+HAA - May 16 1983 22:01:14 - guest1/haa
+
+LP P=        0.17 E=        2.30
+C  P=        0.11 E=        2.36
+M  P=        0.17 E=        2.26
+
+HAA - May 16 1983 22:03:15 - guest1/haa
+
+LP P=        0.21 E=        2.52
+C  P=        0.13 E=        2.32
+M  P=        0.18 E=        1.30
+
+HAA - May 16 1983 22:05:25 - guest1/haa
+
+LP P=        0.18 E=        2.30
+C  P=        0.11 E=        3.14
+M  P=        0.17 E=        1.38
+
+HAA - May 16 1983 22:08:39 - guest1/haa
+
+LP P=        0.18 E=        2.48
+C  P=        0.11 E=        2.32
+M  P=        0.18 E=        1.54
+
+HAA - May 16 1983 22:13:05 - guest1/haa
+
+LP P=        0.20 E=        5.32
+C  P=        0.16 E=        3.42
+M  P=        0.20 E=        2.22
+
+HAA - May 16 1983 22:15:04 - guest1/haa
+
+LP P=        0.19 E=        4.02
+C  P=        0.14 E=        3.04
+M  P=        0.22 E=        3.38
+
+HAA - May 16 1983 22:18:39 - guest1/haa
+
+LP P=        0.21 E=        5.30
+C  P=        0.13 E=        4.50
+M  P=        0.23 E=        3.12
+
+HAA - May 17 1983 21:16:51 - guest1/haa
+
+LP P=        0.16 E=        3.38
+C  P=        0.08 E=        5.08
+M  P=        0.08 E=        2.52
+
+HAA - May 17 1983 21:19:56 - guest1/haa
+
+LP P=        0.17 E=        4.56
+C  P=        0.10 E=        7.22
+M  P=        0.16 E=        2.28
+
+HAA - May 17 1983 21:21:22 - guest1/haa
+
+LP P=        0.17 E=        5.08
+C  P=        0.10 E=        3.24
+M  P=        0.17 E=        5.16
+
+HAA - May 17 1983 21:24:16 - guest1/haa
+
+LP P=        0.18 E=        4.06
+C  P=        0.10 E=        4.36
+M  P=        0.16 E=        6.56
+
+HAA - May 17 1983 21:29:22 - guest1/haa
+
+LP P=        0.17 E=        4.06
+C  P=        0.11 E=        3.56
+M  P=        0.17 E=        2.50
+
+HAA - May 17 1983 21:36:58 - guest1/haa
+
+LP P=        0.18 E=        3.46
+C  P=        0.10 E=        4.12
+M  P=        0.18 E=        4.38
+
+HAA - May 17 1983 21:39:18 - guest1/haa
+
+LP P=        0.18 E=        4.10
+C  P=        0.11 E=        4.26
+M  P=        0.17 E=        3.44
+
+HAA - May 17 1983 22:01:46 - guest1/haa
+
+LP P=        0.18 E=        5.56
+C  P=        0.12 E=        4.10
+M  P=        0.18 E=        3.04
+
+JWJ - Jun  2 1983 08:17:37 - jwj/c
+
+LP P=        0.16 E=        4.42
+C  P=        0.09 E=        4.36
+
+JWJ - Jun  2 1983 08:19:42 - jwj/foo
+
+LP P=        0.12 E=        4.24
+C  P=        0.07 E=        4.32
+M  P=        0.11 E=        2.52
+
+JWJ - Jun  2 1983 08:25:26 - jwj/foo
+
+LP P=        0.10 E=        3.46
+C  P=        0.04 E=        3.56
+M  P=        0.06 E=        2.26
+
+JWJ - Jun  2 1983 08:36:10 - jwj/foo
+
+LP P=        0.12 E=        3.46
+C  P=        0.07 E=        4.38
+M  P=        0.07 E=        2.28
+
+JWJ - Jun  2 1983 08:38:47 - jwj/foo
+
+LP P=        0.10 E=        3.52
+C  P=        0.05 E=        4.10
+M  P=        0.09 E=        2.40
+
+JWJ - Jun  2 1983 08:40:42 - jwj/foo
+
+LP P=        0.09 E=        3.34
+C  P=        0.04 E=        3.28
+M  P=        0.08 E=        2.38
+
+JWJ - Jun  2 1983 08:43:08 - jwj/foo
+
+LP P=        0.08 E=        4.10
+C  P=        0.05 E=        3.56
+M  P=        0.07 E=        2.32
+
+JWJ - Jun  2 1983 08:45:45 - jwj/foo
+
+LP P=        0.08 E=        3.52
+C  P=        0.04 E=        3.32
+M  P=        0.08 E=        2.28
+
+JWJ - Jun  2 1983 14:16:25 - jwj/foo
+
+LP P=        0.30 E=        4.18
+C  P=        0.07 E=        4.34
+M  P=        0.08 E=        3.02
+
+JWJ - Jun  2 1983 14:19:54 - jwj/foo
+
+LP P=        0.13 E=        3.48
+C  P=        0.07 E=        3.58
+M  P=        0.06 E=        2.28
+
+JWJ - Jun  2 1983 14:21:30 - jwj/foo
+
+LP P=        0.12 E=        4.10
+C  P=        0.07 E=        3.46
+M  P=        0.07 E=        2.26
+
+JWJ - Jun  2 1983 14:22:57 - jwj/foo
+
+LP P=        0.13 E=        2.54
+C  P=        0.07 E=        2.28
+M  P=        0.06 E=        2.14
+
+JWJ - Jun  2 1983 14:29:48 - jwj/foo
+
+LP P=        0.14 E=        4.12
+C  P=        0.07 E=        4.00
+M  P=        0.07 E=        2.34
+
+JWJ - Jun  2 1983 14:30:59 - jwj/foo
+
+LP P=        0.13 E=        3.30
+C  P=        0.07 E=        2.42
+M  P=        0.06 E=        2.36
+
+JWJ - Jun  2 1983 14:32:22 - jwj/foobaz
+
+LP P=        0.14 E=        4.22
+C  P=        0.08 E=        3.34
+M  P=        0.10 E=        3.40
+
+JWJ - Jun  2 1983 14:34:20 - jwj/foobaz
+
+LP P=        0.12 E=        3.08
+
+JWJ - Jun  2 1983 14:35:08 - jwj/foobaz
+
+LP P=        0.11 E=        2.38
+
+JWJ - Jun  2 1983 14:35:36 - jwj/foobaz
+
+LP P=        0.11 E=        2.42
+
+JWJ - Jun  2 1983 14:36:02 - jwj/foobaz
+
+LP P=        0.11 E=        2.32
+
+JWJ - Jun  2 1983 14:36:24 - jwj/foo
+
+LP P=        0.12 E=        2.12
+
+JWJ - Jun  2 1983 15:18:00 - jwj/foo
+
+LP P=        0.12 E=        2.48
+
+JWJ - Jun  2 1983 15:22:09 - jwj/foobaz
+
+LP P=        0.12 E=        2.46
+
+JWJ - Jun  2 1983 15:23:49 - jwj/foobaz
+
+LP P=        0.09 E=        2.42
+
+JWJ - Jun  2 1983 15:26:16 - jwj/foo
+
+LP P=        0.17 E=        4.18
+C  P=        0.07 E=        3.52
+M  P=        0.09 E=        2.40
+
+JWJ - Jun  2 1983 15:27:29 - jwj/goobaz
+
+LP P=        0.13 E=        2.56
+
+JWJ - Jun  2 1983 15:28:16 - jwj/foo
+
+LP P=        0.17 E=        4.22
+C  P=        0.07 E=        4.12
+M  P=        0.09 E=        2.34
+
+JWJ - Jun  2 1983 15:30:34 - jwj/goo
+
+LP P=        0.08 E=        2.20
+
+JWJ - Jun  2 1983 15:31:26 - jwj/goo
+
+LP P=        0.10 E=        1.52
+
+JWJ - Jun  2 1983 15:32:19 - jwj/hoo
+
+LP P=        0.10 E=        2.38
+
+JWJ - Jun  3 1983 07:54:17 - jwj/hi
+
+LP P=        0.10 E=        2.36
+C  P=        0.06 E=        2.28
+M  P=        0.08 E=        1.26
+
+JWJ - Jun  3 1983 08:34:03 - jwj/foobar
+
+LP P=        0.13 E=        2.30
+
+JWJ - Jun  3 1983 08:35:37 - jwj/foobar
+
+LP P=        0.12 E=        1.52
+
+JWJ - Jun  3 1983 08:36:20 - jwj/foobar
+
+LP P=        0.14 E=       19.34
+C  P=        0.09 E=        7.18
+M  P=        0.11 E=        2.22
+
+JWJ - Jun  3 1983 08:46:40 - jwj/foobar
+
+LP P=        0.08 E=        1.58
+C  P=        0.04 E=        2.16
+M  P=        0.05 E=        1.16
+
+JWJ - Jun  3 1983 08:47:53 - jwj/foobar
+
+LP P=        0.10 E=        2.06
+C  P=        0.04 E=        2.26
+M  P=        0.05 E=        1.18
+
+SLB - Jun  4 1983 09:19:24 - users8/slb
+
+LP P=        0.16 E=        2.26
+
+SLB - Jun  4 1983 09:21:17 - users8/slb.c
+
+LP P=        0.12 E=        2.34
+C  P=        0.05 E=        2.28
+M  P=        0.08 E=        1.16
+
+SLB - Jun  4 1983 09:21:52 - users8/foo
+
+LP P=        0.14 E=        3.28
+
+SLB - Jun  4 1983 09:25:13 - users8/slb
+
+LP P=        0.13 E=        2.40
+
+SLB - Jun  4 1983 09:39:00 - users8/slb
+
+LP P=        0.14 E=        2.52
+C  P=        0.07 E=        2.40
+M  P=        0.08 E=        1.18
+
+SLB - Jun  4 1983 17:32:29 - users8/slb
+
+LP P=        0.13 E=        4.28
+
+SLB - Jun  4 1983 17:33:37 - users8/slb.c
+
+LP P=        0.14 E=        3.06
+C  P=        0.07 E=        4.02
+M  P=        0.08 E=        2.40
+
+GERST - Jul 14 1983 12:05:44 - gerst/b
+
+LP P=        0.13 E=        3.10
+
+GERST - Jul 14 1983 12:05:48 - gerst/h
+
+LP P=        0.10 E=        2.12
+
+GERST - Jul 14 1983 12:05:51 - gerst/h
+
+LP P=        0.09 E=        3.44
+
+GERST - Jul 14 1983 12:05:56 - gerst/i
+
+LP P=        0.10 E=        4.04
+
+GERST - Jul 14 1983 12:06:01 - gerst/p
+
+LP P=        0.10 E=        2.24
+
+GERST - Jul 14 1983 12:06:05 - gerst/p
+
+LP P=        0.10 E=        2.38
+
+LOESER - Jul 29 1983 18:24:47 - users7/loeser
+
+LP P=        0.11 E=        3.58
+C  P=        0.05 E=        4.38
+M  P=        0.08 E=        3.18
+
+A2DEH - Aug  5 1983 00:11:25 - guest0/a2deh
+
+LP P=        0.12 E=        5.10
+
+A2DEH - Aug  5 1983 00:11:45 - guest0/a2deh
+
+LP P=        0.15 E=        3.34
+C  P=        0.09 E=        3.50
+M  P=        0.12 E=        2.32
+
+A2DEH - Aug  5 1983 00:14:04 - guest0/a2deh
+
+LP P=        0.16 E=        3.38
+C  P=        0.09 E=        3.40
+M  P=        0.13 E=        2.40
+
+A2DEH - Aug  5 1983 00:14:59 - guest0/a2deh
+
+LP P=        0.13 E=        2.58
+C  P=        0.07 E=        2.34
+M  P=        0.15 E=        2.20
+
+A2DEH - Aug  5 1983 00:16:23 - guest0/a2deh
+
+LP P=        0.15 E=        4.28
+C  P=        0.07 E=        3.26
+M  P=        0.13 E=        3.28
+
+A2DEH - Aug  5 1983 00:26:33 - guest0/a2deh
+
+LP P=        0.14 E=        3.50
+C  P=        0.07 E=        3.36
+M  P=        0.12 E=        3.06
+
+BENOR - Aug  5 1983 14:19:31 - tocstu/mbo
+
+LP P=        0.15 E=        4.18
+
+BENOR - Aug 11 1983 15:22:12 - tocstu/mbo
+
+LP P=        0.12 E=        4.32
+
+BENOR - Aug 11 1983 15:37:02 - users0/benor
+
+LP P=        0.14 E=        5.46
+
+BENOR - Aug 11 1983 15:37:45 - users0/benor
+
+LP P=        0.18 E=        3.14
+
+BENOR - Aug 11 1983 15:38:09 - users0/benor
+
+LP P=        0.14 E=        3.44
+
+SHAWN - Aug 11 1983 22:17:43 - guest4/shawn
+
+LP P=        0.16 E=        3.46
+
+SHAWN - Aug 11 1983 22:23:10 - guest4/shawn
+
+LP P=        0.11 E=        3.16
+
+SHAWN - Aug 11 1983 22:26:12 - guest4/shawn
+
+LP P=        0.14 E=        3.48
+
+SHAWN - Aug 11 1983 22:26:29 - guest4/shawn
+
+LP P=        0.12 E=        2.36
+
+SHAWN - Aug 11 1983 22:26:47 - guest4/shawn
+
+LP P=        0.08 E=        1.46
+
+PMS - Aug 25 1983 22:40:46 - guest4/echo
+
+LP P=        0.16 E=        2.32
+C  P=        0.11 E=        2.56
+
+PMS - Aug 25 1983 22:42:24 - guest4/echo
+
+LP P=        0.17 E=        2.52
+C  P=        0.10 E=        2.52
+M  P=        0.12 E=        1.50
+
+PMS - Aug 25 1983 22:44:36 - guest4/echo
+
+LP P=        0.19 E=        2.42
+C  P=        0.11 E=        2.34
+M  P=        0.13 E=        1.20
+
+PMS - Aug 25 1983 22:46:40 - guest4/echo
+
+LP P=        0.14 E=        2.06
+C  P=        0.07 E=        2.28
+M  P=        0.06 E=        1.14
+
+PMS - Aug 25 1983 22:47:00 - guest4/echo
+
+LP P=        0.19 E=        1.42
+C  P=        0.11 E=        1.34
+M  P=        0.13 E=        1.14
+
+PMS - Aug 25 1983 22:48:46 - guest4/echo
+
+LP P=        0.14 E=        2.24
+C  P=        0.07 E=        3.38
+M  P=        0.06 E=        1.16
+
+PMS - Aug 25 1983 23:04:39 - guest4/echo
+
+LP P=        0.10 E=        2.18
+
+PMS - Aug 25 1983 23:05:08 - guest4/echo
+
+LP P=        0.20 E=        1.48
+
+___051 - Sep 15 1983 17:12:41 - guest4/shawn
+
+LP P=        0.14 E=        3.14
+
+___051 - Sep 15 1983 17:17:17 - guest4/shawn
+
+LP P=        0.11 E=        2.28
+
+MP - Sep 15 1983 17:18:50 - guest4/shawn
+
+LP P=        0.13 E=        1.40
+
+MP - Sep 15 1983 17:19:47 - guest4/shawn
+
+LP P=        0.11 E=        3.26
+
+MP - Sep 15 1983 17:20:38 - .temp./foo
+
+LP P=        0.20 E=        3.38
+
+MP - Sep 15 1983 17:21:17 - guest4/shawn
+
+LP P=        0.13 E=        2.48
+
+MP - Sep 15 1983 17:21:55 - guest4/shawn
+
+LP P=        0.11 E=        1.44
+
+MP - Sep 15 1983 17:22:14 - guest4/shawn
+
+LP P=        0.15 E=        1.46
+
+MP - Sep 15 1983 17:22:34 - guest4/shawn
+
+LP P=        0.11 E=        1.44
+
+MP - Sep 15 1983 17:22:56 - guest4/shawn
+
+LP P=        0.13 E=        1.44
+
+___012 - Sep 15 1983 17:25:14 - guest4/shawn
+
+LP P=        0.08 E=        1.30
+
+___012 - Sep 15 1983 17:26:27 - guest4/shawn
+
+LP P=        0.08 E=        0.56
+
+___012 - Sep 15 1983 17:27:15 - guest4/shawn
+
+LP P=        0.08 E=        1.36
+
+___012 - Sep 15 1983 17:27:38 - guest4/shawn
+
+LP P=        0.22 E=        2.16
+C  P=        0.14 E=        3.40
+M  P=        0.20 E=        1.52
+
+___012 - Sep 15 1983 17:28:52 - guest4/shawn
+
+LP P=        0.22 E=        1.56
+C  P=        0.14 E=        1.22
+M  P=        0.19 E=        1.40
+
+BRUC - Sep 21 1983 05:52:34 - users0/bruc
+
+LP P=        0.13 E=        2.54
+
+BRUC - Sep 21 1983 05:53:04 - users0/bruc
+
+LP P=        0.08 E=        6.56
+
+BRUC - Sep 21 1983 05:53:58 - users0/bruc
+
+LP P=        0.10 E=        0.56
+
+BRUC - Sep 21 1983 05:56:33 - users0/bruc
+
+LP P=        0.17 E=        2.34
+C  P=        0.07 E=        2.30
+M  P=        0.09 E=        1.16
+
+BRUC - Sep 21 1983 06:00:58 - users0/bruc
+
+LP P=        0.08 E=        1.30
+
+BRUC - Sep 21 1983 06:01:50 - users0/bruc
+
+LP P=        0.10 E=        1.06
+
+BRUC - Sep 21 1983 06:10:23 - users0/bruc
+
+LP P=        0.08 E=        1.34
+
+SULLIV - Sep 27 1983 07:32:49 - users9/sulliv
+
+LP P=        0.09 E=        3.44
+
+SULLIV - Sep 27 1983 07:36:18 - users9/sulliv
+
+LP P=        1.09 E=        5.30
+
+SULLIV - Sep 27 1983 07:38:47 - users9/sulliv
+
+LP P=        1.15 E=        5.22
+
+SULLIV - Sep 27 1983 07:40:17 - users9/sulliv
+
+LP P=        1.14 E=        3.36
+
+SULLIV - Sep 27 1983 07:41:10 - users9/sulliv
+
+LP P=        1.26 E=        7.00
+
+SULLIV - Sep 27 1983 07:47:37 - users9/sulliv
+
+LP P=        1.16 E=        4.50
+C  P=        1.18 E=        5.46
+M  P=        2.10 E=        5.36
+
+SULLIV - Sep 27 1983 07:51:11 - users9/sulliv
+
+LP P=        1.28 E=        5.36
+C  P=        1.26 E=        5.56
+M  P=        2.06 E=        4.50
+
+SULLIV - Sep 27 1983 21:49:30 - c/c
+
+LP P=        0.14 E=        4.50
+
+SULLIV - Sep 27 1983 21:50:26 - c/c10std
+
+LP P=        0.09 E=        2.34
+
+SULLIV - Sep 27 1983 21:53:52 - users9/c10std
+
+LP P=        1.45 E=        4.46
+C  P=        1.07 E=        4.42
+M  P=        2.25 E=        5.06
+
+SULLIV - Sep 27 1983 21:55:04 - users9/sulliv
+
+LP P=        1.24 E=        3.48
+C  P=        1.25 E=        3.18
+M  P=        2.10 E=        4.00
+
+EBM - Sep 28 1983 19:06:02 - users9/sulliv
+
+LP P=        1.17 E=        3.10
+C  P=        1.13 E=        6.44
+M  P=        1.52 E=        2.48
+
+EBM - Sep 28 1983 19:08:30 - c/c10std
+
+LP P=        0.10 E=        2.22
+
+EBM - Sep 28 1983 19:15:04 - c/c
+
+LP P=        0.15 E=        2.34
+
+EBM - Sep 28 1983 19:15:19 - c/c10std
+
+LP P=        1.52 E=        3.22
+C  P=        1.06 E=        9.34
+M  P=        2.20 E=        5.52
+
+EBM - Sep 28 1983 19:20:18 - users9/sulliv
+
+LP P=        1.17 E=        5.10
+C  P=        1.21 E=        6.28
+M  P=        1.56 E=        8.20
+
+SULLIV - Sep 30 1983 00:32:07 - users9/sulliv
+
+LP P=        1.17 E=        4.38
+C  P=        1.14 E=        4.32
+M  P=        2.00 E=        4.56
+
+SULLIV - Sep 30 1983 01:16:29 - users9/sulliv
+
+LP P=        1.24 E=        4.20
+
+SULLIV - Sep 30 1983 04:10:04 - users9/sulliv
+
+LP P=        1.34 E=        5.48
+C  P=        1.41 E=        6.24
+M  P=        2.22 E=        5.26
+
+SULLIV - Sep 30 1983 05:20:15 - users9/sulliv
+
+LP P=        1.35 E=        5.32
+C  P=        1.25 E=        5.06
+M  P=        2.31 E=        5.08
+
+SULLIV - Sep 30 1983 07:10:51 - users9/sulliv
+
+LP P=        1.43 E=        5.08
+C  P=        1.50 E=        7.22
+M  P=        2.41 E=        5.02
+
+SULLIV - Sep 30 1983 19:30:36 - users9/sulliv
+
+LP P=        1.34 E=        3.46
+C  P=        1.58 E=        5.16
+M  P=        2.53 E=        7.14
+
+KFL - Sep 30 1983 20:27:10 - guest2/kfl
+
+LP P=        0.14 E=        2.34
+
+KFL - Sep 30 1983 20:29:47 - guest2/kfl
+
+LP P=        0.14 E=        2.10
+
+KFL - Sep 30 1983 20:30:26 - guest2/kfl
+
+LP P=        0.14 E=        2.28
+
+KFL - Sep 30 1983 20:30:49 - guest2/kfl
+
+LP P=        0.22 E=        2.52
+
+KFL - Sep 30 1983 23:00:38 - guest2/kfl
+
+LP P=        0.21 E=        3.40
+
+KFL - Sep 30 1983 23:03:56 - guest2/kfl
+
+LP P=        0.20 E=        4.00
+
+KFL - Oct  1 1983 22:57:08 - guest2/kfl
+
+LP P=        0.16 E=        2.20
+
+KFL - Oct  1 1983 22:59:39 - guest2/kfl
+
+LP P=        0.16 E=        2.32
+C  P=        0.09 E=        2.28
+M  P=        0.14 E=        1.26
+
+SULLIV - Oct  2 1983 22:54:23 - users9/sulliv
+
+LP P=        1.30 E=        4.34
+
+SULLIV - Oct  2 1983 22:57:08 - users9/sulliv
+
+LP P=        1.23 E=        5.02
+C  P=        1.26 E=        4.34
+M  P=        2.18 E=        3.56
+
+SULLIV - Oct  2 1983 23:41:05 - users9/sulliv
+
+LP P=        1.20 E=        4.10
+C  P=        1.11 E=        3.48
+M  P=        2.13 E=        4.38
+
+SULLIV - Oct  2 1983 23:51:26 - users9/sulliv
+
+LP P=        1.25 E=        3.30
+C  P=        1.39 E=        4.40
+M  P=        2.27 E=        5.02
+
+SULLIV - Oct  2 1983 23:55:32 - users9/sulliv
+
+LP P=        1.27 E=        4.12
+C  P=        1.21 E=        4.24
+M  P=        2.25 E=        4.16
+
+SULLIV - Oct  3 1983 00:06:08 - users9/sulliv
+
+LP P=        1.23 E=        4.04
+C  P=        1.12 E=        4.12
+M  P=        2.15 E=        4.34
+
+KFL - Oct  3 1983 23:40:29 - guest2/kfl
+
+LP P=        0.12 E=        3.14
+C  P=        0.07 E=        3.00
+M  P=        0.10 E=        1.34
+
+SULLIV - Oct 19 1983 03:26:38 - medg/sulliv
+
+LP P=        1.14 E=        4.18
+
+SULLIV - Oct 19 1983 03:28:10 - medg/sulliv
+
+LP P=        1.15 E=        4.00
+
+SULLIV - Oct 19 1983 04:36:41 - medg/sulliv
+
+LP P=        1.06 E=        3.28
+C  P=        0.53 E=        3.58
+M  P=        1.35 E=        3.12
+
+SULLIV - Oct 19 1983 15:27:43 - medg/sulliv
+
+LP P=        0.22 E=        3.48
+
+SULLIV - Oct 19 1983 15:29:09 - medg/sulliv
+
+LP P=        0.20 E=        3.08
+C  P=        0.15 E=        3.08
+M  P=        0.22 E=        2.56
+
+SULLIV - Oct 19 1983 15:41:13 - medg/sulliv
+
+LP P=        0.21 E=        2.52
+C  P=        0.15 E=        2.38
+M  P=        0.20 E=        1.40
+
+SULLIV - Oct 21 1983 14:17:55 - medg/sulliv
+
+LP P=        1.16 E=        4.00
+
+SULLIV - Oct 21 1983 14:19:05 - medg/sulliv
+
+LP P=        1.26 E=        3.46
+
+SULLIV - Oct 21 1983 14:27:44 - medg/sulliv
+
+LP P=        1.27 E=        4.48
+
+SULLIV - Oct 22 1983 16:37:12 - medg/sulliv
+
+LP P=        1.30 E=        4.32
+C  P=        1.14 E=        6.32
+M  P=        1.41 E=        3.34
+
+SULLIV - Oct 22 1983 17:50:25 - medg/sulliv
+
+LP P=        1.23 E=        4.00
+
+SULLIV - Oct 22 1983 17:51:47 - medg/sulliv
+
+LP P=        1.20 E=        4.16
+C  P=        1.03 E=        4.18
+M  P=        1.43 E=        3.32
+
+SULLIV - Oct 22 1983 17:56:39 - medg/sulliv
+
+LP P=        1.22 E=        3.58
+C  P=        1.04 E=        5.00
+M  P=        1.44 E=        3.40
+
+SULLIV - Oct 22 1983 18:01:30 - medg/sulliv
+
+LP P=        1.20 E=        4.02
+C  P=        1.06 E=        5.04
+M  P=        1.41 E=        3.26
+
+SULLIV - Oct 22 1983 18:03:45 - medg/sulliv
+
+LP P=        1.23 E=        4.54
+C  P=        1.08 E=        4.20
+M  P=        1.42 E=        3.30
+
+SULLIV - Oct 22 1983 18:07:30 - medg/sulliv
+
+LP P=        1.21 E=        4.06
+C  P=        1.04 E=        6.48
+M  P=        1.45 E=        4.00
+
+SULLIV - Oct 22 1983 18:21:28 - medg/sulliv
+
+LP P=        1.24 E=        4.00
+
+SULLIV - Oct 22 1983 18:22:07 - medg/sulliv
+
+LP P=        1.22 E=        3.20
+C  P=        1.10 E=        5.14
+M  P=        1.42 E=        3.46
+
+SULLIV - Oct 24 1983 12:34:54 - medg/sulliv
+
+LP P=        1.11 E=        5.18
+
+SULLIV - Oct 24 1983 12:41:42 - medg/sulliv
+
+LP P=        1.23 E=        8.44
+C  P=        1.08 E=        6.48
+M  P=        1.46 E=       11.26
+
+SULLIV - Oct 24 1983 18:59:51 - medg/sulliv
+
+LP P=        1.30 E=        5.42
+
+SULLIV - Oct 24 1983 19:02:21 - medg/sulliv
+
+LP P=        1.22 E=        4.58
+C  P=        1.12 E=        6.18
+M  P=        1.44 E=       11.12
+
+SULLIV - Oct 24 1983 19:04:10 - medg/sulliv
+
+LP P=        1.15 E=        4.02
+C  P=        1.06 E=        5.18
+M  P=        1.39 E=        8.58
+
+SULLIV - Oct 24 1983 19:59:11 - medg/sulliv
+
+LP P=        1.25 E=        4.46
+C  P=        1.10 E=        5.54
+M  P=        1.41 E=        4.04
+
+SULLIV - Oct 24 1983 20:15:42 - medg/sulliv
+
+LP P=        1.21 E=        5.26
+C  P=        1.01 E=        6.20
+M  P=        1.41 E=        5.42
+
+SULLIV - Oct 24 1983 20:18:16 - medg/sulliv
+
+LP P=        1.17 E=        8.18
+C  P=        0.58 E=       14.30
+M  P=        1.44 E=       13.38
+
+SULLIV - Nov 18 1983 09:55:40 - medg/mx
+
+LP P=        2.29 E=        7.44
+
+SULLIV - Nov 18 1983 09:58:14 - medg/mx
+
+LP P=        2.39 E=        5.32
+
+SULLIV - Nov 18 1983 10:03:59 - medg/mx
+
+LP P=        2.36 E=        6.06
+
+SULLIV - Nov 18 1983 10:09:24 - medg/mx
+
+LP P=        2.40 E=        8.10
+
+SULLIV - Nov 18 1983 10:10:43 - medg/mx
+
+LP P=        2.37 E=        5.14
+C  P=        3.15 E=        6.22
+M  P=        4.19 E=        6.20
+
+SDMAIN - Nov 20 1983 00:55:53 - guest4/sdmain
+
+LP P=        0.15 E=        2.28
+
+SDMAIN - Nov 20 1983 00:55:56 - guest4/test
+
+LP P=        0.11 E=        1.56
+
+SDMAIN - Nov 20 1983 00:56:17 - guest4/sdmain
+
+LP P=        0.07 E=        0.56
+
+SDMAIN - Nov 20 1983 00:56:24 - guest4/sdmain
+
+LP P=        0.10 E=        1.02
+
+SULLIV - Nov 21 1983 19:17:47 - medg/mx
+
+LP P=        2.43 E=        6.00
+C  P=        2.48 E=       10.32
+M  P=        4.24 E=       10.34
+
+SULLIV - Nov 21 1983 19:29:45 - medg/mx
+
+LP P=        2.42 E=        6.02
+C  P=        3.17 E=        7.06
+M  P=        4.26 E=        7.22
+
+SHAWN - Dec 29 1983 19:42:43 - guest4/ar
+
+LP P=        0.10 E=        1.44
+
+SHAWN - Dec 29 1983 19:44:25 - guest4/ar
+
+LP P=        0.13 E=        1.44
+
+SHAWN - Dec 29 1983 19:46:05 - guest4/ar
+
+LP P=        0.08 E=        1.30
+
+SHAWN - Dec 29 1983 19:46:23 - guest4/ar
+
+LP P=        0.08 E=        1.02
+
+SHAWN - Dec 29 1983 19:47:52 - guest4/ar
+
+LP P=        0.28 E=        2.58
+
+SHAWN - Dec 29 1983 21:09:34 - guest4/ar
+
+LP P=        0.27 E=        3.36
+C  P=        0.20 E=        4.34
+M  P=        0.27 E=        2.46
+
+SHAWN - Dec 29 1983 21:10:57 - guest4/ar
+
+LP P=        0.10 E=        2.40
+C  P=        0.05 E=        2.44
+M  P=        0.08 E=        1.34
+
+SHAWN - Dec 29 1983 21:11:56 - guest4/ar
+
+LP P=        0.29 E=        2.36
+
+SHAWN - Dec 29 1983 21:12:12 - guest4/ar
+
+LP P=        0.29 E=        3.26
+
+SHAWN - Dec 29 1983 21:12:49 - guest4/ar
+
+LP P=        0.30 E=        3.14
+
+SHAWN - Dec 29 1983 21:14:01 - guest4/ar
+
+LP P=        0.28 E=        1.46
+
+SHAWN - Dec 29 1983 21:15:36 - guest4/ar
+
+LP P=        0.27 E=        3.16
+C  P=        0.20 E=        3.44
+M  P=        0.27 E=        2.30
+
+SHAWN - Dec 29 1983 21:19:55 - guest4/ar
+
+LP P=        0.28 E=        3.12
+C  P=        0.19 E=        3.34
+M  P=        0.28 E=        2.40
+
+SHAWN - Dec 29 1983 21:24:12 - guest4/ar
+
+LP P=        0.30 E=        3.16
+C  P=        0.19 E=        3.54
+M  P=        0.26 E=        3.14
+
+SHAWN - Dec 29 1983 21:25:42 - guest4/ar
+
+LP P=        0.25 E=        4.02
+
+SHAWN - Dec 29 1983 21:26:33 - guest4/ar
+
+LP P=        0.27 E=        3.22
+C  P=        0.19 E=        3.36
+M  P=        0.26 E=        2.24
+
+SHAWN - Dec 29 1983 21:31:11 - guest4/ar
+
+LP P=        0.28 E=        2.22
+C  P=        0.19 E=        2.44
+M  P=        0.27 E=        3.00
+
+SHAWN - Dec 29 1983 21:39:17 - guest4/ar
+
+LP P=        0.29 E=        3.24
+C  P=        0.20 E=        3.20
+M  P=        0.27 E=        2.40
+
+SHAWN - Dec 29 1983 21:44:00 - guest4/ar
+
+LP P=        0.29 E=        3.00
+C  P=        0.18 E=        2.42
+M  P=        0.27 E=        2.28
+
+SHAWN - Dec 29 1983 21:45:41 - guest4/ar
+
+LP P=        0.27 E=        3.10
+C  P=        0.16 E=        3.18
+M  P=        0.27 E=        2.48
+
+A2DEH - Jan 19 1984 00:44:18 - guest0/a2deh
+
+LP P=        0.12 E=        3.56
+C  P=        0.06 E=        3.58
+M  P=        0.11 E=        3.28
+
+TLTUNG - Jan 29 1984 19:53:24 - users9/tltung
+
+LP P=        0.10 E=        4.18
+
+TLTUNG - Jan 29 1984 19:55:06 - users9/tltung
+
+LP P=        0.11 E=        1.40
+C  P=        0.05 E=        2.26
+M  P=        0.07 E=        1.52
+
+TLTUNG - Jan 29 1984 19:56:21 - users9/tltung
+
+LP P=        0.11 E=        3.58
+C  P=        0.05 E=        4.18
+M  P=        0.07 E=        2.38
+
+TLTUNG - Jan 29 1984 19:59:01 - users9/tltung
+
+LP P=        0.13 E=        2.20
+C  P=        0.05 E=        2.42
+M  P=        0.07 E=        1.22
+
+TLTUNG - Jan 29 1984 20:00:41 - users9/tltung
+
+LP P=        0.08 E=        2.22
+
+TLTUNG - Jan 29 1984 20:01:27 - users9/tltung
+
+LP P=        0.14 E=        2.16
+C  P=        0.05 E=        2.24
+M  P=        0.08 E=        1.28
+
+TLTUNG - Jan 29 1984 20:11:38 - users9/tltung
+
+LP P=        0.16 E=        2.20
+C  P=        0.07 E=        2.38
+M  P=        0.08 E=        1.28
+
+TLTUNG - Jan 29 1984 20:38:32 - users9/tltung
+
+LP P=        0.07 E=        1.42
+
+TLTUNG - Jan 29 1984 20:39:21 - users9/tltung
+
+LP P=        0.07 E=        1.04
+
+TLTUNG - Jan 29 1984 20:39:50 - users9/tltung
+
+LP P=        0.23 E=        2.56
+C  P=        0.07 E=        2.40
+M  P=        0.08 E=        1.20
+
+TLTUNG - Jan 29 1984 20:44:24 - users9/tltung
+
+LP P=        0.08 E=        1.36
+
+TLTUNG - Jan 29 1984 20:45:13 - users9/tltung
+
+LP P=        0.08 E=        1.00
+
+TLTUNG - Jan 29 1984 20:49:57 - users9/tltung
+
+LP P=        0.19 E=        2.46
+
+TLTUNG - Jan 29 1984 20:50:43 - users9/tltung
+
+LP P=        0.25 E=        2.20
+C  P=        0.07 E=        3.06
+M  P=        0.09 E=        1.36
+
+TLTUNG - Jan 29 1984 20:51:40 - users9/tltung
+
+LP P=        0.21 E=        3.02
+C  P=        0.05 E=        2.34
+M  P=        0.09 E=        1.28
+
+TLTUNG - Jan 29 1984 20:52:28 - users9/tltung
+
+LP P=        0.21 E=        2.18
+C  P=        0.05 E=        2.02
+M  P=        0.09 E=        1.04
+
+TLTUNG - Jan 29 1984 21:01:37 - users9/tltung
+
+LP P=        0.25 E=        2.42
+C  P=        0.07 E=        3.00
+M  P=        0.09 E=        1.24
+
+TLTUNG - Jan 29 1984 21:09:41 - users9/tltung
+
+LP P=        0.27 E=        2.54
+
+TLTUNG - Jan 29 1984 21:14:03 - users9/tltung
+
+LP P=        0.27 E=        2.48
+
+TLTUNG - Jan 29 1984 21:18:24 - users9/tltung
+
+LP P=        0.29 E=        3.14
+
+TLTUNG - Jan 29 1984 21:19:26 - users9/tltung
+
+LP P=        0.27 E=        2.10
+
+TLTUNG - Jan 29 1984 21:21:06 - users9/tltung
+
+LP P=        0.25 E=        2.18
+C  P=        0.09 E=        3.30
+
+TLTUNG - Jan 29 1984 21:23:39 - users9/tltung
+
+LP P=        0.26 E=        3.00
+C  P=        0.09 E=        3.04
+M  P=        0.16 E=        1.44
+
+SULLIV - Feb  5 1984 01:33:44 - medg/sulliv
+
+LP P=        2.52 E=        7.58
+
+SULLIV - Feb  5 1984 16:34:46 - medg/sulliv
+
+LP P=        2.49 E=        7.00
+C  P=        3.08 E=        8.08
+M  P=        4.34 E=        7.38
+
+SULLIV - Feb  5 1984 23:26:59 - medg/sulliv
+
+LP P=        2.59 E=        8.56
+C  P=        2.55 E=        7.42
+M  P=        4.37 E=        7.06
+
+SULLIV - Feb  5 1984 23:32:03 - medg/sulliv
+
+LP P=        2.52 E=        6.26
+C  P=        3.38 E=        7.52
+M  P=        4.44 E=        7.20
+
+BGL - Feb 19 1984 16:11:55 - bgl/physic
+
+LP P=        0.11 E=        2.50
+
+BGL - Feb 19 1984 16:12:47 - bgl/physic
+
+LP P=        0.14 E=        2.16
+
+BGL - Feb 19 1984 16:13:59 - bgl/physic
+
+LP P=        0.10 E=        3.08
+
+BGL - Feb 19 1984 16:15:02 - bgl/physic
+
+LP P=        0.11 E=        4.28
+
+BGL - Feb 19 1984 16:16:09 - bgl/physic
+
+LP P=        0.11 E=        4.06
+
+BGL - Feb 19 1984 16:17:11 - bgl/physic
+
+LP P=        0.13 E=        4.30
+
+BGL - Feb 19 1984 16:50:58 - bgl/physic
+
+LP P=        0.07 E=        3.32
+
+BGL - Feb 19 1984 17:00:11 - bgl/physic
+
+LP P=        0.12 E=        4.12
+
+BGL - Feb 19 1984 17:04:48 - bgl/physic
+
+LP P=        0.13 E=        3.16
+
+BGL - Feb 19 1984 17:06:08 - bgl/physic
+
+LP P=        0.33 E=        3.52
+
+MACRAK - Apr  8 1984 22:43:36 - macrak/arith
+
+LP P=        0.19 E=        2.54
+
+MACRAK - Apr  8 1984 22:45:19 - macrak/arith
+
+LP P=        0.20 E=        2.28
+
+MACRAK - Apr  8 1984 22:46:10 - macrak/arith
+
+LP P=        0.18 E=        2.22
+
+MACRAK - Apr  8 1984 22:48:05 - macrak/arith
+
+LP P=        0.18 E=        3.08
+
+MACRAK - Apr  8 1984 22:48:37 - macrak/arith
+
+LP P=        0.18 E=        2.06
+
+MACRAK - Apr  8 1984 22:53:52 - macrak/arith
+
+LP P=        0.18 E=        3.34
+
+MACRAK - Apr  8 1984 22:56:16 - macrak/arith
+
+LP P=        0.22 E=        2.50
+
+MACRAK - Apr  8 1984 23:00:17 - macrak/arith
+
+LP P=        0.17 E=        2.38
+C  P=        0.09 E=        3.02
+M  P=        0.13 E=        1.40
+
+MACRAK - Apr  8 1984 23:01:19 - macrak/arith (s)
+
+LP P=        0.09 E=        2.24
+C  P=        0.05 E=        2.22
+M  P=        0.06 E=        1.30
+
+MACRAK - Apr  8 1984 23:02:00 - macrak/arith (c)
+
+LP P=        0.10 E=        3.00
+C  P=        0.07 E=        2.14
+M  P=        0.06 E=        2.10
+
+MACRAK - Apr  8 1984 23:03:29 - macrak/arith (g)
+
+LP P=        0.11 E=        2.24
+
+MACRAK - Apr  8 1984 23:04:01 - macrak/arith (g)
+
+LP P=        0.17 E=        1.44
+C  P=        0.09 E=        2.58
+M  P=        0.13 E=        1.22
+
+MBECK - Apr 14 1984 18:58:07 - guest3/mbeck
+
+LP P=        0.08 E=        2.24
+
+MBECK - Apr 14 1984 18:58:32 - guest3/mbeck
+
+LP P=        0.15 E=        2.12
+
+COLE - Apr 29 1984 13:45:21 - guest0/*
+
+LP P=        0.16 E=        2.54
+
+COLE - Apr 29 1984 13:45:25 - guest0/6
+
+LP P=        0.11 E=        1.44
+
+MBECK - May  9 1984 23:37:55 - guest3/mbeck
+
+LP P=        0.14 E=        4.22
+
+MBECK - May  9 1984 23:39:06 - guest3/mbeck
+
+LP P=        0.14 E=        1.40
+
+MBECK - May  9 1984 23:39:29 - guest3/mbeck
+
+LP P=        0.14 E=        1.44
+
+LOESER - May 15 1984 23:52:42 - users7/foo
+
+LP P=        0.12 E=        2.12
+
+LOESER - May 15 1984 23:54:00 - users7/loeser
+
+LP P=        0.10 E=        2.28
+
+COLE - May 19 1984 20:28:17 - guest0/cole
+
+LP P=        0.12 E=        2.24
+
+COLE - May 19 1984 20:28:36 - guest0/cole
+
+LP P=        0.14 E=        1.32
+
+COLE - May 19 1984 20:29:36 - guest0/cole
+
+LP P=        0.11 E=        3.12
+
+COLE - May 19 1984 20:30:07 - guest0/cole
+
+LP P=        0.14 E=        2.06
+
+COLE - May 19 1984 20:30:32 - guest0/br
+
+LP P=        0.12 E=        1.42
+
+COLE - May 19 1984 20:30:35 - guest0/ts
+
+LP P=        0.12 E=        1.46
+
+COLE - May 19 1984 20:42:17 - guest0/cole
+
+LP P=        0.12 E=        2.32
+
+COLE - May 20 1984 17:58:09 - guest0/cole
+
+LP P=        0.12 E=        2.26
+C  P=        0.05 E=        2.30
+M  P=        0.07 E=        2.28
+
+COLE - May 20 1984 18:06:12 - guest0/1
+
+LP P=        0.13 E=       10.36
+
+COLE - May 20 1984 18:07:38 - guest0/cole
+
+LP P=        0.12 E=        2.50
+C  P=        0.05 E=        3.36
+M  P=        0.07 E=        2.38
+
+COLE - May 20 1984 18:17:58 - guest0/cole
+
+LP P=        0.14 E=        2.18
+
+COLE - May 20 1984 18:20:14 - guest0/cole
+
+LP P=        0.12 E=        4.06
+
+COLE - May 20 1984 18:20:27 - guest0/cole
+
+LP P=        0.12 E=        1.56
+
+SULLIV - May 24 1984 20:51:12 - medg/sulliv
+
+LP P=        2.23 E=        5.22
+
+SULLIV - May 24 1984 20:52:24 - medg/sulliv
+
+LP P=        0.13 E=        3.12
+
+SULLIV - May 24 1984 20:53:00 - medg/sulliv
+
+LP P=        0.12 E=        1.54
+
+SULLIV - May 24 1984 20:53:36 - medg/sulliv
+
+LP P=        0.12 E=        3.22
+
+SULLIV - May 24 1984 20:54:28 - medg/prettc
+
+LP P=        2.26 E=        7.28
+
+SULLIV - May 24 1984 20:57:16 - medg/prettc
+
+LP P=        2.17 E=       10.32
+
+SULLIV - May 24 1984 20:57:33 - medg/prettc
+
+LP P=        2.19 E=       10.28
+
+SULLIV - May 27 1984 17:39:36 - medg/sulliv
+
+LP P=        0.16 E=        3.48
+
+SULLIV - May 27 1984 17:39:51 - medg/sulliv
+
+LP P=        2.24 E=        7.28
+C  P=        2.45 E=        7.48
+M  P=        3.52 E=       14.04
+
+SULLIV - May 27 1984 18:16:14 - medg/sulliv
+
+LP P=        2.14 E=        5.48
+C  P=        2.51 E=        7.30
+M  P=        3.52 E=        6.36
+
+SULLIV - May 27 1984 18:20:35 - medg/sulliv
+
+LP P=        2.10 E=        6.16
+
+SULLIV - May 27 1984 18:34:31 - medg/sulliv
+
+LP P=        2.17 E=        5.28
+
+SULLIV - May 27 1984 18:35:40 - medg/sulliv
+
+LP P=        2.14 E=        6.20
+C  P=        2.14 E=       10.26
+M  P=        3.25 E=        6.36
+
+SULLIV - May 27 1984 20:57:50 - medg/sulliv
+
+LP P=        2.16 E=        5.56
+C  P=        2.28 E=        7.28
+M  P=        3.34 E=        8.00
+
+SULLIV - May 27 1984 21:11:00 - medg/sulliv
+
+LP P=        2.07 E=        6.32
+C  P=        2.23 E=       13.06
+M  P=        3.44 E=        9.58
+
+SULLIV - May 27 1984 21:33:41 - medg/sulliv
+
+LP P=        0.10 E=        1.28
+
+SULLIV - May 27 1984 21:37:11 - medg/sulliv
+
+LP P=        0.11 E=        2.40
+
+SULLIV - May 27 1984 21:38:52 - medg/sulliv
+
+LP P=        0.10 E=        1.44
+
+SULLIV - May 27 1984 21:39:32 - medg/sulliv
+
+LP P=        0.11 E=        2.50
+
+SULLIV - May 27 1984 21:41:36 - medg/sulliv
+
+LP P=        0.11 E=        2.38
+
+SULLIV - May 27 1984 21:42:13 - medg/sulliv
+
+LP P=        0.11 E=        1.46
+
+SULLIV - May 27 1984 21:47:31 - medg/sulliv
+
+LP P=        0.10 E=        2.56
+
+SULLIV - May 27 1984 21:52:15 - medg/sulliv
+
+LP P=        0.11 E=        1.42
+
+SULLIV - May 27 1984 21:54:49 - medg/sulliv
+
+LP P=        0.11 E=        2.54
+
+SULLIV - May 27 1984 21:55:09 - medg/sulliv
+
+LP P=        0.12 E=        2.04
+
+SULLIV - May 27 1984 21:57:57 - medg/sulliv
+
+LP P=        0.10 E=        2.18
+
+SULLIV - May 27 1984 21:58:16 - medg/sulliv
+
+LP P=        0.11 E=        1.16
+
+SULLIV - May 27 1984 21:58:31 - medg/sulliv
+
+LP P=        0.11 E=        2.00
+
+SULLIV - May 27 1984 22:01:27 - medg/sulliv
+
+LP P=        0.11 E=        1.46
+
+SULLIV - May 27 1984 22:55:44 - medg/sulliv
+
+LP P=        0.11 E=        1.24
+
+SULLIV - May 27 1984 23:01:44 - medg/sulliv
+
+LP P=        0.10 E=        1.32
+
+SULLIV - May 28 1984 21:00:07 - medg/sulliv
+
+LP P=        2.28 E=       14.48
+
+SULLIV - May 28 1984 21:38:27 - medg/sulliv
+
+LP P=        2.10 E=        5.04
+
+SULLIV - May 28 1984 21:40:52 - medg/sulliv
+
+LP P=        2.21 E=        7.38
+C  P=        2.24 E=        5.48
+M  P=        3.53 E=        7.04
+
+SULLIV - May 29 1984 03:01:13 - medg/sulliv
+
+LP P=        2.23 E=        6.56
+
+SULLIV - May 29 1984 03:02:45 - medg/sulliv
+
+LP P=        2.25 E=        6.40
+C  P=        2.35 E=        7.16
+M  P=        3.51 E=        7.16
+
+SULLIV - Jun  1 1984 06:05:19 - medg/sulliv
+
+LP P=        2.33 E=        5.30
+C  P=        2.52 E=        6.42
+M  P=        3.55 E=        8.12
+
+SULLIV - Jun  1 1984 06:08:53 - medg/sulliv
+
+LP P=        2.35 E=        5.28
+C  P=        2.48 E=        5.58
+M  P=        3.57 E=        6.54
+
+SULLIV - Jun  2 1984 21:06:23 - medg/sulliv
+
+LP P=        2.26 E=        5.22
+C  P=        2.42 E=        6.34
+M  P=        0.07 E=        1.18
+
+SULLIV - Jun  2 1984 21:10:30 - medg/sulliv
+
+LP P=        2.23 E=        5.02
+C  P=        2.34 E=        5.46
+M  P=        3.54 E=        5.58
+
+SULLIV - Jun  2 1984 21:22:31 - medg/sulliv
+
+LP P=        2.27 E=        5.48
+C  P=        2.49 E=        6.00
+M  P=        3.48 E=        5.50
+
+SULLIV - Jun  2 1984 21:26:21 - medg/sulliv
+
+LP P=        2.27 E=        5.32
+C  P=        2.43 E=        5.54
+M  P=        3.48 E=        5.52
+
+SULLIV - Jun  3 1984 02:39:36 - medg/sulliv
+
+LP P=        2.41 E=        6.52
+C  P=        2.46 E=        6.56
+M  P=        3.55 E=        7.10
+
+SULLIV - Jun  3 1984 02:41:34 - medg/sulliv
+
+LP P=        2.28 E=        5.26
+C  P=        2.52 E=        8.06
+M  P=        3.54 E=       15.56
+
+SULLIV - Jun  3 1984 02:50:16 - medg/sulliv
+
+LP P=        2.22 E=        5.10
+C  P=        2.30 E=        5.42
+M  P=        3.52 E=        6.02
+
+SULLIV - Jun 16 1984 04:56:38 - sulliv/autopr
+
+LP P=        2.17 E=        5.30
+C  P=        2.20 E=        4.58
+M  P=        3.39 E=        5.30
+
+SULLIV - Jul  2 1984 17:17:10 - sulliv/trkdis
+
+LP P=        0.06 E=        1.28
+
+SULLIV - Jul  2 1984 17:18:29 - sulliv/trkdis
+
+LP P=        0.07 E=        2.34
+
+SULLIV - Jul  3 1984 21:37:35 - sulliv/infopr
+
+LP P=        2.04 E=        6.26
+C  P=        2.21 E=        5.42
+M  P=        3.44 E=        6.40
+
+SULLIV - Jul  3 1984 21:38:38 - sulliv/infopr
+
+LP P=        0.08 E=        3.54
+C  P=        0.04 E=        3.44
+M  P=        0.05 E=        2.40
+
+COLE - Jul  6 1984 20:34:53 - guest0/cole
+
+LP P=        0.07 E=        1.28
+
+COLE - Jul  6 1984 20:36:55 - guest0/cole
+
+LP P=        0.14 E=        2.12
+C  P=        0.06 E=        3.00
+M  P=        0.10 E=        1.24
+
+SULLIV - Jul  9 1984 11:00:44 - sulliv/trkdis
+
+LP P=        0.07 E=        2.10
+
+SULLIV - Jul  9 1984 11:01:07 - sulliv/trkdis
+
+LP P=        0.07 E=        1.14
+
+SULLIV - Jul  9 1984 15:32:10 - sulliv/sac
+
+LP P=        0.07 E=        2.48
+
+SULLIV - Jul  9 1984 16:17:38 - sulliv/sac
+
+LP P=        0.07 E=        2.46
+
+SULLIV - Jul 10 1984 09:55:19 - sulliv/sac
+
+LP P=        0.36 E=        4.04
+
+SULLIV - Jul 10 1984 10:02:49 - sulliv/includ
+
+LP P=        0.33 E=        3.20
+
+SULLIV - Jul 10 1984 11:32:57 - sulliv/print
+
+LP P=        0.36 E=        3.32
+
+SULLIV - Jul 10 1984 12:42:36 - sulliv/ext
+
+LP P=        0.17 E=        3.00
+
+JALB - Jul 12 1984 03:18:45 - guest2/jalb
+
+LP P=        0.07 E=        1.38
+
+SULLIV - Jul 13 1984 15:27:11 - sulliv/sac (c)
+
+LP P=        0.34 E=        5.04
+
+SULLIV - Jul 13 1984 15:27:55 - sulliv/ext (c)
+
+LP P=        0.17 E=        3.16
+
+SULLIV - Jul 13 1984 15:32:22 - sulliv/ext (c)
+
+LP P=        0.16 E=        3.10
+
+SULLIV - Jul 13 1984 15:33:09 - sulliv/includ (c)
+
+LP P=        0.34 E=        4.46
+
+SULLIV - Jul 13 1984 15:33:15 - sulliv/sac (c)
+
+LP P=        1.02 E=        7.36
+
+SULLIV - Jul 13 1984 15:34:51 - sulliv/com
+
+LP P=        0.34 E=        4.10
+
+SULLIV - Jul 13 1984 15:35:09 - sulliv/ch
+
+LP P=        0.07 E=        1.08
+
+SULLIV - Jul 13 1984 15:36:11 - sulliv/ch (c)
+
+LP P=        0.38 E=        3.12
+
+SULLIV - Jul 13 1984 15:36:56 - sulliv/ch
+
+LP P=        0.39 E=        3.36
+
+SULLIV - Jul 16 1984 16:23:39 - sulliv/sac (c)
+
+LP P=        1.03 E=        4.18
+
+SULLIV - Jul 16 1984 16:24:34 - sulliv/com (c)
+
+LP P=        0.33 E=        4.30
+
+SULLIV - Jul 16 1984 16:24:57 - sulliv/trkdis (c)
+
+LP P=        1.55 E=        7.14
+
+SULLIV - Jul 17 1984 16:33:32 - sulliv/sac
+
+LP P=        1.03 E=        5.56
+
+SULLIV - Jul 19 1984 11:46:05 - sulliv/ext (c)
+
+LP P=        0.18 E=        3.36
+
+SULLIV - Jul 19 1984 11:47:30 - sulliv/sac (c)
+
+LP P=        0.36 E=        3.58
+
+SULLIV - Jul 19 1984 11:54:11 - sulliv/ext (c)
+
+LP P=        0.17 E=        3.30
+
+SULLIV - Jul 19 1984 15:11:12 - sulliv/sac (c)
+
+LP P=        0.37 E=        4.34
+
+SULLIV - Jul 19 1984 15:11:46 - sulliv/ext (c)
+
+LP P=        0.18 E=        2.54
+
+SULLIV - Jul 19 1984 15:15:53 - sulliv/includ (c)
+
+LP P=        0.36 E=        3.56
+
+SULLIV - Jul 19 1984 15:18:51 - sulliv/ext (c)
+
+LP P=        0.17 E=        3.36
+
+SULLIV - Jul 19 1984 15:19:07 - sulliv/dis (c)
+
+LP P=        0.12 E=        1.50
+C  P=        0.04 E=        2.14
+M  P=        0.06 E=        1.20
+
+SULLIV - Jul 19 1984 15:20:09 - sulliv/tek (c)
+
+LP P=        0.12 E=        1.34
+C  P=        0.04 E=        1.16
+M  P=        0.06 E=        1.52
+
+SULLIV - Jul 19 1984 15:21:19 - sulliv/typedf (c)
+
+LP P=        0.13 E=        2.50
+
+SULLIV - Jul 19 1984 15:23:32 - sulliv/includ (c)
+
+LP P=        0.33 E=        3.14
+
+SULLIV - Jul 19 1984 20:07:49 - sulliv/ext (c)
+
+LP P=        0.17 E=        8.56
+
+SULLIV - Jul 19 1984 20:08:16 - sulliv/ext (c)
+
+LP P=        0.17 E=        2.22
+
+SULLIV - Jul 19 1984 20:08:19 - sulliv/typedf (c)
+
+LP P=        0.14 E=        2.18
+
+SULLIV - Jul 19 1984 20:10:13 - sulliv/ext (c)
+
+LP P=        0.16 E=        2.30
+C  P=        0.04 E=        2.32
+M  P=        0.09 E=        1.26
+
+SULLIV - Jul 20 1984 10:57:52 - sulliv/ext (c)
+
+LP P=        0.16 E=        2.38
+C  P=        0.04 E=        2.58
+M  P=        0.08 E=        1.42
+
+SULLIV - Jul 24 1984 01:25:28 - sulliv/sac
+
+LP P=        0.08 E=        2.06
+
+SULLIV - Jul 24 1984 11:07:20 - sulliv/com (c)
+
+LP P=        0.32 E=        3.44
+
+RENAUD - Jul 26 1984 06:49:21 - guest4/acm
+
+LP P=        0.08 E=        1.36
+
+SULLIV - Jul 26 1984 13:23:34 - sulliv/ext (c)
+
+LP P=        0.19 E=        3.02
+C  P=        0.05 E=        3.02
+M  P=        0.09 E=        1.30
+
+SULLIV - Jul 27 1984 11:08:32 - sulliv/com (c)
+
+LP P=        0.39 E=        3.40
+
+SULLIV - Jul 27 1984 11:29:47 - sulliv/com (c)
+
+LP P=        0.39 E=        3.38
+
+SULLIV - Jul 27 1984 17:03:38 - sulliv/ext (c)
+
+LP P=        0.19 E=        2.28
+C  P=        0.05 E=        3.06
+M  P=        0.09 E=        1.30
+
+SULLIV - Jul 27 1984 17:17:58 - sulliv/ext (c)
+
+LP P=        0.19 E=        2.38
+C  P=        0.05 E=        2.50
+M  P=        0.09 E=        1.30
+
+COLE - Jul 30 1984 20:18:45 - guest0/test
+
+LP P=        0.10 E=        2.32
+
+COLE - Jul 30 1984 20:24:37 - guest0/test
+
+LP P=        0.24 E=        4.16
+C  P=        0.12 E=        4.26
+M  P=        0.22 E=        2.52
+
+COLE - Jul 30 1984 20:27:46 - guest0/test
+
+LP P=        0.12 E=        3.22
+C  P=        0.04 E=        3.56
+M  P=        0.08 E=        2.40
+
+COLE - Jul 30 1984 20:28:47 - guest0/test
+
+LP P=        0.12 E=        3.26
+C  P=        0.04 E=        4.04
+M  P=        0.08 E=        2.22
+
+COLE - Jul 30 1984 20:59:13 - guest0/test
+
+LP P=        0.12 E=        3.18
+C  P=        0.04 E=        3.50
+M  P=        0.08 E=        2.36
+
+COLE - Jul 30 1984 21:19:25 - guest0/test
+
+LP P=        0.12 E=        3.26
+C  P=        0.05 E=        4.00
+M  P=        0.06 E=        2.32
+
+COLE - Jul 30 1984 21:31:46 - guest0/test2
+
+LP P=        0.14 E=        4.42
+C  P=        0.07 E=        3.54
+M  P=        0.07 E=        2.54
+
+COLE - Jul 30 1984 21:34:51 - guest0/test2
+
+LP P=        0.15 E=        3.28
+C  P=        0.07 E=        4.00
+M  P=        0.06 E=        2.34
+
+SULLIV - Aug  1 1984 14:47:30 - sulliv/trkdis (c)
+
+LP P=        0.39 E=        4.16
+
+SULLIV - Aug  2 1984 16:20:02 - sulliv/ext (c)
+
+LP P=        0.19 E=        2.54
+C  P=        0.05 E=        3.10
+M  P=        0.09 E=        1.26
+
+SULLIV - Aug  3 1984 13:38:00 - sulliv/trkdis (c)
+
+LP P=        0.39 E=        4.32
+
+MAP - Aug  8 1984 15:14:28 - users5/8080c
+
+LP P=        0.08 E=        5.26
+
+MAP - Aug  8 1984 15:18:28 - users5/itsc
+
+LP P=        8.35 E=     1:23.12
+
+MAP - Aug  9 1984 00:49:25 - users5/itsc
+
+LP P=        0.08 E=       12.28
+
+MAP - Aug  9 1984 00:54:48 - users5/itsc
+
+LP P=        0.08 E=        4.10
+
+MAP - Aug  9 1984 00:55:41 - users5/map
+
+LP P=        0.08 E=        2.10
+
+MAP - Aug  9 1984 01:16:27 - users5/map
+
+LP P=        0.05 E=        2.04
+
+MAP - Aug  9 1984 02:11:00 - users5/map
+
+LP P=        9.09 E=       22.42
+C  P=        8.52 E=       25.26
+M  P=       16.50 E=       50.08
+
+MAP - Aug  9 1984 02:31:38 - users5/map
+
+LP P=        8.33 E=       21.56
+C  P=        8.56 E=       31.52
+M  P=        0.08 E=        3.50
+
+MAP - Aug  9 1984 02:34:03 - users5/map
+
+LP P=        8.40 E=       37.16
+C  P=        9.04 E=       29.16
+M  P=       16.31 E=     1:01.18
+
+MAP - Aug  9 1984 03:05:30 - users5/map
+
+LP P=        8.56 E=       30.38
+
+MAP - Aug  9 1984 03:07:57 - users5/map
+
+LP P=        8.53 E=       40.32
+C  P=        9.24 E=       47.22
+M  P=       16.00 E=     1:08.32
+
+MAP - Aug  9 1984 03:54:20 - users5/map
+
+LP P=        0.10 E=        2.08
+
+MAP - Aug  9 1984 04:02:55 - users5/map
+
+LP P=        8.51 E=       20.28
+C  P=        9.14 E=       21.48
+M  P=       16.19 E=       35.16
+
+MAP - Aug 10 1984 16:37:41 - users5/map
+
+LP P=        7.53 E=       28.26
+C  P=        8.38 E=       18.12
+M  P=       16.12 E=       27.10
+
+MAP - Aug 10 1984 16:54:55 - users5/map
+
+LP P=        7.46 E=       12.00
+
+MAP - Aug 10 1984 16:55:36 - users5/map
+
+LP P=        7.59 E=       20.48
+C  P=        8.20 E=       18.22
+M  P=        0.08 E=        1.14
+
+MAP - Aug 10 1984 16:58:23 - users5/map
+
+LP P=        7.45 E=       11.58
+C  P=        7.39 E=       14.38
+M  P=       15.59 E=       20.08
+
+MAP - Aug 11 1984 00:42:18 - users5/map
+
+LP P=        8.21 E=       11.26
+
+MAP - Aug 11 1984 00:47:27 - users5/map
+
+LP P=        8.28 E=       12.36
+C  P=        9.37 E=       15.00
+M  P=        0.08 E=        1.12
+
+MAP - Aug 11 1984 00:51:43 - users5/map
+
+LP P=        8.31 E=       11.48
+C  P=        8.34 E=       12.16
+M  P=       16.05 E=       18.26
+
+MAP - Aug 11 1984 23:30:46 - users5/map
+
+LP P=        8.52 E=       55.08
+C  P=        8.48 E=       52.24
+M  P=       16.31 E=     1:50.10
+
+KLOTZ - Aug 31 1984 02:15:26 - klotz/down
+
+LP P=        0.07 E=        1.40
+
+KLOTZ - Aug 31 1984 02:15:40 - klotz/down
+
+LP P=        0.07 E=        0.58
+
+KLOTZ - Aug 31 1984 02:16:34 - klotz/down
+
+LP P=        0.07 E=        0.58
+
+MWT - Nov 17 1984 01:19:47 - users7/mwt
+
+LP P=        0.15 E=        2.42
+
+MWT - Nov 17 1984 01:20:42 - users7/mwt
+
+LP P=        0.11 E=        1.34
+
+MWT - Nov 17 1984 01:27:53 - users7/mwt
+
+LP P=        0.11 E=        3.00
+
+MWT - Nov 17 1984 01:31:33 - users7/mwt
+
+LP P=        0.15 E=        3.20
+
+MWT - Nov 17 1984 01:35:47 - users7/mwt
+
+LP P=        0.12 E=        2.38
+
+MWT - Nov 17 1984 01:38:23 - users7/mwt
+
+LP P=        0.13 E=        2.22
+
+MWT - Nov 17 1984 01:52:28 - users7/mwt (g)
+
+LP P=        0.11 E=        2.28
+
+MWT - Nov 17 1984 01:52:56 - users7/mwt (g)
+
+LP P=        0.13 E=        1.44
+
+MWT - Nov 17 1984 01:54:51 - users7/mwt (g)
+
+LP P=        0.11 E=        2.28
+
+MWT - Nov 17 1984 02:00:22 - users7/mwtpuz
+
+LP P=        0.17 E=        2.32
+
+MWT - Nov 17 1984 02:01:00 - users7/mwtpuz
+
+LP P=        0.18 E=        1.46
+C  P=        0.07 E=        3.02
+M  P=        0.12 E=        1.18
+
+MWT - Nov 17 1984 02:01:36 - users7/mwtpuz
+
+LP P=        0.18 E=        1.56
+C  P=        0.06 E=        2.02
+M  P=        0.13 E=        1.08
+
+CCH - Dec 26 1984 04:21:57 - guest0/*
+
+LP P=        0.15 E=        3.46
+
+CCH - Dec 26 1984 04:22:03 - guest0/*
+
+LP P=        0.11 E=        2.56
+
+CCH - Dec 26 1984 04:22:33 - guest0/cch
+
+LP P=        0.14 E=        3.34
+
+CCH - Dec 26 1984 04:37:14 - guest0/cch
+
+LP P=        0.14 E=        3.36
+
+JIMH - Dec 26 1984 15:58:12 - medg/jimhft
+
+LP P=        0.08 E=        1.50
+
+JIMH - Dec 26 1984 16:14:36 - medg/jimhft
+
+LP P=        0.10 E=        1.52
+
+JIMH - Dec 26 1984 16:15:49 - medg/jimhft
+
+LP P=        0.16 E=        3.14
+
+JIMH - Dec 26 1984 16:18:35 - medg/jimhft
+
+LP P=        0.12 E=        2.32
+
+JIMH - Dec 26 1984 16:28:58 - medg/jimhft
+
+LP P=        0.20 E=        2.56
+
+JIMH - Dec 26 1984 16:31:21 - medg/jimhft
+
+LP P=        1.25 E=        6.52
+
+KLOTZ - Dec 31 1984 01:10:04 - klotz/tohex
+
+LP P=        0.06 E=        1.48
+
+GSB - Feb  1 1985 02:15:25 - gsb/smut
+
+LP P=        0.07 E=        2.22
+
+BOYACK - Mar 25 1985 21:09:18 - boyack/test
+
+LP P=        0.10 E=        3.38
+
+BOYACK - Mar 25 1985 21:10:25 - boyack/test
+
+LP P=        0.10 E=        3.04
+
+BOYACK - Mar 25 1985 21:11:25 - boyack/test
+
+LP P=        0.10 E=        4.00
+
+BOYACK - Mar 25 1985 21:12:54 - boyack/test
+
+LP P=        0.09 E=        3.54
+
+BOYACK - Mar 25 1985 21:14:20 - boyack/test
+
+LP P=        0.08 E=        3.14
+C  P=        0.05 E=        3.38
+M  P=        0.07 E=        2.38
+
+MASON - May 13 1985 22:54:41 - guest3/mason
+
+LP P=        0.16 E=        2.54
+
+BOYACK - Jun  1 1985 10:28:51 - boyack/hello
+
+LP P=        0.06 E=        1.28
+
+BOYACK - Jun  4 1985 09:03:01 - boyack/hello
+
+LP P=        0.06 E=        1.34
+
+BOYACK - Jun  4 1985 09:04:12 - boyack/hello
+
+LP P=        0.06 E=        0.56
+
+BOYACK - Jun  4 1985 09:05:11 - boyack/hello
+
+LP P=        0.06 E=        1.34
+
+BOYACK - Jun  4 1985 09:06:05 - boyack/hello
+
+LP P=        0.13 E=        1.40
+C  P=        0.05 E=        2.14
+M  P=        0.07 E=        1.14
+
+SULLIV - Jun  5 1985 23:04:58 - sulliv/infopr
+
+LP P=        2.02 E=        5.12
+C  P=        2.15 E=        4.16
+M  P=        3.39 E=        5.44
+
+BOYACK - Jun  7 1985 09:31:01 - boyack/hello
+
+LP P=        0.08 E=        2.08
+C  P=        0.04 E=        1.48
+M  P=        0.05 E=        1.12
+
+SHUNLI - Jul 26 1985 22:00:43 - kong/sub
+
+LP P=        0.07 E=        1.38
+
+SHUNLI - Jul 26 1985 22:01:40 - kong/sub
+
+LP P=        0.13 E=        2.56
+C  P=        0.06 E=        2.56
+M  P=        0.09 E=        1.38
+
+ALAN5 - Jul 26 1985 22:42:47 - kong/sub
+
+LP P=        0.10 E=        2.42
+
+ALAN5 - Jul 26 1985 22:43:07 - kong/sub
+
+LP P=        0.10 E=        1.28
+C  P=        0.06 E=        2.16
+M  P=        0.09 E=        1.14
+
+SHUNLI - Jul 26 1985 23:25:10 - kong/sub (g)
+
+LP P=        0.11 E=        2.32
+C  P=        0.06 E=        2.22
+M  P=        0.09 E=        1.20
+
+STEVEH - Aug 11 1985 03:07:28 - armte/test
+
+LP P=        0.10 E=        2.32
+
+STEVEH - Aug 11 1985 03:14:31 - armte/steveh
+
+LP P=        0.11 E=        2.54
+
+STEVEH - Aug 11 1985 03:15:51 - armte/test
+
+LP P=        0.11 E=        2.46
+
+STEVEH - Aug 11 1985 03:16:18 - armte/test
+
+LP P=        0.11 E=        2.02
+
+KFL - Sep  1 1985 15:36:02 - guest2/kfl
+
+LP P=        0.11 E=        2.12
+
+KFL - Sep  1 1985 15:37:43 - guest2/kfl
+
+LP P=        0.13 E=        2.18
+
+KFL - Sep  1 1985 15:38:31 - guest2/kfl
+
+LP P=        0.13 E=        1.36
+
+KFL - Sep  1 1985 15:39:19 - guest2/kfl
+
+LP P=        0.07 E=        1.44
+
+KFL - Sep  1 1985 15:40:08 - guest2/kfl
+
+LP P=        0.07 E=        1.06
+
+KFL - Sep  1 1985 15:40:37 - guest2/kfl
+
+LP P=        0.57 E=        2.24
+C  P=        1.13 E=        3.40
+M  P=        1.41 E=        3.24
+
+MASON0 - Sep 23 1985 03:37:07 - guest3/foo
+
+LP P=        0.12 E=        2.24
+C  P=        0.06 E=        2.00
+M  P=        0.09 E=        1.14
+
+MASON0 - Sep 23 1985 03:41:43 - guest3/foo
+
+LP P=        0.11 E=        2.02
+C  P=        0.04 E=        1.52
+M  P=        0.05 E=        1.08
+
+MASON0 - Sep 23 1985 03:42:06 - guest3/foo
+
+LP P=        0.11 E=        1.20
+C  P=        0.06 E=        1.30
+M  P=        0.06 E=        1.02
+
+MASON0 - Sep 23 1985 03:43:50 - guest3/foo
+
+LP P=        0.09 E=        2.00
+C  P=        0.04 E=        1.54
+M  P=        0.05 E=        1.06
+
+TPB - Oct  6 1985 04:12:46 - guest5/test.c
+
+LP P=        0.13 E=        2.14
+C  P=        0.05 E=        1.58
+M  P=        0.07 E=        1.12
+
+SRA - Nov 18 1985 20:16:16 - users3/makdom (c)
+
+LP P=        0.18 E=        3.54
+
+LITWIN - Dec 21 1985 17:21:20 - guest3/game
+
+LP P=        0.15 E=        2.18
+
+LITWIN - Dec 21 1985 17:24:29 - users6/game
+
+LP P=        0.11 E=        2.40
+
+GJC - Dec 28 1985 10:19:34 - gjc/crypt
+
+LP P=        2.03 E=        4.08
+
+GJC - Dec 28 1985 10:19:43 - gjc/crypt
+
+LP P=        2.04 E=        3.48
+
+HENRIK - Jan 20 1986 19:53:45 - gsb1/hello.
+
+LP P=        0.10 E=        1.32
+
+HENRIK - Jan 20 1986 19:53:57 - gsb1/hello.
+
+LP P=        0.10 E=        0.56
+
+HENRIK - Jan 20 1986 19:54:43 - gsb1/hello
+
+LP P=        0.10 E=        1.22
+
+MACRAK - Apr  7 1986 17:23:32 - macrak/dhry
+
+LP P=        0.42 E=        2.54
+
+MACRAK - Apr  7 1986 17:26:45 - macrak/dhry
+
+LP P=        0.42 E=        3.06
+
+MACRAK - Apr  7 1986 17:32:08 - macrak/dhry
+
+LP P=        0.42 E=        3.28
